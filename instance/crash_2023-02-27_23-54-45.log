@@ -1,0 +1,175 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles\crash_2023-02-27_23-54-45.log started at 27.02. 23:56:33
+
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:56:33
+[Object::GetMaxHealth] :: [Land_Wreck_sed01_aban2_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:57:05
+[Object::GetMaxHealth] :: [Land_Wreck_sed01_aban1_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:57:37
+[Object::GetMaxHealth] :: [Land_Wreck_hb01_aban2_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:57:38
+[Object::GetMaxHealth] :: [Land_Wreck_hb01_aban1_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:58:45
+[Object::GetMaxHealth] :: [Land_Wreck_Volha_Police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items 
+
+
+------------------------------------
+EPSILON-SERVER, 28.02 2023 00:38:30
+NULL pointer to instance when trying to access variable 'm_Trader_Locked' (Parent instance is null)
+Class:      'ActionDetach'
+Function: 'ActionCondition'
+Stack trace:
+TM/Trader/scripts/4_World/classes\useractionscomponent\actions\interact\actiondetach.c:9
+scripts/4_World/classes\useractionscomponent\actionbase.c:722
+scripts/4_World/classes\useractionscomponent\actionbase.c:739
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:130
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:238
+scripts/4_World/entities\manbase\playerbase.c:2769
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items 
+
+
+------------------------------------
+EPSILON-SERVER, 28.02 2023 00:38:30
+NULL pointer to instance when trying to access variable 'm_Trader_Locked' (Parent instance is null)
+Class:      'ActionDetach'
+Function: 'ActionCondition'
+Stack trace:
+TM/Trader/scripts/4_World/classes\useractionscomponent\actions\interact\actiondetach.c:9
+scripts/4_World/classes\useractionscomponent\actionbase.c:722
+scripts/4_World/classes\useractionscomponent\actionbase.c:739
+scripts/4_World/classes\useractionscomponent\actionmanagerserver.c:290
+scripts/4_World/entities\manbase\playerbase.c:2769
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items 
+
+
+------------------------------------
+EPSILON-SERVER, 28.02 2023 01:19:28
+
+[wpnfsm] ValidateAndRepair Attempting to repair: SKS:012528 - ChamberRepair - SKS_CLO_BU0<21713490> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weaponfsm.c:299
+scripts/4_World/entities\firearms\weaponfsm.c:257
+scripts/4_World/entities\firearms\weaponfsm.c:209
+scripts/4_World/entities\firearms\weaponfsm.c:42
+scripts/3_Game/systems\hfsmbase.c:512
+scripts/3_Game/systems\hfsmbase.c:364
+scripts/4_World/entities\firearms\weapon_base.c:255
+scripts/4_World/systems\inventory\dayzplayerinventory.c:328
+scripts/4_World/entities\dayzplayerimplement.c:862
+scripts/4_World/entities\dayzplayerimplement.c:2024
+scripts/4_World/entities\manbase\playerbase.c:2660
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items 
+
+
+------------------------------------
+EPSILON-SERVER, 28.02 2023 03:41:12
+NULL pointer to instance
+Class:      'ActionPlaceObject'
+Function: 'RemoveTheBasicMapMarker'
+Stack trace:
+BasicTerritories/scripts/4_World/actions\actiondeployobject.c:73
+BasicTerritories/scripts/4_World/actions\actiondeployobject.c:12
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items 
+
+
+------------------------------------
+EPSILON-SERVER, 28.02 2023 03:41:12
+NULL pointer to instance
+Class:      'ActionDeployObject'
+Function: 'RemoveTheBasicMapMarker'
+Stack trace:
+BasicTerritories/scripts/4_World/actions\actiondeployobject.c:73
+BasicTerritories/scripts/4_World/actions\actiondeployobject.c:12
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items 
+
+
+------------------------------------
+EPSILON-SERVER, 28.02 2023 03:41:12
+NULL pointer to instance
+Class:      'ActionDigGardenPlot'
+Function: 'RemoveTheBasicMapMarker'
+Stack trace:
+BasicTerritories/scripts/4_World/actions\actiondeployobject.c:73
+BasicTerritories/scripts/4_World/actions\actiondeployobject.c:12
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items 
+
+
+------------------------------------
+EPSILON-SERVER, 28.02 2023 03:41:17
+NULL pointer to instance
+Class:      'SchanaPartyManagerServer'
+Function: '~SchanaPartyManagerServer'
+Stack trace:
+SchanaModParty/Game/schana_party_manager_server.c:31
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items 
+
+
+------------------------------------
+EPSILON-SERVER, 28.02 2023 03:41:17
+NULL pointer to instance
+Class:      'SchanaPartyMarkerManagerServer'
+Function: '~SchanaPartyMarkerManagerServer'
+Stack trace:
+SchanaModParty/Game/schana_party_marker_manager_server.c:14
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items 
+
+
+------------------------------------
+EPSILON-SERVER, 28.02 2023 03:41:17
+NULL pointer to instance
+Class:      'SchanaPartyBasicMapAPI'
+Function: '~SchanaPartyBasicMapAPI'
+Stack trace:
+SchanaModParty/Game/basicmapintegration\schanapartybasicmapapi.c:45
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items 

@@ -1,0 +1,1378 @@
+
+
+=====================================================================
+== C:\TCAFiles\Users\admin\1\DayZServer_x64.exe
+== "C:\TCAFiles\Users\admin\1\DayZServer_x64.exe" "-ip=192.168.1.90" "-port=2302" "-mod=@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items" "-config=serverdz.cfg" "-bepath=C:\TCAFiles\Users\admin\1\Battleye" "-profiles=C:\TCAFiles\Users\admin\1\instance" "-autoinit" "-noFilePatching"
+=====================================================================
+Exe timestamp: 2023/03/01 02:15:27
+Current time:  2023/03/01 04:10:52
+
+Version 1.20.155814
+ 4:10:52.243 [Inputs] Loading inputs default "bin/constants.xml"
+ 4:10:52.246 [Inputs] Loading inputs default "bin/specific.xml"
+ 4:10:52.247 [Inputs] Loading inputs default "Autorun_Mod/scripts/data/inputs.xml"
+ 4:10:52.247 [Inputs] Loading inputs default "BBP_keybind/data/modded_Inputs.xml"
+ 4:10:52.247 [Inputs] Loading inputs default "SchanaModCompass/Data/Inputs.xml"
+ 4:10:52.247 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+ 4:10:52.248 [Inputs] Loading inputs default "BasicMap/data/Inputs.xml"
+ 4:10:52.248 [Inputs] Loading inputs default "BasicSpawnSelect/data/inputs.xml"
+ 4:10:52.248 [Inputs] Loading inputs default "Notifications/inputs/inputs.xml"
+ 4:10:52.249 [Inputs] Loading inputs default "SchanaModParty/Data/Inputs.xml"
+ 4:10:52.249 !!! [Inputs] Cannot load inputs default "", file does not exist
+ 4:10:52.249 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+ 4:10:52.249 [Inputs] Loading inputs cfg "C:\TCAFiles\Users\admin\1\instance\Users\Survivor\Server.core.xml"
+ 4:10:52.261 [Inputs] Exporting inputs cfg "C:\TCAFiles\Users\admin\1\instance\Users\Survivor\Server.core.xml"
+ 4:11:09.113 [CE][Hive] :: Initializing OFFLINE
+ 4:11:09.113 [StorageDirs] :: Selected storage directory: C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\
+ 4:11:09.113 [CE][Hive] :: Loading core data ... 
+ 4:11:09.121 [CE][CoreData] :: 7 root classes, 18 defaults, 0 updaters...
+ 4:11:12.365 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+ 4:11:12.367 [CE][TypeSetup] :: 505 classes setuped...
+ 4:11:13.277 [CE][RegisterBind] :: 0 classes binded...
+ 4:11:13.277 [CE][RegisterConfig] :: 11201 config classes registered, 0 sub-counters...
+ 4:11:13.277 [CE][Hive] :: Loading map data ... 
+ 4:11:13.284 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+ 4:11:13.350 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.350 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.350 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.350 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.350 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.350 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.350 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.350 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.350 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.350 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.350 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.350 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.350 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.350 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.350 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.350 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.350 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.350 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.350 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.351 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.351 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.351 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.351 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.351 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.351 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.351 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.351 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.351 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.351 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.351 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.351 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.351 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.351 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.351 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.351 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 4:11:13.352 [CE][LoadPrototype] :: loaded 413 prototypes
+ 4:11:13.352   799 containers, 10069 points
+ 4:11:13.352   66 dispatches, 239 proxies
+ 4:11:13.352 !!! [CE][LoadPrototype] 5 groups have no points...
+ 4:11:13.352 [CE][LoadPrototype] :: last group name: Land_Wreck_sed02_aban2_red_DE...
+ 4:11:13.363 [CE][LoadPrototype] :: loaded 0 prototypes
+ 4:11:13.363   55 containers, 232 points
+ 4:11:13.363   0 dispatches, 0 proxies
+ 4:11:13.363 [CE][LoadPrototype] :: last group name: Rail9...
+ 4:11:13.850 [CE][LoadMap] "Group" :: loaded 11699 groups, groups failed: 0, largest group range: 34.2
+ 4:11:13.858 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.2
+ 4:11:14.90 [CE][Links] found 1906 total links between groups, of 11699
+ 4:11:14.90 [CE][LoadClusters] "Cluster" :: Loading files...
+ 4:11:14.300 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+ 4:11:14.521 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+ 4:11:14.743 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+ 4:11:14.966 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+ 4:11:15.55 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17347 instances
+ 4:11:15.63 [CE][Storage] ver:21 stamp:4803, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin"
+ 4:11:15.67 [CE][Storage] ver:21 stamp:4800, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.001"
+ 4:11:15.70 [CE][Storage] ver:21 stamp:4801, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.002"
+ 4:11:15.70 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin".
+ 4:11:15.142 !!! [CE][offlineDB] :: No Shutdown message present.
+ 4:11:15.154 [CE][offlineDB] :: Loaded 47 dynamic events 225 total types.
+ 4:11:15.191 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+ 4:11:15.398 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+ 4:11:15.398 [CE][DE][SPAWNS] :: Total positions: 929
+ 4:11:15.398 [CE][DE][GROUPS] :: Total eventgroups defined: 83, Eventgroups in use: 83
+ 4:11:15.401 [CE][Storage] ver:21 stamp:4803, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin"
+ 4:11:15.405 [CE][Storage] ver:21 stamp:4800, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.001"
+ 4:11:15.408 [CE][Storage] ver:21 stamp:4801, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.002"
+ 4:11:15.408 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin".
+ 4:11:15.408 [CE][DynamicEvent] Load  Events:[47] Primary spawners: 47 Secondary spawners: 4
+ 4:11:15.408 [CE][InfectedRespawner] (PRIArmy) :: Status
+ 4:11:15.408   Zones:30, Unpopulated:0
+ 4:11:15.408   SMin:10, SMax:20
+ 4:11:15.408   DMin:185, DMax:263
+ 4:11:15.408 [CE][InfectedRespawner] (PRIArmyHard) :: Status
+ 4:11:15.408   Zones:15, Unpopulated:0
+ 4:11:15.408   SMin:56, SMax:80
+ 4:11:15.408   DMin:121, DMax:163
+ 4:11:15.408 [CE][InfectedRespawner] (PRICity) :: Status
+ 4:11:15.408   Zones:36, Unpopulated:0
+ 4:11:15.408   SMin:0, SMax:0
+ 4:11:15.408   DMin:162, DMax:249
+ 4:11:15.408 [CE][InfectedRespawner] (PRICityTier1) :: Status
+ 4:11:15.408   Zones:89, Unpopulated:0
+ 4:11:15.408   SMin:0, SMax:0
+ 4:11:15.408   DMin:427, DMax:656
+ 4:11:15.408 [CE][InfectedRespawner] (PRIFirefighter) :: Status
+ 4:11:15.408   Zones:8, Unpopulated:0
+ 4:11:15.408   SMin:0, SMax:0
+ 4:11:15.408   DMin:24, DMax:40
+ 4:11:15.408 [CE][InfectedRespawner] (PRIIndustrial) :: Status
+ 4:11:15.408   Zones:66, Unpopulated:0
+ 4:11:15.408   SMin:0, SMax:0
+ 4:11:15.408   DMin:293, DMax:528
+ 4:11:15.408 [CE][InfectedRespawner] (PRIMedic) :: Status
+ 4:11:15.408   Zones:23, Unpopulated:0
+ 4:11:15.408   SMin:0, SMax:0
+ 4:11:15.408   DMin:69, DMax:115
+ 4:11:15.408 [CE][InfectedRespawner] (PRINBC) :: Status
+ 4:11:15.408   Zones:4, Unpopulated:0
+ 4:11:15.408   SMin:16, SMax:20
+ 4:11:15.408   DMin:7, DMax:14
+ 4:11:15.408 [CE][InfectedRespawner] (PRINBCYellow) :: Zones:0 Respawner Function DISABLED !!!
+ 4:11:15.408 [CE][InfectedRespawner] (PRIPolice) :: Status
+ 4:11:15.408   Zones:21, Unpopulated:0
+ 4:11:15.408   SMin:0, SMax:0
+ 4:11:15.408   DMin:63, DMax:105
+ 4:11:15.408 [CE][InfectedRespawner] (PRIPoliceHard) :: Zones:0 Respawner Function DISABLED !!!
+ 4:11:15.408 [CE][InfectedRespawner] (PRIPrisoner) :: Status
+ 4:11:15.408   Zones:2, Unpopulated:0
+ 4:11:15.408   SMin:0, SMax:0
+ 4:11:15.408   DMin:16, DMax:24
+ 4:11:15.408 [CE][InfectedRespawner] (PRIReligious) :: Status
+ 4:11:15.408   Zones:35, Unpopulated:0
+ 4:11:15.408   SMin:0, SMax:0
+ 4:11:15.408   DMin:41, DMax:112
+ 4:11:15.408 [CE][InfectedRespawner] (PRISanta) :: Zones:0 Respawner Function DISABLED !!!
+ 4:11:15.408 [CE][InfectedRespawner] (PRISolitude) :: Status
+ 4:11:15.408   Zones:153, Unpopulated:0
+ 4:11:15.408   SMin:0, SMax:0
+ 4:11:15.408   DMin:261, DMax:657
+ 4:11:15.409 [CE][InfectedRespawner] (PRIVillage) :: Status
+ 4:11:15.409   Zones:190, Unpopulated:0
+ 4:11:15.409   SMin:0, SMax:0
+ 4:11:15.409   DMin:1014, DMax:1616
+ 4:11:15.409 [CE][InfectedRespawner] (PRIVillageTier1) :: Status
+ 4:11:15.409   Zones:85, Unpopulated:0
+ 4:11:15.409   SMin:0, SMax:0
+ 4:11:15.409   DMin:373, DMax:621
+ 4:11:15.409 [CE][InfectedRespawner] (SECArmy) :: Zones:0 Respawner Function DISABLED !!!
+ 4:11:15.409 [CE][InfectedRespawner] (SECArmy) :: Zones:0 Respawner Function DISABLED !!!
+ 4:11:15.409 [CE][InfectedRespawner] (SECPoliceHard) :: Zones:0 Respawner Function DISABLED !!!
+ 4:11:15.409 [CE][InfectedRespawner] (SECIndustrial) :: Zones:0 Respawner Function DISABLED !!!
+ 4:11:15.413 [CE][Storage] ver:25 stamp:4803, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin"
+ 4:11:15.416 [CE][Storage] ver:25 stamp:4800, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.001"
+ 4:11:15.420 [CE][Storage] ver:25 stamp:4801, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.002"
+ 4:11:15.420 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin" 808 items.
+ 4:11:15.723   808 items loaded. (0 failed)
+ 4:11:15.728 [CE][Storage] ver:25 stamp:4803, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin"
+ 4:11:15.733 [CE][Storage] ver:25 stamp:4800, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.001"
+ 4:11:15.737 [CE][Storage] ver:25 stamp:4801, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.002"
+ 4:11:15.737 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin" 1330 items.
+ 4:11:16.118   1330 items loaded. (0 failed)
+ 4:11:16.124 [CE][Storage] ver:25 stamp:4803, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin"
+ 4:11:16.129 [CE][Storage] ver:25 stamp:4800, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.001"
+ 4:11:16.133 [CE][Storage] ver:25 stamp:4801, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.002"
+ 4:11:16.133 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin" 2263 items.
+ 4:11:16.797   2263 items loaded. (0 failed)
+ 4:11:16.803 [CE][Storage] ver:25 stamp:4803, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin"
+ 4:11:16.807 [CE][Storage] ver:25 stamp:4800, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.001"
+ 4:11:16.812 [CE][Storage] ver:25 stamp:4801, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.002"
+ 4:11:16.812 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin" 1688 items.
+ 4:11:17.283   1688 items loaded. (0 failed)
+ 4:11:17.288 [CE][Storage] ver:25 stamp:4803, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin"
+ 4:11:17.294 [CE][Storage] ver:25 stamp:4800, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.001"
+ 4:11:17.297 [CE][Storage] ver:25 stamp:4801, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.002"
+ 4:11:17.297 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin" 1617 items.
+ 4:11:17.740   1617 items loaded. (0 failed)
+ 4:11:17.747 [CE][Storage] ver:25 stamp:4803, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin"
+ 4:11:17.750 [CE][Storage] ver:25 stamp:4800, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.001"
+ 4:11:17.755 [CE][Storage] ver:25 stamp:4801, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.002"
+ 4:11:17.755 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin" 1827 items.
+ 4:11:18.253   1827 items loaded. (0 failed)
+ 4:11:18.258 [CE][Storage] ver:25 stamp:4803, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin"
+ 4:11:18.262 [CE][Storage] ver:25 stamp:4800, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.001"
+ 4:11:18.266 [CE][Storage] ver:25 stamp:4801, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.002"
+ 4:11:18.266 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin" 1361 items.
+ 4:11:18.652   1361 items loaded. (0 failed)
+ 4:11:18.658 [CE][Storage] ver:25 stamp:4803, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin"
+ 4:11:18.662 [CE][Storage] ver:25 stamp:4800, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.001"
+ 4:11:18.666 [CE][Storage] ver:25 stamp:4801, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.002"
+ 4:11:18.666 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin" 1292 items.
+ 4:11:19.29   1292 items loaded. (0 failed)
+ 4:11:19.36 [CE][Storage] ver:25 stamp:4803, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin"
+ 4:11:19.40 [CE][Storage] ver:25 stamp:4800, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.001"
+ 4:11:19.45 [CE][Storage] ver:25 stamp:4801, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.002"
+ 4:11:19.45 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin" 1879 items.
+ 4:11:19.626   1879 items loaded. (0 failed)
+ 4:11:19.632 [CE][Storage] ver:25 stamp:4803, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin"
+ 4:11:19.637 [CE][Storage] ver:25 stamp:4800, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.001"
+ 4:11:19.641 [CE][Storage] ver:25 stamp:4801, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.002"
+ 4:11:19.641 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin" 2367 items.
+ 4:11:20.385   2367 items loaded. (0 failed)
+ 4:11:20.391 [CE][Storage] ver:25 stamp:4803, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin"
+ 4:11:20.395 [CE][Storage] ver:25 stamp:4800, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.001"
+ 4:11:20.401 [CE][Storage] ver:25 stamp:4801, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.002"
+ 4:11:20.401 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin" 1541 items.
+ 4:11:20.916   1541 items loaded. (0 failed)
+ 4:11:20.920 [CE][Storage] ver:25 stamp:4803, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin"
+ 4:11:20.920 !!! [CE][Storage] Failed to read [Storage] data file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.001".
+ 4:11:20.920   File is empty...
+ 4:11:20.920 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.001"
+ 4:11:20.924 [CE][Storage] ver:25 stamp:4801, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.002"
+ 4:11:20.924 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin" 147 items.
+ 4:11:20.970   147 items loaded. (0 failed)
+ 4:11:20.974 [CE][Storage] ver:26 stamp:4803, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.bin"
+ 4:11:20.976 [CE][Storage] ver:26 stamp:4800, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.001"
+ 4:11:20.979 [CE][Storage] ver:26 stamp:4801, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.002"
+ 4:11:20.979 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.bin" 0 items.
+ 4:11:20.979   0 items loaded. (0 failed)
+ 4:11:20.983 [CE][Storage] ver:25 stamp:4803, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin"
+ 4:11:20.987 [CE][Storage] ver:25 stamp:4800, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.001"
+ 4:11:20.992 [CE][Storage] ver:25 stamp:4801, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.002"
+ 4:11:20.992 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin" 78 items.
+ 4:11:21.123   78 items loaded. (0 failed)
+ 4:11:21.133 [CE][Hive] :: Storage load took:5.74 seconds, recovery stamp:4803
+ 4:11:21.133   entity: 19841, building: 0
+ 4:11:21.133   no lifetime: 43
+ 4:11:21.133   pathgraph's: 411
+ 4:11:21.134 [CE][Hive] :: Initializing ... 
+ 4:11:21.134 [CE][OnInit]
+ 4:11:21.134   static groups: 11699
+ 4:11:21.134   containers: 21552
+ 4:11:21.134   points: 171523
+ 4:11:21.134   proxies: 4129
+ 4:11:21.134   linked groups: 1610, points: 0
+ 4:11:21.134   abandoned groups: 0, points: 0
+ 4:11:21.134   dynamic groups: 0
+ 4:11:21.169 [CE][InitializeMap] :: initialized: 0
+ 4:11:21.169 [CE][Hive] :: Initializing spawners ... 
+ 4:11:22.190 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 4475.872070, 10801.091797
+ 4:11:22.190 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 4496.421387, 10803.434570
+ 4:11:22.191 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 4486.112305, 10803.321289
+ 4:11:22.191 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 4491.209473, 10815.846680
+ 4:11:22.192 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 4474.789063, 10807.564453
+ 4:11:22.193 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 4123.690430, 10555.286133
+ 4:11:22.193 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 4147.016113, 10556.840820
+ 4:11:22.193 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 4136.088867, 10544.689453
+ 4:11:22.193 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 4144.476074, 10590.399414
+ 4:11:22.194 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 4124.868164, 10556.305664
+ 4:11:22.194 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 4143.011719, 10545.207031
+ 4:11:22.194 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 4126.791016, 10549.877930
+ 4:11:22.195 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 2154.163086, 3348.962402
+ 4:11:22.195 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 2146.841797, 3324.190918
+ 4:11:22.195 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 2160.981445, 3324.281738
+ 4:11:22.195 [CE][InfectedRespawner] (PRIArmy) :: Initial Spawn: 15
+ 4:11:22.195 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 1732.278442, 14212.692383
+ 4:11:22.196 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 1682.697754, 14235.612305
+ 4:11:22.197 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 1639.653809, 14228.267578
+ 4:11:22.198 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 1707.817261, 14244.715820
+ 4:11:22.198 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 1681.688354, 14267.417969
+ 4:11:22.198 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 1699.906128, 14272.265625
+ 4:11:22.199 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 4193.051270, 11035.286133
+ 4:11:22.199 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 4190.237305, 11044.493164
+ 4:11:22.200 !!! [CE][Spawn] Character "ZmbM_usSoldier_Heavy_Woodland" at 4198.162109, 11040.283203
+ 4:11:22.200 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 4244.770020, 11059.231445
+ 4:11:22.200 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 4232.876953, 11017.509766
+ 4:11:22.201 !!! [CE][Spawn] Character "ZmbM_usSoldier_Heavy_Woodland" at 4194.218262, 11062.173828
+ 4:11:22.201 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 4168.086426, 11008.984375
+ 4:11:22.201 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 4465.963867, 9623.920898
+ 4:11:22.201 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 4471.822266, 9614.490234
+ 4:11:22.202 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 4442.257324, 9639.502930
+ 4:11:22.202 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 4450.706055, 9592.008789
+ 4:11:22.202 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 4464.824219, 9616.601563
+ 4:11:22.203 !!! [CE][Spawn] Character "ZmbM_usSoldier_Heavy_Woodland" at 4478.559570, 9599.671875
+ 4:11:22.203 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 4516.036133, 8308.930664
+ 4:11:22.204 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 4526.317383, 8321.909180
+ 4:11:22.204 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 4513.276367, 8301.598633
+ 4:11:22.204 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 4515.008789, 8307.155273
+ 4:11:22.204 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 4520.998535, 8347.267578
+ 4:11:22.204 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 4533.033691, 8312.583984
+ 4:11:22.205 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 1181.437988, 7240.306152
+ 4:11:22.205 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 1169.466919, 7225.428711
+ 4:11:22.205 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 1158.187866, 7236.556152
+ 4:11:22.205 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 1151.727417, 7233.695313
+ 4:11:22.205 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 1150.698608, 7241.431641
+ 4:11:22.205 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 1157.300171, 7243.423828
+ 4:11:22.206 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 1167.461182, 7245.911133
+ 4:11:22.206 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 2552.349365, 5066.500977
+ 4:11:22.206 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 2607.765869, 5083.562500
+ 4:11:22.206 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 2579.200928, 5062.789063
+ 4:11:22.207 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 2553.891602, 5051.052246
+ 4:11:22.207 !!! [CE][Spawn] Character "ZmbM_usSoldier_Heavy_Woodland" at 2582.645264, 5089.424805
+ 4:11:22.207 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 2537.572998, 5102.260254
+ 4:11:22.207 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 1494.375366, 13675.735352
+ 4:11:22.208 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 1498.630981, 13607.247070
+ 4:11:22.208 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 1561.101563, 13615.303711
+ 4:11:22.208 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 1522.819946, 13596.065430
+ 4:11:22.208 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 1483.350586, 13556.815430
+ 4:11:22.209 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 1505.634033, 13618.286133
+ 4:11:22.209 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 1467.219238, 13653.663086
+ 4:11:22.209 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 1508.361084, 13617.023438
+ 4:11:22.209 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 1555.139282, 13648.121094
+ 4:11:22.210 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 1791.808350, 13807.674805
+ 4:11:22.210 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 1766.161011, 13854.980469
+ 4:11:22.210 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 1818.609985, 13825.307617
+ 4:11:22.210 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 1824.289795, 13820.102539
+ 4:11:22.211 !!! [CE][Spawn] Character "ZmbM_usSoldier_Heavy_Woodland" at 1869.654541, 13798.708008
+ 4:11:22.211 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 1839.652954, 13748.179688
+ 4:11:22.211 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 1817.805176, 13815.067383
+ 4:11:22.211 !!! [CE][Spawn] Character "ZmbM_usSoldier_Heavy_Woodland" at 4787.926270, 10305.417969
+ 4:11:22.212 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 4745.349121, 10290.479492
+ 4:11:22.212 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 4760.462891, 10309.258789
+ 4:11:22.212 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 4788.626465, 10325.313477
+ 4:11:22.213 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 4758.273438, 10284.671875
+ 4:11:22.213 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 4772.227051, 10289.240234
+ 4:11:22.213 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 4669.988770, 9602.502930
+ 4:11:22.213 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 4638.880859, 9582.649414
+ 4:11:22.213 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 4629.719238, 9618.364258
+ 4:11:22.213 [CE][InfectedRespawner] (PRIArmyHard) :: Initial Spawn: 63
+ 4:11:22.213 [CE][InfectedRespawner] (PRICity) :: Initial Spawn: 0
+ 4:11:22.213 [CE][InfectedRespawner] (PRICityTier1) :: Initial Spawn: 0
+ 4:11:22.213 [CE][InfectedRespawner] (PRIFirefighter) :: Initial Spawn: 0
+ 4:11:22.213 [CE][InfectedRespawner] (PRIIndustrial) :: Initial Spawn: 0
+ 4:11:22.213 [CE][InfectedRespawner] (PRIMedic) :: Initial Spawn: 0
+ 4:11:22.214 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13683.704102, 11174.614258
+ 4:11:22.215 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13674.474609, 11172.518555
+ 4:11:22.215 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13669.147461, 11183.452148
+ 4:11:22.215 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13689.864258, 11163.986328
+ 4:11:22.215 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13679.128906, 11173.249023
+ 4:11:22.215 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13680.689453, 11179.803711
+ 4:11:22.215 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13674.958984, 11189.837891
+ 4:11:22.216 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13680.215820, 11167.358398
+ 4:11:22.216 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2145.432129, 3332.081787
+ 4:11:22.216 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2153.203613, 3333.636719
+ 4:11:22.216 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2142.137939, 3347.877197
+ 4:11:22.216 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2146.499268, 3331.598633
+ 4:11:22.216 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2165.803955, 3336.688477
+ 4:11:22.217 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2143.874023, 3339.348389
+ 4:11:22.217 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2153.012451, 3358.546631
+ 4:11:22.217 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2142.698730, 3332.111816
+ 4:11:22.217 [CE][InfectedRespawner] (PRINBC) :: Initial Spawn: 16
+ 4:11:22.217 [CE][InfectedRespawner] (PRINBCYellow) :: Initial Spawn: 0
+ 4:11:22.217 [CE][InfectedRespawner] (PRIPolice) :: Initial Spawn: 0
+ 4:11:22.217 [CE][InfectedRespawner] (PRIPoliceHard) :: Initial Spawn: 0
+ 4:11:22.217 [CE][InfectedRespawner] (PRIPrisoner) :: Initial Spawn: 0
+ 4:11:22.217 [CE][InfectedRespawner] (PRIReligious) :: Initial Spawn: 0
+ 4:11:22.217 [CE][InfectedRespawner] (PRISanta) :: Initial Spawn: 0
+ 4:11:22.217 [CE][InfectedRespawner] (PRISolitude) :: Initial Spawn: 0
+ 4:11:22.217 [CE][InfectedRespawner] (PRIVillage) :: Initial Spawn: 0
+ 4:11:22.217 [CE][InfectedRespawner] (PRIVillageTier1) :: Initial Spawn: 0
+ 4:11:22.217 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:21260, Total in Map: 18235 at 0 (sec)
+ 4:11:22.217   tests:0, repeats:0 fails:0, overtime:0
+ 4:11:22.218 [CE][InfectedRespawner] (SECArmy) :: Initial Spawn: 0
+ 4:11:22.218 [CE][InfectedRespawner] (SECArmy) :: Initial Spawn: 0
+ 4:11:22.218 [CE][InfectedRespawner] (SECPoliceHard) :: Initial Spawn: 0
+ 4:11:22.218 [CE][InfectedRespawner] (SECIndustrial) :: Initial Spawn: 0
+ 4:11:22.218 [CE][TrajectoryRespawner] (PRIApple) :: Initial Spawn is DISABLED
+ 4:11:22.218 [CE][TrajectoryRespawner] (PRIConiferous) :: Initial Spawn is DISABLED
+ 4:11:22.218 [CE][TrajectoryRespawner] (PRIDeciduous) :: Initial Spawn is DISABLED
+ 4:11:22.218 [CE][TrajectoryRespawner] (PRIHumus) :: Initial Spawn is DISABLED
+ 4:11:22.218 [CE][TrajectoryRespawner] (PRIPear) :: Initial Spawn is DISABLED
+ 4:11:22.218 [CE][TrajectoryRespawner] (PRIPlum) :: Initial Spawn is DISABLED
+ 4:11:22.218 [CE][TrajectoryRespawner] (PRIStones) :: Initial Spawn is DISABLED
+ 4:11:22.218 [CE][DynEvent] :: 47 types
+ 4:11:22.218 [00] AmbientHen
+ 4:11:22.218   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 4:11:22.218 [01] AnimalBear
+ 4:11:22.218   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:11:22.218 [02] AnimalCow
+ 4:11:22.218   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:11:22.219 [03] AnimalDeer
+ 4:11:22.219   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:11:22.219 [04] AnimalGoat
+ 4:11:22.219   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:11:22.219 [05] AnimalPig
+ 4:11:22.219   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:11:22.219 [06] AnimalRoeDeer
+ 4:11:22.219   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:11:22.219 [07] AnimalSheep
+ 4:11:22.219   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:11:22.219 [08] AnimalWildBoar
+ 4:11:22.219   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:11:22.219 [09] AnimalWolf
+ 4:11:22.219   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:11:22.219 [10] InfectedArmy
+ 4:11:22.219   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [11] InfectedArmyHard
+ 4:11:22.219   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [12] InfectedCity
+ 4:11:22.219   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [13] InfectedCityTier1
+ 4:11:22.219   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [14] InfectedFirefighter
+ 4:11:22.219   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [15] InfectedIndustrial
+ 4:11:22.219   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [16] InfectedMedic
+ 4:11:22.219   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [17] InfectedNBC
+ 4:11:22.219   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [18] InfectedNBCYellow
+ 4:11:22.219   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [19] InfectedPolice
+ 4:11:22.219   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [20] InfectedPoliceHard
+ 4:11:22.219   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [21] InfectedPrisoner
+ 4:11:22.219   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [22] InfectedReligious
+ 4:11:22.219   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [23] InfectedSanta
+ 4:11:22.219   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [24] InfectedSolitude
+ 4:11:22.219   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [25] InfectedVillage
+ 4:11:22.219   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [26] InfectedVillageTier1
+ 4:11:22.219   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [27] ItemPlanks
+ 4:11:22.219   Primary Spawner: "Item", active: yes, repeat: 1
+ 4:11:22.219 [28] Loot
+ 4:11:22.219   Primary Spawner: "Loot", active: yes, repeat: 2
+ 4:11:22.219 [29] StaticContaminatedArea
+ 4:11:22.219   Primary Spawner: "Static", active: yes, repeat: 1
+ 4:11:22.219 [30] StaticHeliCrash
+ 4:11:22.219   Primary Spawner: "Static", active: yes, repeat: 1
+ 4:11:22.219   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [31] StaticMilitaryConvoy
+ 4:11:22.219   Primary Spawner: "Static", active: yes, repeat: 1
+ 4:11:22.219   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [32] StaticPoliceSituation
+ 4:11:22.219   Primary Spawner: "Static", active: yes, repeat: 1
+ 4:11:22.219   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [33] StaticTrain
+ 4:11:22.219   Primary Spawner: "Static", active: yes, repeat: 1
+ 4:11:22.219   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 4:11:22.219 [34] TrajectoryApple
+ 4:11:22.219   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 4:11:22.219 [35] TrajectoryConiferous
+ 4:11:22.219   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 4:11:22.219 [36] TrajectoryDeciduous
+ 4:11:22.219   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 4:11:22.219 [37] TrajectoryHumus
+ 4:11:22.219   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 4:11:22.219 [38] TrajectoryPear
+ 4:11:22.219   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 4:11:22.219 [39] TrajectoryPlum
+ 4:11:22.219   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 4:11:22.219 [40] TrajectoryStones
+ 4:11:22.219   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 4:11:22.219 [41] VehicleCivilianSedan
+ 4:11:22.219   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:11:22.219 [42] VehicleHatchback02
+ 4:11:22.219   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:11:22.219 [43] VehicleOffroad02
+ 4:11:22.219   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:11:22.219 [44] VehicleOffroadHatchback
+ 4:11:22.219   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:11:22.219 [45] VehicleSedan02
+ 4:11:22.219   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:11:22.219 [46] VehicleTruck01
+ 4:11:22.219   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 4:11:22.219 [CE][Hive] :: Initializing of spawners done.
+ 4:11:22.222   Items batched for deletion: 0, of: 18629
+ 4:11:22.225   Items batched for deletion: 0, of: 18629
+ 4:11:22.228 [CE][Hive] :: Init sequence finished.
+ 4:11:22.228 Player connect enabled
+ 4:11:22.425 Average server FPS: 0.15 (measured interval: 1 s)
+ 4:11:22.425 Used memory: 1997172 KB
+ 4:11:22.425 Players: 0 in total
+ 4:11:22.846 [IdleMode] Entering IN - save processed
+ 4:11:23.451 Average server FPS: 10.72 (measured interval: 1 s)
+ 4:11:23.451 Used memory: 2071984 KB
+ 4:11:23.451 Players: 0 in total
+ 4:11:24.428 ------------------------------------
+ 4:11:24.428   ***  CE Loop took 1.6 (sec)...
+ 4:11:24.428 Idle Mode Active!
+ 4:11:24.428 ------------------------------------
+ 4:11:24.451 Average server FPS: 279.00 (measured interval: 1 s)
+ 4:11:24.451 Used memory: 2096218 KB
+ 4:11:24.451 Players: 0 in total
+ 4:11:25.451 Average server FPS: 4284.00 (measured interval: 1 s)
+ 4:11:25.451 Used memory: 2098404 KB
+ 4:11:25.451 Players: 0 in total
+ 4:11:26.451 Average server FPS: 3848.00 (measured interval: 1 s)
+ 4:11:26.451 Used memory: 2100903 KB
+ 4:11:26.451 Players: 0 in total
+ 4:11:27.452 Average server FPS: 3655.00 (measured interval: 1 s)
+ 4:11:27.452 Used memory: 2104096 KB
+ 4:11:27.452 Players: 0 in total
+ 4:11:28.451 Average server FPS: 3540.00 (measured interval: 1 s)
+ 4:11:28.451 Used memory: 2107255 KB
+ 4:11:28.451 Players: 0 in total
+ 4:11:29.336 ------------------------------------
+ 4:11:29.336   ***  CE Loop took 4.9 (sec)...
+ 4:11:29.336 Idle Mode Active!
+ 4:11:29.336 ------------------------------------
+ 4:11:29.451 Average server FPS: 3251.00 (measured interval: 1 s)
+ 4:11:29.451 Used memory: 2107992 KB
+ 4:11:29.451 Players: 0 in total
+ 4:11:30.451 Average server FPS: 2210.00 (measured interval: 1 s)
+ 4:11:30.451 Used memory: 2110748 KB
+ 4:11:30.451 Players: 0 in total
+ 4:11:31.451 Average server FPS: 5276.00 (measured interval: 1 s)
+ 4:11:31.451 Used memory: 2112088 KB
+ 4:11:31.451 Players: 0 in total
+ 4:11:32.451 Average server FPS: 1933.00 (measured interval: 1 s)
+ 4:11:32.451 Used memory: 2116952 KB
+ 4:11:32.451 Players: 0 in total
+ 4:11:33.451 Average server FPS: 4065.00 (measured interval: 1 s)
+ 4:11:33.451 Used memory: 2117475 KB
+ 4:11:33.451 Players: 0 in total
+ 4:11:34.257 ------------------------------------
+ 4:11:34.257   ***  CE Loop took 4.9 (sec)...
+ 4:11:34.257 Idle Mode Active!
+ 4:11:34.257 ------------------------------------
+ 4:11:34.451 Average server FPS: 5982.00 (measured interval: 1 s)
+ 4:11:34.451 Used memory: 2120485 KB
+ 4:11:34.451 Players: 0 in total
+ 4:11:35.452 Average server FPS: 2697.00 (measured interval: 1 s)
+ 4:11:35.452 Used memory: 2128323 KB
+ 4:11:35.452 Players: 0 in total
+ 4:11:36.451 Average server FPS: 2535.00 (measured interval: 1 s)
+ 4:11:36.451 Used memory: 2129381 KB
+ 4:11:36.451 Players: 0 in total
+ 4:11:37.451 Average server FPS: 5751.00 (measured interval: 1 s)
+ 4:11:37.451 Used memory: 2132661 KB
+ 4:11:37.451 Players: 0 in total
+ 4:11:38.451 Average server FPS: 5097.00 (measured interval: 1 s)
+ 4:11:38.451 Used memory: 2133163 KB
+ 4:11:38.451 Players: 0 in total
+ 4:11:39.162 ------------------------------------
+ 4:11:39.162   ***  CE Loop took 4.9 (sec)...
+ 4:11:39.162 Idle Mode Active!
+ 4:11:39.162 ------------------------------------
+ 4:11:39.451 Average server FPS: 5971.00 (measured interval: 1 s)
+ 4:11:39.451 Used memory: 2135849 KB
+ 4:11:39.451 Players: 0 in total
+ 4:11:40.452 Average server FPS: 3675.00 (measured interval: 1 s)
+ 4:11:40.452 Used memory: 2140409 KB
+ 4:11:40.452 Players: 0 in total
+ 4:11:41.451 Average server FPS: 4606.00 (measured interval: 1 s)
+ 4:11:41.451 Used memory: 2143001 KB
+ 4:11:41.451 Players: 0 in total
+ 4:11:43.752 Average server FPS: 1974.79 (measured interval: 1 s)
+ 4:11:43.752 Used memory: 2380370 KB
+ 4:11:43.752 Players: 0 in total
+ 4:11:44.752 Average server FPS: 110.00 (measured interval: 1 s)
+ 4:11:44.752 Used memory: 2412912 KB
+ 4:11:44.752 Players: 0 in total
+ 4:11:45.752 Average server FPS: 3311.00 (measured interval: 1 s)
+ 4:11:45.752 Used memory: 2414178 KB
+ 4:11:45.752 Players: 0 in total
+ 4:11:46.02 ------------------------------------
+ 4:11:46.02   ***  CE Loop took 4.9 (sec)...
+ 4:11:46.02 Idle Mode Active!
+ 4:11:46.02 ------------------------------------
+ 4:11:46.752 Average server FPS: 4111.00 (measured interval: 1 s)
+ 4:11:46.752 Used memory: 2417225 KB
+ 4:11:46.752 Players: 0 in total
+ 4:11:47.752 Average server FPS: 6162.00 (measured interval: 1 s)
+ 4:11:47.752 Used memory: 2420086 KB
+ 4:11:47.752 Players: 0 in total
+ 4:11:48.752 Average server FPS: 4184.00 (measured interval: 1 s)
+ 4:11:48.752 Used memory: 2423970 KB
+ 4:11:48.752 Players: 0 in total
+ 4:11:49.752 Average server FPS: 3638.00 (measured interval: 1 s)
+ 4:11:49.752 Used memory: 2425384 KB
+ 4:11:49.752 Players: 0 in total
+ 4:11:50.752 Average server FPS: 6788.00 (measured interval: 1 s)
+ 4:11:50.752 Used memory: 2428185 KB
+ 4:11:50.752 Players: 0 in total
+ 4:11:50.903 ------------------------------------
+ 4:11:50.903   ***  CE Loop took 4.9 (sec)...
+ 4:11:50.903 Idle Mode Active!
+ 4:11:50.903 ------------------------------------
+ 4:11:51.752 Average server FPS: 8060.00 (measured interval: 1 s)
+ 4:11:51.752 Used memory: 2431536 KB
+ 4:11:51.752 Players: 0 in total
+ 4:11:52.752 Average server FPS: 5923.00 (measured interval: 1 s)
+ 4:11:52.752 Used memory: 2432189 KB
+ 4:11:52.752 Players: 0 in total
+ 4:11:53.752 Average server FPS: 5233.00 (measured interval: 1 s)
+ 4:11:53.752 Used memory: 2435754 KB
+ 4:11:53.752 Players: 0 in total
+ 4:11:54.752 Average server FPS: 5247.00 (measured interval: 1 s)
+ 4:11:54.752 Used memory: 2438341 KB
+ 4:11:54.752 Players: 0 in total
+ 4:11:55.752 Average server FPS: 7703.00 (measured interval: 1 s)
+ 4:11:55.752 Used memory: 2439454 KB
+ 4:11:55.752 Players: 0 in total
+ 4:11:55.805 ------------------------------------
+ 4:11:55.805   ***  CE Loop took 4.9 (sec)...
+ 4:11:55.805 Idle Mode Active!
+ 4:11:55.805 ------------------------------------
+ 4:11:56.752 Average server FPS: 7957.00 (measured interval: 1 s)
+ 4:11:56.752 Used memory: 2441768 KB
+ 4:11:56.752 Players: 0 in total
+ 4:11:57.752 Average server FPS: 8757.00 (measured interval: 1 s)
+ 4:11:57.752 Used memory: 2443320 KB
+ 4:11:57.752 Players: 0 in total
+ 4:11:58.752 Average server FPS: 8982.00 (measured interval: 1 s)
+ 4:11:58.752 Used memory: 2443591 KB
+ 4:11:58.752 Players: 0 in total
+ 4:11:59.753 Average server FPS: 7542.00 (measured interval: 1 s)
+ 4:11:59.753 Used memory: 2446977 KB
+ 4:11:59.753 Players: 0 in total
+ 4:12:00.705 ------------------------------------
+ 4:12:00.705   ***  CE Loop took 4.9 (sec)...
+ 4:12:00.705 Idle Mode Active!
+ 4:12:00.705 ------------------------------------
+ 4:12:00.752 Average server FPS: 7438.00 (measured interval: 1 s)
+ 4:12:00.752 Used memory: 2453141 KB
+ 4:12:00.752 Players: 0 in total
+ 4:12:01.755 Average server FPS: 7383.23 (measured interval: 1 s)
+ 4:12:01.755 Used memory: 2453479 KB
+ 4:12:01.755 Players: 0 in total
+ 4:12:02.754 Average server FPS: 8438.00 (measured interval: 1 s)
+ 4:12:02.754 Used memory: 2455881 KB
+ 4:12:02.754 Players: 0 in total
+ 4:12:03.754 Average server FPS: 6680.00 (measured interval: 1 s)
+ 4:12:03.754 Used memory: 2458186 KB
+ 4:12:03.754 Players: 0 in total
+ 4:12:04.754 Average server FPS: 7391.00 (measured interval: 1 s)
+ 4:12:04.754 Used memory: 2459524 KB
+ 4:12:04.754 Players: 0 in total
+ 4:12:05.605 ------------------------------------
+ 4:12:05.605   ***  CE Loop took 4.9 (sec)...
+ 4:12:05.605 Idle Mode Active!
+ 4:12:05.605 ------------------------------------
+ 4:12:05.754 Average server FPS: 6673.00 (measured interval: 1 s)
+ 4:12:05.754 Used memory: 2459958 KB
+ 4:12:05.754 Players: 0 in total
+ 4:12:06.754 Average server FPS: 8691.00 (measured interval: 1 s)
+ 4:12:06.754 Used memory: 2461320 KB
+ 4:12:06.754 Players: 0 in total
+ 4:12:07.754 Average server FPS: 8267.00 (measured interval: 1 s)
+ 4:12:07.754 Used memory: 2462279 KB
+ 4:12:07.754 Players: 0 in total
+ 4:12:08.754 Average server FPS: 4947.00 (measured interval: 1 s)
+ 4:12:08.754 Used memory: 2464913 KB
+ 4:12:08.754 Players: 0 in total
+ 4:12:09.754 Average server FPS: 7362.00 (measured interval: 1 s)
+ 4:12:09.754 Used memory: 2465702 KB
+ 4:12:09.754 Players: 0 in total
+ 4:12:10.509 ------------------------------------
+ 4:12:10.509   ***  CE Loop took 4.9 (sec)...
+ 4:12:10.509 Idle Mode Active!
+ 4:12:10.509 ------------------------------------
+ 4:12:10.754 Average server FPS: 7217.00 (measured interval: 1 s)
+ 4:12:10.754 Used memory: 2467977 KB
+ 4:12:10.754 Players: 0 in total
+ 4:12:11.754 Average server FPS: 7979.00 (measured interval: 1 s)
+ 4:12:11.754 Used memory: 2468243 KB
+ 4:12:11.754 Players: 0 in total
+ 4:12:12.754 Average server FPS: 7917.00 (measured interval: 1 s)
+ 4:12:12.754 Used memory: 2472397 KB
+ 4:12:12.754 Players: 0 in total
+ 4:12:13.754 Average server FPS: 6639.00 (measured interval: 1 s)
+ 4:12:13.754 Used memory: 2475730 KB
+ 4:12:13.754 Players: 0 in total
+ 4:12:14.754 Average server FPS: 7643.00 (measured interval: 1 s)
+ 4:12:14.754 Used memory: 2477144 KB
+ 4:12:14.754 Players: 0 in total
+ 4:12:15.408 ------------------------------------
+ 4:12:15.408   ***  CE Loop took 4.9 (sec)...
+ 4:12:15.408 Idle Mode Active!
+ 4:12:15.408 ------------------------------------
+ 4:12:15.754 Average server FPS: 7223.00 (measured interval: 1 s)
+ 4:12:15.754 Used memory: 2477214 KB
+ 4:12:15.754 Players: 0 in total
+ 4:12:16.754 Average server FPS: 7397.00 (measured interval: 1 s)
+ 4:12:16.754 Used memory: 2477710 KB
+ 4:12:16.754 Players: 0 in total
+ 4:12:17.754 Average server FPS: 7472.00 (measured interval: 1 s)
+ 4:12:17.754 Used memory: 2477791 KB
+ 4:12:17.754 Players: 0 in total
+ 4:12:18.754 Average server FPS: 6900.00 (measured interval: 1 s)
+ 4:12:18.754 Used memory: 2481090 KB
+ 4:12:18.754 Players: 0 in total
+ 4:12:19.753 Average server FPS: 6809.00 (measured interval: 1 s)
+ 4:12:19.754 Used memory: 2483629 KB
+ 4:12:19.754 Players: 0 in total
+ 4:12:20.309 ------------------------------------
+ 4:12:20.309   ***  CE Loop took 4.9 (sec)...
+ 4:12:20.309 Idle Mode Active!
+ 4:12:20.309 ------------------------------------
+ 4:12:20.754 Average server FPS: 5765.00 (measured interval: 1 s)
+ 4:12:20.754 Used memory: 2486950 KB
+ 4:12:20.754 Players: 0 in total
+ 4:12:21.754 Average server FPS: 4560.00 (measured interval: 1 s)
+ 4:12:21.754 Used memory: 2488656 KB
+ 4:12:21.754 Players: 0 in total
+ 4:12:22.754 Average server FPS: 5953.00 (measured interval: 1 s)
+ 4:12:22.754 Used memory: 2488653 KB
+ 4:12:22.754 Players: 0 in total
+ 4:12:23.754 Average server FPS: 8663.00 (measured interval: 1 s)
+ 4:12:23.754 Used memory: 2488662 KB
+ 4:12:23.754 Players: 0 in total
+ 4:12:24.754 Average server FPS: 5189.00 (measured interval: 1 s)
+ 4:12:24.754 Used memory: 2492475 KB
+ 4:12:24.754 Players: 0 in total
+ 4:12:25.208 ------------------------------------
+ 4:12:25.208   ***  CE Loop took 4.9 (sec)...
+ 4:12:25.208 Idle Mode Active!
+ 4:12:25.208 ------------------------------------
+ 4:12:25.754 Average server FPS: 8143.00 (measured interval: 1 s)
+ 4:12:25.754 Used memory: 2493371 KB
+ 4:12:25.754 Players: 0 in total
+ 4:12:26.754 Average server FPS: 5185.00 (measured interval: 1 s)
+ 4:12:26.754 Used memory: 2495989 KB
+ 4:12:26.754 Players: 0 in total
+ 4:12:27.754 Average server FPS: 5619.00 (measured interval: 1 s)
+ 4:12:27.754 Used memory: 2498295 KB
+ 4:12:27.755 Players: 0 in total
+ 4:12:28.753 Average server FPS: 7957.00 (measured interval: 1 s)
+ 4:12:28.753 Used memory: 2501577 KB
+ 4:12:28.753 Players: 0 in total
+ 4:12:29.754 Average server FPS: 7338.00 (measured interval: 1 s)
+ 4:12:29.754 Used memory: 2506817 KB
+ 4:12:29.754 Players: 0 in total
+ 4:12:30.110 ------------------------------------
+ 4:12:30.110   ***  CE Loop took 4.9 (sec)...
+ 4:12:30.110 Idle Mode Active!
+ 4:12:30.110 ------------------------------------
+ 4:12:30.754 Average server FPS: 7836.00 (measured interval: 1 s)
+ 4:12:30.754 Used memory: 2512774 KB
+ 4:12:30.754 Players: 0 in total
+ 4:12:31.754 Average server FPS: 8644.00 (measured interval: 1 s)
+ 4:12:31.754 Used memory: 2514807 KB
+ 4:12:31.754 Players: 0 in total
+ 4:12:32.754 Average server FPS: 5412.00 (measured interval: 1 s)
+ 4:12:32.754 Used memory: 2519392 KB
+ 4:12:32.754 Players: 0 in total
+ 4:12:33.754 Average server FPS: 5463.00 (measured interval: 1 s)
+ 4:12:33.754 Used memory: 2522280 KB
+ 4:12:33.754 Players: 0 in total
+ 4:12:34.754 Average server FPS: 5713.00 (measured interval: 1 s)
+ 4:12:34.754 Used memory: 2525752 KB
+ 4:12:34.754 Players: 0 in total
+ 4:12:35.26 ------------------------------------
+ 4:12:35.26   ***  CE Loop took 4.9 (sec)...
+ 4:12:35.26 Idle Mode Active!
+ 4:12:35.26 ------------------------------------
+ 4:12:35.754 Average server FPS: 6446.00 (measured interval: 1 s)
+ 4:12:35.754 Used memory: 2526914 KB
+ 4:12:35.754 Players: 0 in total
+ 4:12:36.754 Average server FPS: 7332.00 (measured interval: 1 s)
+ 4:12:36.754 Used memory: 2527568 KB
+ 4:12:36.754 Players: 0 in total
+ 4:12:37.754 Average server FPS: 6287.00 (measured interval: 1 s)
+ 4:12:37.754 Used memory: 2530047 KB
+ 4:12:37.754 Players: 0 in total
+ 4:12:38.754 Average server FPS: 5159.00 (measured interval: 1 s)
+ 4:12:38.754 Used memory: 2532130 KB
+ 4:12:38.754 Players: 0 in total
+ 4:12:39.754 Average server FPS: 6437.00 (measured interval: 1 s)
+ 4:12:39.754 Used memory: 2532753 KB
+ 4:12:39.754 Players: 0 in total
+ 4:12:39.932 ------------------------------------
+ 4:12:39.932   ***  CE Loop took 4.9 (sec)...
+ 4:12:39.932 Idle Mode Active!
+ 4:12:39.932 ------------------------------------
+ 4:12:40.754 Average server FPS: 7565.00 (measured interval: 1 s)
+ 4:12:40.754 Used memory: 2533185 KB
+ 4:12:40.754 Players: 0 in total
+ 4:12:41.754 Average server FPS: 7156.00 (measured interval: 1 s)
+ 4:12:41.754 Used memory: 2533267 KB
+ 4:12:41.754 Players: 0 in total
+ 4:12:42.754 Average server FPS: 5766.00 (measured interval: 1 s)
+ 4:12:42.754 Used memory: 2534875 KB
+ 4:12:42.754 Players: 0 in total
+ 4:12:43.754 Average server FPS: 6493.00 (measured interval: 1 s)
+ 4:12:43.754 Used memory: 2534884 KB
+ 4:12:43.754 Players: 0 in total
+ 4:12:44.754 Average server FPS: 8260.00 (measured interval: 1 s)
+ 4:12:44.754 Used memory: 2536960 KB
+ 4:12:44.754 Players: 0 in total
+ 4:12:44.832 ------------------------------------
+ 4:12:44.832   ***  CE Loop took 4.9 (sec)...
+ 4:12:44.832 Idle Mode Active!
+ 4:12:44.832 ------------------------------------
+ 4:12:45.754 Average server FPS: 5839.00 (measured interval: 1 s)
+ 4:12:45.754 Used memory: 2538807 KB
+ 4:12:45.754 Players: 0 in total
+ 4:12:46.754 Average server FPS: 6519.00 (measured interval: 1 s)
+ 4:12:46.754 Used memory: 2540313 KB
+ 4:12:46.754 Players: 0 in total
+ 4:12:47.754 Average server FPS: 4088.00 (measured interval: 1 s)
+ 4:12:47.754 Used memory: 2546093 KB
+ 4:12:47.754 Players: 0 in total
+ 4:12:48.754 Average server FPS: 5308.00 (measured interval: 1 s)
+ 4:12:48.754 Used memory: 2548696 KB
+ 4:12:48.754 Players: 0 in total
+ 4:12:49.731 ------------------------------------
+ 4:12:49.731   ***  CE Loop took 4.9 (sec)...
+ 4:12:49.731 Idle Mode Active!
+ 4:12:49.731 ------------------------------------
+ 4:12:49.754 Average server FPS: 5524.00 (measured interval: 1 s)
+ 4:12:49.754 Used memory: 2549325 KB
+ 4:12:49.754 Players: 0 in total
+ 4:12:50.753 Average server FPS: 7660.00 (measured interval: 1 s)
+ 4:12:50.754 Used memory: 2550556 KB
+ 4:12:50.754 Players: 0 in total
+ 4:12:51.754 Average server FPS: 8854.00 (measured interval: 1 s)
+ 4:12:51.754 Used memory: 2552963 KB
+ 4:12:51.754 Players: 0 in total
+ 4:12:52.754 Average server FPS: 7548.00 (measured interval: 1 s)
+ 4:12:52.754 Used memory: 2553611 KB
+ 4:12:52.754 Players: 0 in total
+ 4:12:53.754 Average server FPS: 5955.00 (measured interval: 1 s)
+ 4:12:53.755 Used memory: 2556004 KB
+ 4:12:53.755 Players: 0 in total
+ 4:12:54.632 ------------------------------------
+ 4:12:54.632   ***  CE Loop took 4.9 (sec)...
+ 4:12:54.632 Idle Mode Active!
+ 4:12:54.632 ------------------------------------
+ 4:12:54.754 Average server FPS: 5005.00 (measured interval: 1 s)
+ 4:12:54.754 Used memory: 2561320 KB
+ 4:12:54.754 Players: 0 in total
+ 4:12:55.754 Average server FPS: 5803.00 (measured interval: 1 s)
+ 4:12:55.754 Used memory: 2564658 KB
+ 4:12:55.754 Players: 0 in total
+ 4:12:56.754 Average server FPS: 4171.00 (measured interval: 1 s)
+ 4:12:56.754 Used memory: 2569558 KB
+ 4:12:56.754 Players: 0 in total
+ 4:12:57.754 Average server FPS: 4087.00 (measured interval: 1 s)
+ 4:12:57.754 Used memory: 2572133 KB
+ 4:12:57.754 Players: 0 in total
+ 4:12:58.754 Average server FPS: 6014.00 (measured interval: 1 s)
+ 4:12:58.754 Used memory: 2573335 KB
+ 4:12:58.754 Players: 0 in total
+ 4:12:59.554 ------------------------------------
+ 4:12:59.554   ***  CE Loop took 4.9 (sec)...
+ 4:12:59.554 Idle Mode Active!
+ 4:12:59.554 ------------------------------------
+ 4:12:59.754 Average server FPS: 5058.00 (measured interval: 1 s)
+ 4:12:59.754 Used memory: 2575850 KB
+ 4:12:59.754 Players: 0 in total
+ 4:13:00.754 Average server FPS: 6235.00 (measured interval: 1 s)
+ 4:13:00.754 Used memory: 2576077 KB
+ 4:13:00.754 Players: 0 in total
+ 4:13:01.754 Average server FPS: 7538.00 (measured interval: 1 s)
+ 4:13:01.754 Used memory: 2579229 KB
+ 4:13:01.754 Players: 0 in total
+ 4:13:02.754 Average server FPS: 5057.00 (measured interval: 1 s)
+ 4:13:02.754 Used memory: 2579495 KB
+ 4:13:02.754 Players: 0 in total
+ 4:13:03.754 Average server FPS: 6516.00 (measured interval: 1 s)
+ 4:13:03.754 Used memory: 2582735 KB
+ 4:13:03.754 Players: 0 in total
+ 4:13:04.461 ------------------------------------
+ 4:13:04.461   ***  CE Loop took 4.9 (sec)...
+ 4:13:04.461 Idle Mode Active!
+ 4:13:04.461 ------------------------------------
+ 4:13:04.754 Average server FPS: 6675.00 (measured interval: 1 s)
+ 4:13:04.754 Used memory: 2585450 KB
+ 4:13:04.754 Players: 0 in total
+ 4:13:05.754 Average server FPS: 7888.00 (measured interval: 1 s)
+ 4:13:05.754 Used memory: 2588516 KB
+ 4:13:05.754 Players: 0 in total
+ 4:13:06.754 Average server FPS: 7718.00 (measured interval: 1 s)
+ 4:13:06.754 Used memory: 2589750 KB
+ 4:13:06.754 Players: 0 in total
+ 4:13:07.754 Average server FPS: 7392.00 (measured interval: 1 s)
+ 4:13:07.754 Used memory: 2592756 KB
+ 4:13:07.754 Players: 0 in total
+ 4:13:08.754 Average server FPS: 8008.00 (measured interval: 1 s)
+ 4:13:08.754 Used memory: 2592766 KB
+ 4:13:08.754 Players: 0 in total
+ 4:13:09.362 ------------------------------------
+ 4:13:09.362   ***  CE Loop took 4.9 (sec)...
+ 4:13:09.362 Idle Mode Active!
+ 4:13:09.362 ------------------------------------
+ 4:13:09.754 Average server FPS: 9484.00 (measured interval: 1 s)
+ 4:13:09.754 Used memory: 2592780 KB
+ 4:13:09.754 Players: 0 in total
+ 4:13:10.754 Average server FPS: 9380.00 (measured interval: 1 s)
+ 4:13:10.754 Used memory: 2592795 KB
+ 4:13:10.754 Players: 0 in total
+ 4:13:11.754 Average server FPS: 9420.00 (measured interval: 1 s)
+ 4:13:11.754 Used memory: 2592809 KB
+ 4:13:11.754 Players: 0 in total
+ 4:13:12.754 Average server FPS: 9397.00 (measured interval: 1 s)
+ 4:13:12.754 Used memory: 2592820 KB
+ 4:13:12.754 Players: 0 in total
+ 4:13:13.754 Average server FPS: 9446.00 (measured interval: 1 s)
+ 4:13:13.754 Used memory: 2592834 KB
+ 4:13:13.754 Players: 0 in total
+ 4:13:14.262 ------------------------------------
+ 4:13:14.262   ***  CE Loop took 4.9 (sec)...
+ 4:13:14.262 Idle Mode Active!
+ 4:13:14.262 ------------------------------------
+ 4:13:14.754 Average server FPS: 9461.00 (measured interval: 1 s)
+ 4:13:14.754 Used memory: 2592846 KB
+ 4:13:14.754 Players: 0 in total
+ 4:13:15.754 Average server FPS: 9424.00 (measured interval: 1 s)
+ 4:13:15.754 Used memory: 2592852 KB
+ 4:13:15.754 Players: 0 in total
+ 4:13:16.754 Average server FPS: 9432.00 (measured interval: 1 s)
+ 4:13:16.754 Used memory: 2592871 KB
+ 4:13:16.754 Players: 0 in total
+ 4:13:17.754 Average server FPS: 9383.00 (measured interval: 1 s)
+ 4:13:17.754 Used memory: 2592886 KB
+ 4:13:17.754 Players: 0 in total
+ 4:13:18.34 [Login]: Adding player Cappy (15339813) to login queue at position 0
+ 4:13:18.34 [LoginMachine]: Add player Cappy (15339813 192.168.1.141:2304)
+ 4:13:18.34 [StateMachine]: Player Cappy (dpnid 15339813 uid ) Entering AuthPlayerLoginState
+ 4:13:18.754 Average server FPS: 9508.00 (measured interval: 1 s)
+ 4:13:18.754 Used memory: 2593089 KB
+ 4:13:18.754 Players: 1 in total
+ 4:13:19.161 [IdleMode] Leaving OUT
+ 4:13:19.161 ------------------------------------
+ 4:13:19.161   ***  CE Loop took 4.9 (sec)...
+ 4:13:19.161 players: 1, loot: 19931, infected: 94, animals: 238
+ 4:13:19.161 ------------------------------------
+ 4:13:19.369 [StateMachine]: Player Cappy (dpnid 15339813 uid ) Entering WaitAuthPlayerLoginState
+ 4:13:19.754 Average server FPS: 9169.00 (measured interval: 1 s)
+ 4:13:19.754 Used memory: 2593141 KB
+ 4:13:19.754 Players: 1 in total
+ 4:13:20.754 Average server FPS: 9200.00 (measured interval: 1 s)
+ 4:13:20.754 Used memory: 2593157 KB
+ 4:13:20.754 Players: 1 in total
+ 4:13:20.760 Player Cappy connected (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=).
+ 4:13:20.760 Player "Cappy" is connected (steamID=76561198079984427)
+ 4:13:20.760 [StateMachine]: Player Cappy (dpnid 15339813 uid ) Entering WaitPlayerAssignedLoginState
+ 4:13:21.48 [StateMachine]: Player Cappy (dpnid 15339813 uid o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) Entering DBGetLoginTimeLoginState
+ 4:13:21.54 [StateMachine]: Player Cappy (dpnid 15339813 uid o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) Entering DBWaitLoginTimeLoginState
+ 4:13:21.754 Average server FPS: 9108.00 (measured interval: 1 s)
+ 4:13:21.754 Used memory: 2593240 KB
+ 4:13:21.754 Players: 1 in total
+ 4:13:22.754 Average server FPS: 9168.00 (measured interval: 1 s)
+ 4:13:22.754 Used memory: 2593297 KB
+ 4:13:22.754 Players: 1 in total
+ 4:13:23.754 Average server FPS: 9051.00 (measured interval: 1 s)
+ 4:13:23.754 Used memory: 2593315 KB
+ 4:13:23.754 Players: 1 in total
+ 4:13:24.462 <cleanup> Depleted:"Chemlight_Yellow" at [7282,7759] damage=0.39
+ 4:13:24.462 <cleanup> Remove:"Chemlight_Yellow" at [7282,7759] damage=0.39
+ 4:13:24.462   Items deleted: 1, of: 1
+ 4:13:24.754 Average server FPS: 9242.00 (measured interval: 1 s)
+ 4:13:24.754 Used memory: 2593327 KB
+ 4:13:24.754 Players: 1 in total
+ 4:13:25.62 <cleanup> Depleted:"USMCJacket_Desert" at [4953,12992] damage=0.06
+ 4:13:25.62 <cleanup> Remove:"USMCJacket_Desert" at [4953,12992] damage=0.06
+ 4:13:25.62   Items deleted: 1, of: 1
+ 4:13:25.361 <cleanup> Depleted:"Chemlight_White" at [3181,8005] damage=0.17
+ 4:13:25.361 <cleanup> Remove:"Chemlight_White" at [3181,8005] damage=0.17
+ 4:13:25.362 <cleanup> Depleted:"AgaricusMushroom" at [3158,13728] damage=0.60
+ 4:13:25.362 <cleanup> Remove:"AgaricusMushroom" at [3158,13728] damage=0.60
+ 4:13:25.362   Items deleted: 2, of: 2
+ 4:13:25.754 Average server FPS: 9210.00 (measured interval: 1 s)
+ 4:13:25.754 Used memory: 2593323 KB
+ 4:13:25.754 Players: 1 in total
+ 4:13:25.961 <cleanup> Ruined Lifetime:"ZmbM_PatrolNormal_Summer" at [2154,3349] damage=1.00 DE="InfectedArmy"
+ 4:13:25.961 <cleanup> Ruined Lifetime:"ZmbM_PatrolNormal_Flat" at [2147,3325] damage=1.00 DE="InfectedArmy"
+ 4:13:25.961 <cleanup> Ruined Lifetime:"ZmbM_usSoldier_normal_Woodland" at [2161,3325] damage=1.00 DE="InfectedArmy"
+ 4:13:26.54 [StateMachine]: Player Cappy (dpnid 15339813 uid o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) Entering DBGetCharacterLoginState
+ 4:13:26.54 [StateMachine]: Player Cappy (dpnid 15339813 uid o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) Entering CreateNetObjectsLoginState
+ 4:13:26.60 [StateMachine]: Player Cappy (dpnid 15339813 uid o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) Entering PreloadCamLoginState
+ 4:13:26.60 [StateMachine]: Player Cappy (dpnid 15339813 uid o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) Entering WaitPreloadCamLoginState
+ 4:13:26.754 Average server FPS: 9055.00 (measured interval: 1 s)
+ 4:13:26.755 Used memory: 2597631 KB
+ 4:13:26.755 Players: 1 in total
+ 4:13:27.754 Average server FPS: 9126.00 (measured interval: 1 s)
+ 4:13:27.754 Used memory: 2597656 KB
+ 4:13:27.754 Players: 1 in total
+ 4:13:28.754 Average server FPS: 9146.00 (measured interval: 1 s)
+ 4:13:28.754 Used memory: 2597667 KB
+ 4:13:28.754 Players: 1 in total
+ 4:13:29.754 Average server FPS: 9173.00 (measured interval: 1 s)
+ 4:13:29.754 Used memory: 2597686 KB
+ 4:13:29.754 Players: 1 in total
+ 4:13:30.754 Average server FPS: 9099.00 (measured interval: 1 s)
+ 4:13:30.754 Used memory: 2597712 KB
+ 4:13:30.754 Players: 1 in total
+ 4:13:31.754 Average server FPS: 9129.00 (measured interval: 1 s)
+ 4:13:31.754 Used memory: 2597731 KB
+ 4:13:31.754 Players: 1 in total
+ 4:13:32.651 [StateMachine]: Player Cappy (dpnid 15339813 uid o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) Entering GetLoadedCharLoginState
+ 4:13:32.669 <LOAD EXISTING CHAR>:
+    charID 1
+    playerID 1
+    dpnid 15339813
+    uid o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=
+ 4:13:32.754 Average server FPS: 8741.00 (measured interval: 1 s)
+ 4:13:32.754 Used memory: 2598628 KB
+ 4:13:32.754 Players: 1 in total
+ 4:13:33.70 [CE][InfectedRespawner] (PRIArmy) :: OnNewPlayer Spawned :0
+ 4:13:33.70 [CE][InfectedRespawner] (PRIArmyHard) :: OnNewPlayer Spawned :0
+ 4:13:33.70 [CE][InfectedRespawner] (PRICity) :: OnNewPlayer Spawned :0
+ 4:13:33.70 [CE][InfectedRespawner] (PRICityTier1) :: OnNewPlayer Spawned :0
+ 4:13:33.71 [CE][InfectedRespawner] (PRIFirefighter) :: OnNewPlayer Spawned :0
+ 4:13:33.71 [CE][InfectedRespawner] (PRIIndustrial) :: OnNewPlayer Spawned :0
+ 4:13:33.71 [CE][InfectedRespawner] (PRIMedic) :: OnNewPlayer Spawned :0
+ 4:13:33.71 [CE][InfectedRespawner] (PRINBC) :: OnNewPlayer Spawned :0
+ 4:13:33.71 [CE][InfectedRespawner] (PRINBCYellow) :: OnNewPlayer Spawned :0
+ 4:13:33.71 [CE][InfectedRespawner] (PRIPolice) :: OnNewPlayer Spawned :0
+ 4:13:33.71 [CE][InfectedRespawner] (PRIPoliceHard) :: OnNewPlayer Spawned :0
+ 4:13:33.71 [CE][InfectedRespawner] (PRIPrisoner) :: OnNewPlayer Spawned :0
+ 4:13:33.71 [CE][InfectedRespawner] (PRIReligious) :: OnNewPlayer Spawned :0
+ 4:13:33.71 [CE][InfectedRespawner] (PRISanta) :: OnNewPlayer Spawned :0
+ 4:13:33.71 [CE][InfectedRespawner] (PRISolitude) :: OnNewPlayer Spawned :0
+ 4:13:33.72 !!! [CE][Spawn] Character "ZmbM_JoggerSkinny_Blue" at 3219.149414, 13716.182617
+ 4:13:33.74 !!! [CE][Spawn] Character "ZmbF_MilkMaidOld_Black" at 3198.900146, 13728.095703
+ 4:13:33.75 !!! [CE][Spawn] Character "ZmbF_MilkMaidOld_Grey" at 3217.690186, 13752.319336
+ 4:13:33.76 !!! [CE][Spawn] Character "ZmbM_FarmerFat_Brown" at 3197.410400, 13706.949219
+ 4:13:33.77 !!! [CE][Spawn] Character "ZmbF_JoggerSkinny_Green" at 3231.992676, 13705.527344
+ 4:13:33.77 !!! [CE][Spawn] Character "ZmbF_MilkMaidOld_Grey" at 3213.125244, 13711.483398
+ 4:13:33.77 !!! [CE][Spawn] Character "ZmbF_JoggerSkinny_Brown" at 3199.936523, 13701.953125
+ 4:13:33.78 !!! [CE][Spawn] Character "ZmbM_Jacket_brown" at 3196.036133, 13717.290039
+ 4:13:33.79 !!! [CE][Spawn] Character "ZmbF_JoggerSkinny_Brown" at 3218.667725, 13703.440430
+ 4:13:33.79 !!! [CE][Spawn] Character "ZmbM_FarmerFat_Brown" at 3534.782715, 14211.942383
+ 4:13:33.80 !!! [CE][Spawn] Character "ZmbM_VillagerOld_White" at 3509.001221, 14212.643555
+ 4:13:33.80 !!! [CE][Spawn] Character "ZmbM_Jacket_stripes" at 3553.038330, 14207.486328
+ 4:13:33.81 !!! [CE][Spawn] Character "ZmbM_JoggerSkinny_Green" at 3541.108154, 14267.228516
+ 4:13:33.81 !!! [CE][Spawn] Character "ZmbM_Jacket_beige" at 3568.975098, 14239.532227
+ 4:13:33.82 !!! [CE][Spawn] Character "ZmbM_VillagerOld_Blue" at 3533.907227, 14221.633789
+ 4:13:33.82 !!! [CE][Spawn] Character "ZmbM_JoggerSkinny_Green" at 3539.662354, 14213.447266
+ 4:13:33.82 !!! [CE][Spawn] Character "ZmbM_JoggerSkinny_Green" at 3542.316650, 14225.187500
+ 4:13:33.83 !!! [CE][Spawn] Character "ZmbM_FarmerFat_Blue" at 3530.820068, 14220.472656
+ 4:13:33.83 !!! [CE][Spawn] Character "ZmbM_Jacket_stripes" at 3521.024170, 14246.920898
+ 4:13:33.83 !!! [CE][Spawn] Character "ZmbF_MilkMaidOld_Beige" at 3533.219727, 14208.027344
+ 4:13:33.83 [CE][InfectedRespawner] (PRIVillage) :: OnNewPlayer Spawned :20
+ 4:13:33.83 [CE][InfectedRespawner] (PRIVillageTier1) :: OnNewPlayer Spawned :0
+ 4:13:33.83 [CE][InfectedRespawner] (SECArmy) :: OnNewPlayer Spawned :0
+ 4:13:33.83 [CE][InfectedRespawner] (SECArmy) :: OnNewPlayer Spawned :0
+ 4:13:33.83 [CE][InfectedRespawner] (SECPoliceHard) :: OnNewPlayer Spawned :0
+ 4:13:33.83 [CE][InfectedRespawner] (SECIndustrial) :: OnNewPlayer Spawned :0
+ 4:13:33.754 Average server FPS: 7239.00 (measured interval: 1 s)
+ 4:13:33.754 Used memory: 2600760 KB
+ 4:13:33.754 Players: 1 in total
+ 4:13:34.754 Average server FPS: 7542.00 (measured interval: 1 s)
+ 4:13:34.754 Used memory: 2600808 KB
+ 4:13:34.754 Players: 1 in total
+ 4:13:35.754 Average server FPS: 7503.00 (measured interval: 1 s)
+ 4:13:35.755 Used memory: 2600843 KB
+ 4:13:35.755 Players: 1 in total
+ 4:13:36.754 Average server FPS: 7425.00 (measured interval: 1 s)
+ 4:13:36.754 Used memory: 2600878 KB
+ 4:13:36.754 Players: 1 in total
+ 4:13:37.754 Average server FPS: 7409.00 (measured interval: 1 s)
+ 4:13:37.754 Used memory: 2600912 KB
+ 4:13:37.754 Players: 1 in total
+ 4:13:38.754 Average server FPS: 7412.00 (measured interval: 1 s)
+ 4:13:38.754 Used memory: 2600947 KB
+ 4:13:38.754 Players: 1 in total
+ 4:13:39.754 Average server FPS: 7408.00 (measured interval: 1 s)
+ 4:13:39.754 Used memory: 2600982 KB
+ 4:13:39.754 Players: 1 in total
+ 4:13:40.754 Average server FPS: 7390.00 (measured interval: 1 s)
+ 4:13:40.754 Used memory: 2601103 KB
+ 4:13:40.754 Players: 1 in total
+ 4:13:41.171 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] NailBox missing:22 [cnt:68, nom:90, min:70]
+ 4:13:41.171   Adding NailBox at [6605,14532]
+ 4:13:41.171   Adding NailBox at [12303,9811]
+ 4:13:41.171   Adding NailBox at [10223,2431]
+ 4:13:41.171   Adding NailBox at [12643,14761]
+ 4:13:41.171   Adding NailBox at [8767,11671]
+ 4:13:41.171   Adding NailBox at [10283,1583]
+ 4:13:41.172   Adding NailBox at [4813,6779]
+ 4:13:41.172   Adding NailBox at [14133,13051]
+ 4:13:41.172   Adding NailBox at [13538,14142]
+ 4:13:41.172   Adding NailBox at [5852,2193]
+ 4:13:41.172   [CE][LootRespawner] (PRIDummy) :: NailBox respawned:10, tests:10 missing:12
+ 4:13:41.271 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Mosin_Bayonet missing:5 [cnt:5, nom:10, min:5]
+ 4:13:41.271   Adding Mosin_Bayonet at [7635,12882]
+ 4:13:41.271   Adding Mosin_Bayonet at [7190,7733]
+ 4:13:41.271   Adding Mosin_Bayonet at [8331,12836]
+ 4:13:41.271   Adding Mosin_Bayonet at [9680,8937]
+ 4:13:41.271   Adding Mosin_Bayonet at [6455,6190]
+ 4:13:41.271   [CE][LootRespawner] (PRIDummy) :: Mosin_Bayonet respawned:5, tests:5 missing:0
+ 4:13:41.371 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] AmmoBox_545x39_20Rnd missing:5 [cnt:12, nom:17, min:12]
+ 4:13:41.371   Adding AmmoBox_545x39_20Rnd at [4603,9593]
+ 4:13:41.371   Adding AmmoBox_545x39_20Rnd at [6329,7821]
+ 4:13:41.371   Adding AmmoBox_545x39_20Rnd at [5186,9884]
+ 4:13:41.371   Adding AmmoBox_545x39_20Rnd at [5368,10026]
+ 4:13:41.372   Adding AmmoBox_545x39_20Rnd at [6317,7830]
+ 4:13:41.372   [CE][LootRespawner] (PRIDummy) :: AmmoBox_545x39_20Rnd respawned:5, tests:5 missing:0
+ 4:13:41.471 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] QuiltedJacket_Green missing:5 [cnt:5, nom:10, min:5]
+ 4:13:41.471   Adding QuiltedJacket_Green at [6668,14558]
+ 4:13:41.471   Adding QuiltedJacket_Green at [6236,12713]
+ 4:13:41.471   Adding QuiltedJacket_Green at [7956,11977]
+ 4:13:41.471   Adding QuiltedJacket_Green at [7860,12609]
+ 4:13:41.472   Adding QuiltedJacket_Green at [8414,13011]
+ 4:13:41.472   [CE][LootRespawner] (PRIDummy) :: QuiltedJacket_Green respawned:5, tests:5 missing:0
+ 4:13:41.571 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] GorkaEJacket_PautRev missing:3 [cnt:2, nom:5, min:2]
+ 4:13:41.571   Adding GorkaEJacket_PautRev at [4959,12992]
+ 4:13:41.571   Adding GorkaEJacket_PautRev at [4692,10394]
+ 4:13:41.571   Adding GorkaEJacket_PautRev at [5238,9827]
+ 4:13:41.571   [CE][LootRespawner] (PRIDummy) :: GorkaEJacket_PautRev respawned:3, tests:3 missing:0
+ 4:13:41.671 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] M79 missing:3 [cnt:0, nom:3, min:1]
+ 4:13:41.671 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "M79"
+ 4:13:41.671   [CE][LootRespawner] (PRIDummy) :: M79 respawned:0, tests:0 missing:3
+ 4:13:41.754 Average server FPS: 7371.00 (measured interval: 1 s)
+ 4:13:41.754 Used memory: 2601347 KB
+ 4:13:41.754 Players: 1 in total
+ 4:13:41.771 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] CivSedanDoors_Driver_Black missing:1 [cnt:0, nom:1, min:1]
+ 4:13:41.771 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "CivSedanDoors_Driver_Black"
+ 4:13:41.771   [CE][LootRespawner] (PRIDummy) :: CivSedanDoors_Driver_Black respawned:0, tests:0 missing:1
+ 4:13:41.870 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] CivSedanHood_Wine missing:1 [cnt:0, nom:1, min:1]
+ 4:13:41.871 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "CivSedanHood_Wine"
+ 4:13:41.871   [CE][LootRespawner] (PRIDummy) :: CivSedanHood_Wine respawned:0, tests:0 missing:1
+ 4:13:41.970 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] CivSedanTrunk_Wine missing:1 [cnt:0, nom:1, min:1]
+ 4:13:41.971 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "CivSedanTrunk_Wine"
+ 4:13:41.971   [CE][LootRespawner] (PRIDummy) :: CivSedanTrunk_Wine respawned:0, tests:0 missing:1
+ 4:13:42.71 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Land_Wreck_sed01_aban2_police missing:1 [cnt:0, nom:1, min:1]
+ 4:13:42.73   [CE][LootRespawner] (PRIDummy) :: Land_Wreck_sed01_aban2_police respawned:1, tests:1 missing:0
+ 4:13:42.170 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] HatchbackDoors_CoDriver_Blue missing:1 [cnt:0, nom:1, min:1]
+ 4:13:42.171 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "HatchbackDoors_CoDriver_Blue"
+ 4:13:42.171   [CE][LootRespawner] (PRIDummy) :: HatchbackDoors_CoDriver_Blue respawned:0, tests:0 missing:1
+ 4:13:42.270 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Sedan_02_Trunk_Grey missing:1 [cnt:0, nom:1, min:1]
+ 4:13:42.271 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "Sedan_02_Trunk_Grey"
+ 4:13:42.271   [CE][LootRespawner] (PRIDummy) :: Sedan_02_Trunk_Grey respawned:0, tests:0 missing:1
+ 4:13:42.370 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] HatchbackDoors_Driver_White missing:1 [cnt:0, nom:1, min:1]
+ 4:13:42.370 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "HatchbackDoors_Driver_White"
+ 4:13:42.370   [CE][LootRespawner] (PRIDummy) :: HatchbackDoors_Driver_White respawned:0, tests:0 missing:1
+ 4:13:42.470 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Hatchback_02_Hood_Blue missing:1 [cnt:0, nom:1, min:1]
+ 4:13:42.471 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "Hatchback_02_Hood_Blue"
+ 4:13:42.471   [CE][LootRespawner] (PRIDummy) :: Hatchback_02_Hood_Blue respawned:0, tests:0 missing:1
+ 4:13:42.570 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Truck_01_Door_1_1_Blue missing:1 [cnt:0, nom:1, min:1]
+ 4:13:42.570 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "Truck_01_Door_1_1_Blue"
+ 4:13:42.570   [CE][LootRespawner] (PRIDummy) :: Truck_01_Door_1_1_Blue respawned:0, tests:0 missing:1
+ 4:13:42.670 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Sedan_02_Door_1_2 missing:1 [cnt:0, nom:1, min:1]
+ 4:13:42.671 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "Sedan_02_Door_1_2"
+ 4:13:42.671   [CE][LootRespawner] (PRIDummy) :: Sedan_02_Door_1_2 respawned:0, tests:0 missing:1
+ 4:13:42.753 Average server FPS: 7310.00 (measured interval: 1 s)
+ 4:13:42.754 Used memory: 2601744 KB
+ 4:13:42.754 Players: 1 in total
+ 4:13:42.770 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Hatchback_02_Trunk_Blue missing:1 [cnt:0, nom:1, min:1]
+ 4:13:42.770 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "Hatchback_02_Trunk_Blue"
+ 4:13:42.770   [CE][LootRespawner] (PRIDummy) :: Hatchback_02_Trunk_Blue respawned:0, tests:0 missing:1
+ 4:13:42.871 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Sedan_02_Door_2_1_Grey missing:1 [cnt:0, nom:1, min:1]
+ 4:13:42.871 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "Sedan_02_Door_2_1_Grey"
+ 4:13:42.871   [CE][LootRespawner] (PRIDummy) :: Sedan_02_Door_2_1_Grey respawned:0, tests:0 missing:1
+ 4:13:42.971 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Truck_01_Door_1_1_Orange missing:1 [cnt:0, nom:1, min:1]
+ 4:13:42.971 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "Truck_01_Door_1_1_Orange"
+ 4:13:42.971   [CE][LootRespawner] (PRIDummy) :: Truck_01_Door_1_1_Orange respawned:0, tests:0 missing:1
+ 4:13:43.71 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] HatchbackDoors_CoDriver missing:1 [cnt:0, nom:1, min:1]
+ 4:13:43.71 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "HatchbackDoors_CoDriver"
+ 4:13:43.71   [CE][LootRespawner] (PRIDummy) :: HatchbackDoors_CoDriver respawned:0, tests:0 missing:1
+ 4:13:43.754 Average server FPS: 7532.00 (measured interval: 1 s)
+ 4:13:43.754 Used memory: 2601777 KB
+ 4:13:43.754 Players: 1 in total
+ 4:13:44.754 Average server FPS: 7536.00 (measured interval: 1 s)
+ 4:13:44.754 Used memory: 2601812 KB
+ 4:13:44.754 Players: 1 in total
+ 4:13:45.754 Average server FPS: 7547.00 (measured interval: 1 s)
+ 4:13:45.754 Used memory: 2601844 KB
+ 4:13:45.754 Players: 1 in total
+ 4:13:46.70 ------------------------------------
+ 4:13:46.70   ***  CE Loop took 26.9 (sec)...
+ 4:13:46.70 players: 1, loot: 19931, infected: 114, animals: 238
+ 4:13:46.70 ------------------------------------
+ 4:13:46.754 Average server FPS: 7505.00 (measured interval: 1 s)
+ 4:13:46.754 Used memory: 2601883 KB
+ 4:13:46.754 Players: 1 in total
+ 4:13:47.754 Average server FPS: 7474.00 (measured interval: 1 s)
+ 4:13:47.754 Used memory: 2601915 KB
+ 4:13:47.754 Players: 1 in total
+ 4:13:48.754 Average server FPS: 7522.00 (measured interval: 1 s)
+ 4:13:48.754 Used memory: 2601947 KB
+ 4:13:48.754 Players: 1 in total
+ 4:13:49.754 Average server FPS: 7467.00 (measured interval: 1 s)
+ 4:13:49.754 Used memory: 2601988 KB
+ 4:13:49.754 Players: 1 in total
+ 4:13:50.170 <cleanup> Depleted:"JoggingShoes_Violet" at [12767,14677] damage=0.50
+ 4:13:50.170 <cleanup> Remove:"JoggingShoes_Violet" at [12767,14677] damage=0.50
+ 4:13:50.171 <cleanup> Depleted:"DirtBikeHelmet_Khaki" at [11932,13176] damage=0.50
+ 4:13:50.171 <cleanup> Remove:"DirtBikeHelmet_Khaki" at [11932,13176] damage=0.50
+ 4:13:50.171 <cleanup> Depleted:"GPSReceiver" at [11600,14758] damage=0.26
+ 4:13:50.171 <cleanup> Remove:"GPSReceiver" at [11600,14758] damage=0.26
+ 4:13:50.171   Items deleted: 3, of: 3
+ 4:13:50.470 <cleanup> Depleted:"ZucchiniSeedsPack" at [11173,12355] damage=0.20
+ 4:13:50.470 <cleanup> Remove:"ZucchiniSeedsPack" at [11173,12355] damage=0.20
+ 4:13:50.471 <cleanup> Depleted:"BalaclavaMask_Beige" at [10951,14437] damage=0.45
+ 4:13:50.471 <cleanup> Remove:"BalaclavaMask_Beige" at [10951,14437] damage=0.45
+ 4:13:50.471 <cleanup> Depleted:"Bear_Pink" at [10837,14389] damage=0.50
+ 4:13:50.471 <cleanup> Remove:"Bear_Pink" at [10837,14389] damage=0.50
+ 4:13:50.471   Items deleted: 3, of: 3
+ 4:13:50.754 Average server FPS: 7539.00 (measured interval: 1 s)
+ 4:13:50.754 Used memory: 2601973 KB
+ 4:13:50.754 Players: 1 in total
+ 4:13:50.770 <cleanup> Depleted:"TrackSuitJacket_Black" at [10020,5655] damage=0.50
+ 4:13:50.770 <cleanup> Remove:"TrackSuitJacket_Black" at [10020,5655] damage=0.50
+ 4:13:50.771 <cleanup> Depleted:"BalaclavaMask_Green" at [9579,13371] damage=0.82
+ 4:13:50.771 <cleanup> Remove:"BalaclavaMask_Green" at [9579,13371] damage=0.82
+ 4:13:50.771   Items deleted: 2, of: 2
+ 4:13:51.370 <cleanup> Depleted:"HuntingJacket_Autumn" at [6925,11362] damage=0.08
+ 4:13:51.370 <cleanup> Remove:"HuntingJacket_Autumn" at [6925,11362] damage=0.08
+ 4:13:51.371   Items deleted: 1, of: 1
+ 4:13:51.670 <cleanup> Depleted:"Pipe" at [5978,13476] damage=0.28
+ 4:13:51.670 <cleanup> Remove:"Pipe" at [5978,13476] damage=0.28
+ 4:13:51.671   Items deleted: 1, of: 1
+ 4:13:51.753 Average server FPS: 7523.00 (measured interval: 1 s)
+ 4:13:51.753 Used memory: 2601967 KB
+ 4:13:51.753 Players: 1 in total
+ 4:13:51.971 <cleanup> Depleted:"DuctTape" at [5008,15190] damage=0.20
+ 4:13:51.971 <cleanup> Remove:"DuctTape" at [5008,15190] damage=0.20
+ 4:13:51.971 <cleanup> Depleted:"Hammer" at [4015,11833] damage=0.06
+ 4:13:51.971 <cleanup> Remove:"Hammer" at [4015,11833] damage=0.06
+ 4:13:51.972 <cleanup> Depleted:"Shirt_BlueCheckBright" at [4253,4481] damage=0.50
+ 4:13:51.972 <cleanup> Remove:"Shirt_BlueCheckBright" at [4253,4481] damage=0.50
+ 4:13:51.972   Items deleted: 3, of: 3
+ 4:13:52.271 <cleanup> Depleted:"AgaricusMushroom" at [3480,13808] damage=0.90
+ 4:13:52.271 <cleanup> Depleted:"CivSedanDoors_Driver_WineRust" at [2711,5163] damage=0.82
+ 4:13:52.271 <cleanup> Remove:"CivSedanDoors_Driver_WineRust" at [2711,5163] damage=0.82
+ 4:13:52.271 <cleanup> Depleted:"Sweater_Blue" at [3606,2518] damage=0.50
+ 4:13:52.271 <cleanup> Remove:"Sweater_Blue" at [3606,2518] damage=0.50
+ 4:13:52.272 <cleanup> Depleted:"PleurotusMushroom" at [3478,13803] damage=0.90
+ 4:13:52.272 <cleanup> Depleted:"CZ75" at [3052,12627] damage=0.25
+ 4:13:52.272 <cleanup> Remove:"CZ75" at [3052,12627] damage=0.25
+ 4:13:52.272 <cleanup> Depleted:"MacrolepiotaMushroom" at [3415,13873] damage=0.15
+ 4:13:52.272 <cleanup> Depleted:"MacrolepiotaMushroom" at [3320,13749] damage=0.90
+ 4:13:52.272 <cleanup> Depleted:"BoletusMushroom" at [3381,13846] damage=0.50
+ 4:13:52.272   Items deleted: 3, of: 8
+ 4:13:52.571 <cleanup> Depleted:"Hatchback_02_Wheel" at [2526,5023] damage=0.06
+ 4:13:52.571 <cleanup> Remove:"Hatchback_02_Wheel" at [2526,5023] damage=0.06
+ 4:13:52.571   Items deleted: 1, of: 1
+ 4:13:52.754 Average server FPS: 7517.00 (measured interval: 1 s)
+ 4:13:52.754 Used memory: 2601874 KB
+ 4:13:52.754 Players: 1 in total
+ 4:13:53.754 Average server FPS: 7319.00 (measured interval: 1 s)
+ 4:13:53.754 Used memory: 2601907 KB
+ 4:13:53.754 Players: 1 in total
+ 4:13:54.754 Average server FPS: 7515.00 (measured interval: 1 s)
+ 4:13:54.754 Used memory: 2601932 KB
+ 4:13:54.754 Players: 1 in total
+ 4:13:55.754 Average server FPS: 7479.00 (measured interval: 1 s)
+ 4:13:55.754 Used memory: 2601964 KB
+ 4:13:55.754 Players: 1 in total
+ 4:13:56.754 Average server FPS: 7425.00 (measured interval: 1 s)
+ 4:13:56.754 Used memory: 2602003 KB
+ 4:13:56.754 Players: 1 in total
+ 4:13:57.754 Average server FPS: 7528.00 (measured interval: 1 s)
+ 4:13:57.754 Used memory: 2602035 KB
+ 4:13:57.754 Players: 1 in total
+ 4:13:58.754 Average server FPS: 7493.00 (measured interval: 1 s)
+ 4:13:58.754 Used memory: 2602066 KB
+ 4:13:58.754 Players: 1 in total
+ 4:13:59.754 Average server FPS: 7447.00 (measured interval: 1 s)
+ 4:13:59.754 Used memory: 2602100 KB
+ 4:13:59.754 Players: 1 in total
+ 4:14:00.755 Average server FPS: 7485.00 (measured interval: 1 s)
+ 4:14:00.755 Used memory: 2602134 KB
+ 4:14:00.755 Players: 1 in total
+ 4:14:01.754 Average server FPS: 7471.00 (measured interval: 1 s)
+ 4:14:01.754 Used memory: 2602157 KB
+ 4:14:01.754 Players: 1 in total
+ 4:14:02.754 Average server FPS: 7457.00 (measured interval: 1 s)
+ 4:14:02.754 Used memory: 2602191 KB
+ 4:14:02.754 Players: 1 in total
+ 4:14:03.754 Average server FPS: 7538.00 (measured interval: 1 s)
+ 4:14:03.754 Used memory: 2602224 KB
+ 4:14:03.754 Players: 1 in total
+ 4:14:04.754 Average server FPS: 7445.00 (measured interval: 1 s)
+ 4:14:04.754 Used memory: 2602256 KB
+ 4:14:04.754 Players: 1 in total
+ 4:14:05.754 Average server FPS: 7455.00 (measured interval: 1 s)
+ 4:14:05.754 Used memory: 2602288 KB
+ 4:14:05.754 Players: 1 in total
+ 4:14:06.754 Average server FPS: 7523.00 (measured interval: 1 s)
+ 4:14:06.754 Used memory: 2602327 KB
+ 4:14:06.754 Players: 1 in total
+ 4:14:07.754 Average server FPS: 7377.00 (measured interval: 1 s)
+ 4:14:07.754 Used memory: 2602354 KB
+ 4:14:07.754 Players: 1 in total
+ 4:14:08.70 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Chemlight_Yellow missing:5 [cnt:30, nom:35, min:30]
+ 4:14:08.70   Adding Chemlight_Yellow at [3332,13074]
+ 4:14:08.71   Adding Chemlight_Yellow at [10616,2259]
+ 4:14:08.72   Adding Chemlight_Yellow at [6616,14494]
+ 4:14:08.72   Adding Chemlight_Yellow at [6657,2420]
+ 4:14:08.72   Adding Chemlight_Yellow at [6995,2823]
+ 4:14:08.72   [CE][LootRespawner] (PRIDummy) :: Chemlight_Yellow respawned:5, tests:5 missing:0
+ 4:14:08.170 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] HatchbackDoors_CoDriver missing:1 [cnt:0, nom:1, min:1]
+ 4:14:08.171 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "HatchbackDoors_CoDriver"
+ 4:14:08.171   [CE][LootRespawner] (PRIDummy) :: HatchbackDoors_CoDriver respawned:0, tests:0 missing:1
+ 4:14:08.270 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] HatchbackTrunk missing:1 [cnt:0, nom:1, min:1]
+ 4:14:08.271 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "HatchbackTrunk"
+ 4:14:08.271   [CE][LootRespawner] (PRIDummy) :: HatchbackTrunk respawned:0, tests:0 missing:1
+ 4:14:08.370 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Sedan_02_Door_2_2_Grey missing:1 [cnt:0, nom:1, min:1]
+ 4:14:08.371 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "Sedan_02_Door_2_2_Grey"
+ 4:14:08.371   [CE][LootRespawner] (PRIDummy) :: Sedan_02_Door_2_2_Grey respawned:0, tests:0 missing:1
+ 4:14:08.470 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Flag_LivoniaPolice missing:1 [cnt:0, nom:1, min:1]
+ 4:14:08.471   Adding Flag_LivoniaPolice at [7544,3138]
+ 4:14:08.471   [CE][LootRespawner] (PRIDummy) :: Flag_LivoniaPolice respawned:1, tests:1 missing:0
+ 4:14:08.570 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Offroad_02_Door_1_1 missing:1 [cnt:0, nom:1, min:1]
+ 4:14:08.571 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "Offroad_02_Door_1_1"
+ 4:14:08.571   [CE][LootRespawner] (PRIDummy) :: Offroad_02_Door_1_1 respawned:0, tests:0 missing:1
+ 4:14:08.670 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Offroad_02_Door_1_2 missing:1 [cnt:0, nom:1, min:1]
+ 4:14:08.671 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "Offroad_02_Door_1_2"
+ 4:14:08.671   [CE][LootRespawner] (PRIDummy) :: Offroad_02_Door_1_2 respawned:0, tests:0 missing:1
+ 4:14:08.754 Average server FPS: 7412.00 (measured interval: 1 s)
+ 4:14:08.754 Used memory: 2602443 KB
+ 4:14:08.754 Players: 1 in total
+ 4:14:08.770 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Truck_01_Door_1_1 missing:1 [cnt:0, nom:1, min:1]
+ 4:14:08.770 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "Truck_01_Door_1_1"
+ 4:14:08.770   [CE][LootRespawner] (PRIDummy) :: Truck_01_Door_1_1 respawned:0, tests:0 missing:1
+ 4:14:08.870 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Land_Wreck_sed01_aban1_police missing:1 [cnt:0, nom:1, min:1]
+ 4:14:08.872   [CE][LootRespawner] (PRIDummy) :: Land_Wreck_sed01_aban1_police respawned:1, tests:1 missing:0
+ 4:14:08.970 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Truck_01_Hood_Orange missing:1 [cnt:0, nom:1, min:1]
+ 4:14:08.971   [CE][LootRespawner] (PRIDummy) :: Truck_01_Hood_Orange respawned:0, tests:0 missing:1
+ 4:14:09.70 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Sedan_02_Door_1_2_Red missing:1 [cnt:0, nom:1, min:1]
+ 4:14:09.71   [CE][LootRespawner] (PRIDummy) :: Sedan_02_Door_1_2_Red respawned:0, tests:0 missing:1
+ 4:14:09.170 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] HatchbackHood_Blue missing:1 [cnt:0, nom:1, min:1]
+ 4:14:09.171   [CE][LootRespawner] (PRIDummy) :: HatchbackHood_Blue respawned:0, tests:0 missing:1
+ 4:14:09.270 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Sedan_02_Door_1_2_Grey missing:1 [cnt:0, nom:1, min:1]
+ 4:14:09.271   [CE][LootRespawner] (PRIDummy) :: Sedan_02_Door_1_2_Grey respawned:0, tests:0 missing:1
+ 4:14:09.370 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] ZmbM_MotobikerFat_Blue missing:1 [cnt:0, nom:1, min:1]
+ 4:14:09.372   [CE][LootRespawner] (PRIDummy) :: ZmbM_MotobikerFat_Blue respawned:1, tests:1 missing:0
+ 4:14:09.470 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Hatchback_02_Door_1_1_Black missing:1 [cnt:0, nom:1, min:1]
+ 4:14:09.471   [CE][LootRespawner] (PRIDummy) :: Hatchback_02_Door_1_1_Black respawned:0, tests:0 missing:1
+ 4:14:09.570 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] CivSedanDoors_BackLeft missing:1 [cnt:0, nom:1, min:1]
+ 4:14:09.571   [CE][LootRespawner] (PRIDummy) :: CivSedanDoors_BackLeft respawned:0, tests:0 missing:1
+ 4:14:09.670 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Offroad_02_Hood missing:1 [cnt:0, nom:1, min:1]
+ 4:14:09.670   [CE][LootRespawner] (PRIDummy) :: Offroad_02_Hood respawned:0, tests:0 missing:1
+ 4:14:09.754 Average server FPS: 5960.00 (measured interval: 1 s)
+ 4:14:09.754 Used memory: 2604489 KB
+ 4:14:09.754 Players: 1 in total
+ 4:14:09.770 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Hatchback_02_Door_2_1 missing:1 [cnt:0, nom:1, min:1]
+ 4:14:09.771   [CE][LootRespawner] (PRIDummy) :: Hatchback_02_Door_2_1 respawned:0, tests:0 missing:1
+ 4:14:09.870 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Hatchback_02_Door_2_2 missing:1 [cnt:0, nom:1, min:1]
+ 4:14:09.871   [CE][LootRespawner] (PRIDummy) :: Hatchback_02_Door_2_2 respawned:0, tests:0 missing:1
+ 4:14:09.970 [CE][LootRespawner] (PRIDummy) :: [RESPAWN CANDIDATE] Sedan_02_Hood missing:1 [cnt:0, nom:1, min:1]
+ 4:14:09.971   [CE][LootRespawner] (PRIDummy) :: Sedan_02_Hood respawned:0, tests:0 missing:1
+ 4:14:10.72 !!! [CE][Spawn] Character "ZmbF_JournalistNormal_Green" at 3382.228760, 13202.568359
+ 4:14:10.73 !!! [CE][Spawn] Character "ZmbM_ClerkFat_Grey" at 3334.531738, 13135.320313
+ 4:14:10.74 !!! [CE][Spawn] Character "ZmbM_CitizenASkinny_Red" at 3370.864014, 13130.260742
+ 4:14:10.75 !!! [CE][Spawn] Character "ZmbF_ShortSkirt_brown" at 3359.098633, 13162.119141
+ 4:14:10.77 !!! [CE][Spawn] Character "ZmbF_SkaterYoung_Violet" at 3339.060303, 13129.436523
+ 4:14:10.78 !!! [CE][Spawn] Character "ZmbM_SkaterYoung_Grey" at 3339.875732, 13148.810547
+ 4:14:10.79 !!! [CE][Spawn] Character "ZmbF_CitizenBSkinny" at 3363.671143, 13117.732422
+ 4:14:10.80 !!! [CE][Spawn] Character "ZmbF_SurvivorNormal_Red" at 3371.000000, 13158.400391
+ 4:14:10.81 !!! [CE][Spawn] Character "ZmbM_SkaterYoung_Brown" at 3329.459229, 13143.062500
+ 4:14:10.82 !!! [CE][Spawn] Character "ZmbF_ShortSkirt_beige" at 3379.647217, 13106.419922
+ 4:14:10.754 Average server FPS: 7103.00 (measured interval: 1 s)
+ 4:14:10.755 Used memory: 2605872 KB
+ 4:14:10.755 Players: 1 in total
+ 4:14:11.754 Average server FPS: 7479.00 (measured interval: 1 s)
+ 4:14:11.754 Used memory: 2605926 KB
+ 4:14:11.754 Players: 1 in total
+ 4:14:12.271   Adding BoletusMushroom at [3326,13727]

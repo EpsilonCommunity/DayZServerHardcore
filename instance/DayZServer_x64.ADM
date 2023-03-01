@@ -1,0 +1,52 @@
+
+
+******************************************************************************
+AdminLog started on 2023-02-28 at 13:16:37
+13:16:52 |  [VPPAT] [PermissionManager] Adding Super Admin (76561198079984427)
+13:16:52 |  [VPPAT] [PermissionManager] Loaded UserGroups.json
+13:16:52 |  [VPPAT] [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+13:16:52 |  [VPPAT] [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+13:16:52 |  [VPPAT] [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+13:16:52 |  [VPPAT] [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+13:16:52 |  [VPPAT] [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+13:16:52 |  [VPPAT] [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+13:16:52 |  [VPPAT] [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+13:16:52 |  [VPPAT] [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+13:16:52 |  [VPPAT] [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+13:16:52 |  [VPPAT] [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+13:16:52 |  [VPPAT] [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+13:16:52 |  [VPPAT] [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+13:16:52 |  [VPPAT] [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+13:16:52 |  [VPPAT] [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+13:16:52 |  [VPPAT] [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+13:16:52 |  [VPPAT] [PermissionManager] Perm (Chat:refuelCar) has been registered!
+13:16:52 |  [VPPAT] [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+13:16:52 |  [VPPAT] [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+13:16:52 |  [VPPAT] Building Sets Loaded: 0
+13:16:52 |  [VPPAT] [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+13:16:52 |  [VPPAT] [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+13:17:24 | Player "Cappy" is connected (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=)
+13:17:34 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) connected to server!
+13:18:43 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) initiated disconnect process...
+13:18:45 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) disconnected from server.
+13:18:45 | Player "Cappy"(id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) has been disconnected
+13:21:06 | Player "Cappy" is connected (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=)
+13:21:15 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) connected to server!
+13:22:14 | ##### PlayerList log: 1 players
+13:22:14 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6346.5, 7786.1, 305.0>)
+13:22:14 | #####
+13:22:25 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) initiated disconnect process...
+13:22:26 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) disconnected early from server (EXIT NOW).
+13:22:27 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) disconnected from server.
+13:22:27 | Player "Cappy"(id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) has been disconnected
+13:23:17 | Player "Cappy" is connected (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=)
+13:23:30 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) connected to server!
+13:24:20 | Player "Scab Higgins"(id=Unknown) has been disconnected
+13:25:11 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) initiated disconnect process...
+13:25:13 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) disconnected early from server (EXIT NOW).
+13:25:13 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) disconnected from server.
+13:25:13 | Player "Cappy"(id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) has been disconnected
+13:26:09 | Player "Scab Higgins"(id=Unknown) has been disconnected
+13:34:31 | Player "Scab Higgins"(id=Unknown) has been disconnected
+13:41:08 | Player "Scab Higgins"(id=Unknown) has been disconnected
+13:43:03 | Player "Scab Higgins"(id=Unknown) has been disconnected

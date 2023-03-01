@@ -1,0 +1,309 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-2-26_17-20-15
+====================================================================================
+17:20:15 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+17:20:15 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+17:20:15 | [PermissionManager] Perm (FreeCamera) has been registered!
+17:20:15 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuItemManager) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuServerManager) has been registered!
+17:20:15 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+17:20:15 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+17:20:15 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+17:20:15 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+17:20:15 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+17:20:15 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+17:20:15 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+17:20:15 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+17:20:15 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+17:20:15 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+17:20:15 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+17:20:15 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+17:20:15 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+17:20:15 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+17:20:15 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+17:20:15 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+17:20:15 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+17:20:15 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+17:20:15 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+17:20:15 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+17:20:15 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+17:20:15 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+17:20:15 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+17:20:15 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+17:20:15 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+17:20:15 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+17:20:15 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+17:20:15 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+17:20:15 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+17:20:15 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+17:20:15 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+17:20:15 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+17:20:15 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuBansManager) has been registered!
+17:20:15 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+17:20:15 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+17:20:15 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+17:20:15 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+17:20:15 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+17:20:15 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+17:20:15 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+17:20:15 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+17:20:15 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+17:20:15 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+17:20:15 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+17:20:15 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+17:20:15 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+17:20:15 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+17:20:15 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+17:20:15 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+17:20:15 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+17:20:15 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+17:20:15 | [PermissionManager] Adding Super Admin (76561198079984427)
+17:20:15 | [PermissionManager] Loaded UserGroups.json
+17:20:15 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+17:20:15 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+17:20:15 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+17:20:15 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+17:20:15 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+17:20:15 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+17:20:15 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+17:20:15 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+17:20:15 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+17:20:15 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+17:20:15 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+17:20:15 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+17:20:15 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+17:20:15 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+17:20:15 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+17:20:15 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+17:20:15 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+17:20:15 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+17:20:15 | Building Sets Loaded: 0
+17:20:15 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+17:20:15 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+17:21:9 | Player "Cappy" (steamId=76561198079984427) connected to server!
+17:25:13 | Player "Cappy" (steamId=76561198079984427) initiated disconnect process...
+17:25:15 | Player "Cappy" (steamId=76561198079984427) disconnected from server.
+17:27:38 | Player "Cappy" (steamId=76561198079984427) connected to server!
+17:27:39 | Player "goof" (steamId=76561198103590483) connected to server!
+17:30:45 | Player "RagnarokHaze" (steamId=76561198120496196) connected to server!
+17:43:11 | [WeatherManager] Send Data Count is 0
+17:43:29 | [Time Manager] Setting Date to 2023/9/20 10:51
+18:12:50 | Player "goof" (steamId=76561198103590483) initiated disconnect process...
+18:12:52 | Player "goof" (steamId=76561198103590483) disconnected from server.
+18:14:34 | "Cappy" (steamid=76561198079984427) toggled godmode
+18:14:36 | "Cappy" (steamid=76561198079984427) toggled godmode
+18:14:48 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_Glock_15Rnd)
+18:14:49 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_Glock_15Rnd)
+18:14:49 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_Glock_15Rnd)
+18:14:49 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_Glock_15Rnd)
+18:14:49 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_Glock_15Rnd)
+18:14:52 | "Cappy" (steamid=76561198079984427) Spawned Item: (Glock19)
+18:39:18 | Player "Cappy" (steamId=76561198079984427) initiated disconnect process...
+18:39:20 | Player "Cappy" (steamId=76561198079984427) disconnected from server.
+18:40:47 | Player "goof" (steamId=76561198103590483) connected to server!
+18:42:0 | Player "Cappy" (steamId=76561198079984427) connected to server!
+19:23:4 | Player "Cappy" (steamId=76561198079984427) initiated disconnect process...
+19:23:5 | Player "Cappy" (steamId=76561198079984427) disconnected early from server (EXIT NOW).
+19:23:6 | Player "Cappy" (steamId=76561198079984427) disconnected from server.
+19:24:22 | Player "RagnarokHaze" (steamId=76561198120496196) initiated disconnect process...
+19:24:24 | Player "RagnarokHaze" (steamId=76561198120496196) disconnected from server.
+19:25:4 | Player "goof" (steamId=76561198103590483) initiated disconnect process...
+19:25:5 | Player "goof" (steamId=76561198103590483) disconnected early from server (EXIT NOW).
+19:25:6 | Player "goof" (steamId=76561198103590483) disconnected from server.
+19:48:32 | Player "Cappy" (steamId=76561198079984427) connected to server!
+20:0:5 | Player "goof" (steamId=76561198103590483) connected to server!
+20:1:27 | Player "RagnarokHaze" (steamId=76561198120496196) connected to server!
+20:1:31 | "Cappy" (steamid=76561198079984427) Spawned Item: (AmmoBox_9x19_25rnd)
+20:1:31 | "Cappy" (steamid=76561198079984427) Spawned Item: (AmmoBox_9x19_25rnd)
+20:1:36 | "Cappy" (steamid=76561198079984427) Spawned Item: (AmmoBox_9x19_25rnd)
+20:1:36 | "Cappy" (steamid=76561198079984427) Spawned Item: (AmmoBox_9x19_25rnd)
+20:1:36 | "Cappy" (steamid=76561198079984427) Spawned Item: (AmmoBox_9x19_25rnd)
+20:1:37 | "Cappy" (steamid=76561198079984427) Spawned Item: (AmmoBox_9x19_25rnd)
+20:20:14 | "76561198079984427" (steamid=76561198079984427) teleported to (pos=<6607.569824, 6.000000, 2573.739990>)
+20:20:14 | "Cappy": (steamid=76561198079984427) teleported to (pos=6607.57,0,2573.74)
+20:20:15 | "76561198079984427" (steamid=76561198079984427) teleported to (pos=<6605.870117, 6.000000, 2572.040039>)
+20:20:15 | "Cappy": (steamid=76561198079984427) teleported to (pos=6605.87,0,2572.04)
+20:39:11 | Player "Cappy" (steamId=76561198079984427) initiated disconnect process...
+20:39:13 | Player "Cappy" (steamId=76561198079984427) disconnected from server.
+20:53:48 | Player "Cappy" (steamId=76561198079984427) connected to server!
+21:19:11 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3563.594482, 15.418923, 2563.803223>)
+21:19:13 | "Cappy" (steamid=76561198079984427) /heal used on: "Cappy" (steamid=76561198079984427)
+21:25:58 | "Cappy" (steamid=76561198079984427) /heal used on: "Cappy" (steamid=76561198079984427)
+21:26:4 | "Cappy" (steamid=76561198079984427) /heal used on: "Cappy" (steamid=76561198079984427)
+21:26:8 | "Cappy" (steamid=76561198079984427) toggled godmode
+21:26:11 | "Cappy" (steamid=76561198079984427) /heal used on: "Cappy" (steamid=76561198079984427)
+21:26:49 | "Cappy" (steamid=76561198079984427) toggled godmode
+21:38:17 | "Cappy" (steamid=76561198079984427) toggled godmode
+21:38:18 | "Cappy" (steamid=76561198079984427) toggled godmode
+21:58:32 | Player "Cappy" (steamId=76561198079984427) initiated disconnect process...
+21:58:51 | Player "Cappy" (steamId=76561198079984427) connected to server!
+21:59:5 | "Cappy" (steamid=76561198079984427) toggled godmode
+21:59:13 | "Cappy" (steamid=76561198079984427) toggled godmode
+21:59:30 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<2318.182129, 132.523392, 3714.858887>)
+21:59:31 | "Cappy" (steamid=76561198079984427) /heal used on: "Cappy" (steamid=76561198079984427)
+22:1:44 | "Cappy" (steamid=76561198079984427) Spawned Item: (AntiChemInjector)
+22:2:33 | "Cappy" (steamid=76561198079984427) Spawned Item: (AntiChemInjector)
+22:7:52 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_UMP_25Rnd)
+22:7:59 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_UMP_25Rnd)
+22:9:25 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_UMP_25Rnd)
+22:9:25 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_UMP_25Rnd)
+22:9:25 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_UMP_25Rnd)
+22:9:57 | "Cappy" (steamid=76561198079984427) Spawned Item: (BandageDressing)
+22:9:57 | "Cappy" (steamid=76561198079984427) Spawned Item: (BandageDressing)
+22:9:57 | "Cappy" (steamid=76561198079984427) Spawned Item: (BandageDressing)
+22:9:58 | "Cappy" (steamid=76561198079984427) Spawned Item: (BandageDressing)
+22:11:14 | "Cappy" (steamid=76561198079984427) Spawned Item: (AntiChemInjector)
+22:11:17 | "Cappy" (steamid=76561198079984427) Spawned Item: (AntiChemInjector)
+22:11:47 | "Cappy" (steamid=76561198079984427) Spawned Item: (AntiChemInjector)
+22:12:36 | "Cappy" (steamid=76561198079984427) Spawned Item: (AntiChemInjector)
+22:18:24 | "Cappy" (steamid=76561198079984427) Spawned Item: (FieldShovel)
+22:19:5 | "Cappy" (steamid=76561198079984427) Spawned Item: (CargoPants_Green)
+22:20:15 | "Cappy" (steamid=76561198079984427) deleted object "FieldShovel" (pos=<2529.175293, 191.480835, 5187.924316>)
+22:20:27 | "Cappy" (steamid=76561198079984427) Spawned Item: (MilitaryBoots_Beige)
+22:20:42 | "Cappy" (steamid=76561198079984427) Spawned Item: (MilitaryBelt)
+23:23:32 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_UMP_25Rnd)
+23:32:17 | "Cappy" (steamid=76561198079984427) sent message (this is a test) to: (steamid=76561198120496196)
+23:32:30 | "Cappy" (steamid=76561198079984427) sent message (this is a test) to: (steamid=76561198103590483)
+23:32:30 | "Cappy" (steamid=76561198079984427) sent message (this is a test) to: (steamid=76561198120496196)
+23:32:30 | "Cappy" (steamid=76561198079984427) sent message (this is a test) to: (steamid=76561198079984427)
+0:5:44 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<4456.915039, 340.438812, 9544.912109>)
+0:5:44 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<4456.652832, 341.590790, 9544.663086>)
+0:5:44 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<4456.650879, 341.576111, 9544.661133>)
+0:5:44 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<4456.648926, 341.551849, 9544.658203>)
+0:5:44 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<4456.647461, 341.531952, 9544.659180>)
+0:5:44 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<4456.621582, 341.676239, 9544.632813>)
+0:5:44 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<4456.598145, 341.800262, 9544.610352>)
+0:5:44 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<4456.580078, 341.930054, 9544.593750>)
+0:5:44 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<4456.561523, 342.040222, 9544.576172>)
+0:5:44 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<4456.545410, 342.149200, 9544.559570>)
+0:5:44 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<4456.529785, 342.246857, 9544.544922>)
+0:5:49 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<4454.023438, 340.802399, 9545.756836>)
+0:7:57 | "Cappy" (steamid=76561198079984427) toggled godmode
+0:8:19 | "Cappy": (steamid=76561198079984427) teleported to (pos=NWAF)
+0:9:17 | Player "Cappy" (steamId=76561198079984427) initiated disconnect process...
+0:9:19 | Player "Cappy" (steamId=76561198079984427) disconnected early from server (EXIT NOW).
+0:9:19 | Player "Cappy" (steamId=76561198079984427) disconnected from server.
+0:10:18 | Player "Cappy" (steamId=76561198079984427) connected to server!
+0:18:58 | "76561198079984427" (steamid=76561198079984427) teleported to (pos=<4585.600098, 339.000000, 9652.269531>)
+0:18:58 | "Cappy": (steamid=76561198079984427) teleported to (pos=4585.6,0,9652.27)
+0:19:10 | "Cappy" (steamid=76561198079984427) toggled godmode
+0:23:26 | "Cappy" (steamid=76561198079984427) toggled godmode
+0:29:4 | "Cappy" (steamid=76561198079984427) toggled godmode
+0:31:26 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<5061.285645, 340.620331, 9774.280273>)
+0:39:46 | Player "goof" (steamId=76561198103590483) initiated disconnect process...
+0:39:48 | Player "goof" (steamId=76561198103590483) disconnected from server.
+0:43:22 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate) on "RagnarokHaze" (steamid=76561198120496196)
+0:43:22 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate)
+0:43:29 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate) on "Cappy" (steamid=76561198079984427)
+0:43:29 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate)
+0:44:32 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate) on "RagnarokHaze" (steamid=76561198120496196)
+0:44:32 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate)
+0:47:53 | Player "goof" (steamId=76561198103590483) connected to server!
+0:51:12 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate)
+0:52:55 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate)
+0:52:58 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate)
+0:53:3 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate)
+0:54:22 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate)
+0:54:28 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate)
+0:54:29 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate)
+0:54:29 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate)
+0:54:29 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate)
+0:57:33 | "Cappy" (steamid=76561198079984427) toggled godmode
+0:57:33 | "Cappy" (steamid=76561198079984427) toggled godmode
+0:58:2 | "Cappy" (steamid=76561198079984427) toggled godmode
+0:59:21 | "76561198103590483" (steamid=76561198079984427) teleported to (pos=<5041.890137, 339.000000, 9729.740234>)
+0:59:21 | "Cappy" (steamid=76561198079984427) Teleporting player: "goof" (steamid=76561198103590483) to (pos=<5041.890625, 0.000000, 9729.737305>)
+0:59:29 | "76561198103590483" (steamid=76561198079984427) teleported to (pos=<5073.979980, 339.000000, 9754.160156>)
+0:59:29 | "Cappy" (steamid=76561198079984427) Teleporting player: "goof" (steamid=76561198103590483) to (pos=<5073.976074, 0.000000, 9754.156250>)
+0:59:50 | "Cappy" (steamid=76561198079984427) toggled godmode
+0:59:51 | "Cappy" (steamid=76561198079984427) toggled godmode
+1:0:14 | "Cappy" (steamid=76561198079984427) Spawned Item: (BandageDressing)
+1:0:18 | "Cappy" (steamid=76561198079984427) Spawned Item: (BandageDressing)
+1:0:36 | "Cappy" (steamid=76561198079984427) Spawned Item: (Colt1911)
+1:0:39 | "Cappy" (steamid=76561198079984427) Spawned Item: (Colt1911)
+1:0:52 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_1911_7Rnd)
+1:0:52 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_1911_7Rnd)
+1:0:52 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_1911_7Rnd)
+1:1:13 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_1911_7Rnd)
+1:1:14 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_1911_7Rnd)
+1:1:24 | "Cappy" (steamid=76561198079984427) Spawned Item: (CargoPants_Green)
+1:1:24 | "Cappy" (steamid=76561198079984427) Spawned Item: (CargoPants_Blue)
+1:1:54 | "Cappy" (steamid=76561198079984427) Spawned Item: (JungleBoots_Olive)
+1:1:55 | "Cappy" (steamid=76561198079984427) Spawned Item: (JungleBoots_Olive)
+1:2:18 | [WeatherManager] Send Data Count is 0
+1:2:22 | [Time Manager] Setting Date to 2023/9/24 10:36
+1:4:23 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<5055.083496, 339.000000, 9756.333008>)
+1:4:24 | "Cappy" (steamid=76561198079984427) /heal used on: "Cappy" (steamid=76561198079984427)
+1:4:33 | "Cappy" (steamid=76561198079984427) healed player (steamid=76561198103590483)
+1:5:4 | "Cappy" (steamid=76561198079984427) /heal used on: "goof" (steamid=76561198103590483)
+1:5:8 | "Cappy" (steamid=76561198079984427) /heal used on: "goof" (steamid=76561198103590483)
+1:5:35 | "Cappy" (steamid=76561198079984427) toggled godmode
+1:5:36 | "Cappy" (steamid=76561198079984427) toggled godmode
+1:7:47 | "Cappy" (steamid=76561198079984427) /heal used on: "Cappy" (steamid=76561198079984427)
+1:7:53 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<5056.228027, 339.577637, 9769.153320>)
+1:7:56 | "Cappy" (steamid=76561198079984427) /heal used on: "goof" (steamid=76561198103590483)
+1:9:17 | "Cappy" (steamid=76561198079984427) toggled godmode
+1:9:18 | "Cappy" (steamid=76561198079984427) toggled godmode
+1:11:5 | "76561198103590483" (steamid=76561198079984427) teleported to (pos=<5062.450195, 339.000000, 9753.629883>)
+1:11:5 | "Cappy" (steamid=76561198079984427) Teleporting player: "goof" (steamid=76561198103590483) to (pos=<5062.447266, 0.000000, 9753.632813>)
+1:11:18 | "76561198079984427" (steamid=76561198079984427) teleported to (pos=<5057.209961, 339.000000, 9748.919922>)
+1:11:18 | "Cappy": (steamid=76561198079984427) teleported to (pos=5057.21,0,9748.92)
+1:12:33 | "Cappy" (steamid=76561198079984427) Spawned Item: (Barrel_Green)
+1:13:22 | "76561198120496196" (steamid=76561198079984427) teleported to (pos=<5086.029785, 339.000000, 9758.870117>)
+1:13:22 | "Cappy" (steamid=76561198079984427) Teleporting player: "RagnarokHaze" (steamid=76561198120496196) to (pos=<5086.029297, 0.000000, 9758.873047>)
+1:13:39 | Player "RagnarokHaze" (steamId=76561198120496196) initiated disconnect process...
+1:13:56 | Player "RagnarokHaze" (steamId=76561198120496196) connected to server!
+1:14:45 | Player "goof" (steamId=76561198103590483) initiated disconnect process...
+1:15:3 | Player "goof" (steamId=76561198103590483) connected to server!
+1:15:14 | "Cappy" (steamid=76561198079984427) Spawned Item: (UKAssVest_Olive)
+1:15:45 | "Cappy" (steamid=76561198079984427) Spawned Item: (M65Jacket_Olive)
+1:16:13 | "Cappy" (steamid=76561198079984427) Spawned Item: (AssaultBag_Green)
+1:16:29 | "Cappy" (steamid=76561198079984427) Spawned Item: (SmershBag)
+1:16:43 | "Cappy" (steamid=76561198079984427) Spawned Item: (SmershVest)
+1:16:48 | "Cappy" (steamid=76561198079984427) Spawned Item: (HighCapacityVest_Olive)
+1:17:21 | "Cappy" (steamid=76561198079984427) Spawned Item: (SmershBag)
+1:17:25 | "Cappy" (steamid=76561198079984427) Spawned Item: (CoyoteBag_Green)
+1:17:35 | "Cappy" (steamid=76561198079984427) Spawned Item: (CourierBag)
+1:17:36 | "Cappy" (steamid=76561198079984427) Spawned Item: (TortillaBag)
+1:17:40 | "Cappy" (steamid=76561198079984427) Spawned Item: (TaloonBag_Green)
+1:17:51 | "Cappy" (steamid=76561198079984427) Spawned Item: (SmershBag)
+1:17:52 | "Cappy" (steamid=76561198079984427) Spawned Item: (SmershVest)
+1:19:0 | "Cappy" (steamid=76561198079984427) Spawned Item: (Ssh68Helmet)
+1:19:30 | "Cappy" (steamid=76561198079984427) Spawned Item: (AliceBag_Green)
+1:19:36 | "Cappy" (steamid=76561198079984427) Spawned Item: (AliceBag_Camo)
+1:21:7 | Player "goof" (steamId=76561198103590483) initiated disconnect process...
+1:21:8 | Player "goof" (steamId=76561198103590483) aborted logout process [canceledLogout]
+1:22:9 | "Cappy" (steamid=76561198079984427) Spawned Item: (M65Jacket_Tan)
+1:22:9 | "Cappy" (steamid=76561198079984427) Spawned Item: (M65Jacket_Olive)
+1:22:11 | "Cappy" (steamid=76561198079984427) Spawned Item: (M65Jacket_Khaki)
+1:22:11 | "Cappy" (steamid=76561198079984427) Spawned Item: (M65Jacket_Black)
+1:22:14 | "Cappy" (steamid=76561198079984427) Spawned Item: (TTsKOJacket_Camo)
+1:23:28 | "Cappy" (steamid=76561198079984427) Spawned Item: (BaseballCap_Camo)
+1:24:58 | Player "Cappy" (steamId=76561198079984427) initiated disconnect process...
+1:25:1 | Player "Cappy" (steamId=76561198079984427) disconnected from server.
+1:25:4 | Player "RagnarokHaze" (steamId=76561198120496196) initiated disconnect process...
+1:25:6 | Player "RagnarokHaze" (steamId=76561198120496196) disconnected from server.
+1:25:9 | Player "goof" (steamId=76561198103590483) initiated disconnect process...
+1:25:10 | Player "goof" (steamId=76561198103590483) disconnected early from server (EXIT NOW).
+1:25:11 | Player "goof" (steamId=76561198103590483) disconnected from server.

@@ -1,0 +1,9 @@
+---------------------------------------------
+ServerPanel log started at 01.03.2023 21:34:13
+
+01.03.2023 21:34:13 [ServerPanelLogger]: INFO: Will try to create ServerPanel log file in $profile:
+01.03.2023 21:34:13 [ServerPanelConfig]: Reading Server Config
+01.03.2023 21:34:13 [ServerPanelConfig]: ConfigRequest
+01.03.2023 22:20:29 [ServerPanelI]: Cappy (o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) - Config sync
+01.03.2023 22:45:16 [ServerPanelI]: Cappy (o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) - Config sync
+01.03.2023 22:48:12 [ServerPanelI]: Cappy (o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) - Player Stats sync

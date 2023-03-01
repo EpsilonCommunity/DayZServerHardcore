@@ -1,0 +1,139 @@
+{
+    "SpawnSystemMode": 1,
+    "SpawnLocations": [
+        {
+            "m_locationname": "Kamenka",
+            "m_spawnlocation": [
+                1892.1099853515626,
+                6.1711249351501469,
+                2244.1298828125
+            ],
+            "m_randomradius": 500.0
+        },
+        {
+            "m_locationname": "West Balota",
+            "m_spawnlocation": [
+                4025.159912109375,
+                6.494447231292725,
+                2620.4599609375
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Chernogorsk",
+            "m_spawnlocation": [
+                6387.43017578125,
+                9.290138244628907,
+                2699.47998046875
+            ],
+            "m_randomradius": 1000.0
+        },
+        {
+            "m_locationname": "Elektrozavodsk",
+            "m_spawnlocation": [
+                10322.400390625,
+                5.811277866363525,
+                2171.159912109375
+            ],
+            "m_randomradius": 1000.0
+        }
+    ],
+    "SpawnTickets": [
+        {
+            "m_classname": "BasicSpawnSelect_SpawnTicket",
+            "m_ID": "Bandit",
+            "m_UsePosition": [
+                4111.2998046875,
+                0.0,
+                8912.7900390625
+            ],
+            "m_UseRadius": 50.0,
+            "m_PossibleSpawn": [
+                {
+                    "m_locationname": "Kamenka",
+                    "m_spawnlocation": [
+                        1892.1099853515626,
+                        6.1711249351501469,
+                        2244.1298828125
+                    ],
+                    "m_randomradius": 500.0
+                },
+                {
+                    "m_locationname": "West Balota",
+                    "m_spawnlocation": [
+                        4025.159912109375,
+                        6.494447231292725,
+                        2620.4599609375
+                    ],
+                    "m_randomradius": 1000.0
+                },
+                {
+                    "m_locationname": "Chernogorsk",
+                    "m_spawnlocation": [
+                        6387.43017578125,
+                        9.290138244628907,
+                        2699.47998046875
+                    ],
+                    "m_randomradius": 1000.0
+                },
+                {
+                    "m_locationname": "Elektrozavodsk",
+                    "m_spawnlocation": [
+                        10322.400390625,
+                        5.811277866363525,
+                        2171.159912109375
+                    ],
+                    "m_randomradius": 1000.0
+                }
+            ]
+        },
+        {
+            "m_classname": "BasicSpawnSelect_SpawnTicket",
+            "m_ID": "Admin",
+            "m_UsePosition": [
+                4111.2998046875,
+                0.0,
+                8912.7900390625
+            ],
+            "m_UseRadius": 50.0,
+            "m_PossibleSpawn": [
+                {
+                    "m_locationname": "Kamenka",
+                    "m_spawnlocation": [
+                        1892.1099853515626,
+                        6.1711249351501469,
+                        2244.1298828125
+                    ],
+                    "m_randomradius": 500.0
+                },
+                {
+                    "m_locationname": "West Balota",
+                    "m_spawnlocation": [
+                        4025.159912109375,
+                        6.494447231292725,
+                        2620.4599609375
+                    ],
+                    "m_randomradius": 1000.0
+                },
+                {
+                    "m_locationname": "Chernogorsk",
+                    "m_spawnlocation": [
+                        6387.43017578125,
+                        9.290138244628907,
+                        2699.47998046875
+                    ],
+                    "m_randomradius": 1000.0
+                },
+                {
+                    "m_locationname": "Elektrozavodsk",
+                    "m_spawnlocation": [
+                        10322.400390625,
+                        5.811277866363525,
+                        2171.159912109375
+                    ],
+                    "m_randomradius": 1000.0
+                }
+            ]
+        }
+    ]
+}

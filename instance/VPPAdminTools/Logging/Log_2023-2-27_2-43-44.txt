@@ -1,0 +1,172 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-2-27_2-43-44
+====================================================================================
+2:43:44 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+2:43:44 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+2:43:44 | [PermissionManager] Perm (FreeCamera) has been registered!
+2:43:44 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuItemManager) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuServerManager) has been registered!
+2:43:44 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+2:43:44 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+2:43:44 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+2:43:44 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+2:43:44 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+2:43:44 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+2:43:44 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+2:43:44 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+2:43:44 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+2:43:44 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+2:43:44 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+2:43:44 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+2:43:44 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+2:43:44 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+2:43:44 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+2:43:44 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+2:43:44 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+2:43:44 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+2:43:44 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+2:43:44 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+2:43:44 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+2:43:44 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+2:43:44 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+2:43:44 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+2:43:44 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+2:43:44 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+2:43:44 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+2:43:44 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+2:43:44 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+2:43:44 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+2:43:44 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+2:43:44 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+2:43:44 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuBansManager) has been registered!
+2:43:44 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+2:43:44 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+2:43:44 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+2:43:44 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+2:43:44 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+2:43:44 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+2:43:44 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+2:43:44 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+2:43:44 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+2:43:44 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+2:43:44 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+2:43:44 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+2:43:44 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+2:43:44 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+2:43:44 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+2:43:44 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+2:43:44 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+2:43:44 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+2:43:44 | [PermissionManager] Adding Super Admin (76561198079984427)
+2:43:44 | [PermissionManager] Loaded UserGroups.json
+2:43:44 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+2:43:44 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+2:43:44 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+2:43:44 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+2:43:44 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+2:43:44 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+2:43:44 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+2:43:44 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+2:43:44 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+2:43:44 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+2:43:44 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+2:43:44 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+2:43:44 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+2:43:44 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+2:43:44 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+2:43:44 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+2:43:44 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+2:43:44 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+2:43:44 | Building Sets Loaded: 0
+2:43:44 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+2:43:44 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+2:47:4 | Player "Cappy" (steamId=76561198079984427) connected to server!
+2:48:39 | "Cappy" (steamid=76561198079984427) deleted object "AssaultBag_Green" (pos=<5083.454102, 339.507751, 9757.022461>)
+2:48:43 | "Cappy" (steamid=76561198079984427) deleted object "SmershBag" (pos=<5083.454102, 339.289001, 9757.022461>)
+2:48:46 | "Cappy" (steamid=76561198079984427) deleted object "HighCapacityVest_Olive" (pos=<5083.133301, 339.002167, 9757.347656>)
+2:48:47 | "Cappy" (steamid=76561198079984427) deleted object "TShirt_Black" (pos=<5083.454102, 339.002167, 9757.022461>)
+2:48:49 | "Cappy" (steamid=76561198079984427) deleted object "Ssh68Helmet" (pos=<5085.001465, 339.115936, 9756.850586>)
+2:48:50 | "Cappy" (steamid=76561198079984427) deleted object "TortillaBag" (pos=<5085.771973, 339.575134, 9755.928711>)
+2:48:51 | "Cappy" (steamid=76561198079984427) deleted object "TaloonBag_Green" (pos=<5085.771973, 339.481689, 9755.928711>)
+2:48:52 | "Cappy" (steamid=76561198079984427) deleted object "CourierBag" (pos=<5085.771973, 339.481689, 9755.928711>)
+2:48:54 | "Cappy" (steamid=76561198079984427) deleted object "SmershVest" (pos=<5087.171387, 339.011627, 9756.276367>)
+2:48:55 | "Cappy" (steamid=76561198079984427) deleted object "SmershBag" (pos=<5087.171387, 339.289001, 9756.276367>)
+2:48:56 | "Cappy" (steamid=76561198079984427) deleted object "SmershBag" (pos=<5085.799316, 339.289001, 9757.176758>)
+2:48:57 | "Cappy" (steamid=76561198079984427) deleted object "CoyoteBag_Green" (pos=<5085.799316, 339.605927, 9757.176758>)
+2:48:59 | "Cappy" (steamid=76561198079984427) deleted object "UKAssVest_Olive" (pos=<5085.712402, 339.002167, 9758.686523>)
+2:49:1 | "Cappy" (steamid=76561198079984427) deleted object "CanvasPantsMidi_Violet" (pos=<5086.062500, 339.002167, 9759.739258>)
+2:49:3 | "Cappy" (steamid=76561198079984427) deleted object "AliceBag_Green" (pos=<5081.581055, 339.259888, 9760.536133>)
+2:49:12 | "Cappy" (steamid=76561198079984427) deleted object "Colt1911" (pos=<5073.267578, 339.044373, 9762.821289>)
+2:49:18 | "Cappy" (steamid=76561198079984427) deleted object "Colt1911" (pos=<5060.635254, 339.013855, 9762.865234>)
+2:49:22 | "Cappy" (steamid=76561198079984427) deleted object "JungleBoots_Olive" (pos=<5061.756836, 339.007263, 9749.513672>)
+2:49:29 | "Cappy" (steamid=76561198079984427) deleted object "M65Jacket_Khaki" (pos=<5075.847168, 339.002167, 9752.931641>)
+2:49:30 | "Cappy" (steamid=76561198079984427) deleted object "M65Jacket_Olive" (pos=<5075.847168, 339.002167, 9752.931641>)
+2:49:31 | "Cappy" (steamid=76561198079984427) deleted object "M65Jacket_Tan" (pos=<5075.847168, 339.002167, 9752.931641>)
+2:55:49 | [PermissionManager] Group: (Admins (Everyone)) Permission Level: (0) was created!
+2:56:10 | [PermissionManager] Group: (Admins (Everyone)) Permissions updated by: "Cappy" (steamid=76561198079984427)
+2:56:45 | Player "Cappy" (steamId=76561198079984427) initiated disconnect process...
+2:56:46 | Player "Cappy" (steamId=76561198079984427) disconnected early from server (EXIT NOW).
+2:56:47 | Player "Cappy" (steamId=76561198079984427) disconnected from server.
+2:58:57 | Player "Cappy" (steamId=76561198079984427) connected to server!
+3:0:49 | Player "RagnarokHaze" (steamId=76561198120496196) connected to server!
+3:1:33 | "76561198079984427" (steamid=76561198079984427) teleported to (pos=<3729.050049, 401.730957, 6010.439941>)
+3:1:33 | "Cappy": (steamid=76561198079984427) teleported to (pos=3729.05,0,6010.44)
+3:4:32 | [PermissionManager] Added "RagnarokHaze" (steamid=76561198120496196) to user group (Admins (Everyone)) by: "Cappy" (steamid=76561198079984427)
+3:4:37 | Player "goof" (steamId=76561198103590483) connected to server!
+3:4:50 | [PermissionManager] Added "goof" (steamid=76561198103590483) to user group (Admins (Everyone)) by: "Cappy" (steamid=76561198079984427)
+3:5:3 | [PermissionManager] Group: (Admins) Permissions updated by: "Cappy" (steamid=76561198079984427)
+3:5:23 | "76561198079984427" (steamid=76561198079984427) teleported to (pos=<5061.060059, 339.000000, 9754.839844>)
+3:5:23 | "Cappy": (steamid=76561198079984427) teleported to (pos=5061.06,0,9754.84)
+3:6:53 | [PermissionManager] Group: (Admins (Everyone)) Permissions updated by: "Cappy" (steamid=76561198079984427)
+3:8:50 | "Cappy" (steamid=76561198079984427) Spawned Item: (MoneyRuble100)
+3:9:3 | "Cappy" (steamid=76561198079984427) Spawned Item: (MoneyRuble100)
+3:9:18 | "Cappy" (steamid=76561198079984427) Spawned Item: (MoneyRuble100)
+3:9:21 | "Cappy" (steamid=76561198079984427) Spawned Item: (MoneyRuble100)
+3:12:59 | "Cappy" (steamid=76561198079984427) toggled godmode
+3:13:11 | "Cappy" (steamid=76561198079984427) Spawned Item: (Truck_01_Covered)
+3:16:15 | "Cappy" (steamid=76561198079984427) toggled godmode
+3:27:55 | "Cappy" (steamid=76561198079984427) Spawned Item: (WaterPouch_Natural)
+3:28:33 | "Cappy" (steamid=76561198079984427) toggled godmode
+3:28:50 | "Cappy" (steamid=76561198079984427) Spawned Item: (WaterBottle)
+3:28:51 | "Cappy" (steamid=76561198079984427) Spawned Item: (WaterBottle)
+3:28:51 | "Cappy" (steamid=76561198079984427) Spawned Item: (WaterBottle)
+3:28:51 | "Cappy" (steamid=76561198079984427) Spawned Item: (WaterBottle)
+3:28:51 | "Cappy" (steamid=76561198079984427) Spawned Item: (WaterBottle)
+3:28:52 | "Cappy" (steamid=76561198079984427) Spawned Item: (WaterBottle)
+3:28:52 | "Cappy" (steamid=76561198079984427) Spawned Item: (WaterBottle)
+3:35:59 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<5905.908203, 272.814697, 10236.998047>)
+3:47:30 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mosin_Bayonet)
+3:47:48 | "Cappy" (steamid=76561198079984427) Spawned Item: (AmmoBox_762x39_20Rnd)
+3:47:49 | "Cappy" (steamid=76561198079984427) Spawned Item: (AmmoBox_762x54_20Rnd)
+3:50:37 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mosin_Bayonet)
+3:57:33 | Player "goof" (steamId=76561198103590483) initiated disconnect process...
+3:57:35 | Player "goof" (steamId=76561198103590483) disconnected early from server (EXIT NOW).
+3:57:35 | Player "goof" (steamId=76561198103590483) disconnected from server.
+4:25:16 | "Cappy" (steamid=76561198079984427) toggled godmode
+4:25:17 | "Cappy" (steamid=76561198079984427) toggled godmode
+4:25:18 | "Cappy" (steamid=76561198079984427) toggled godmode
+4:47:56 | Player "Cappy" (steamId=76561198079984427) initiated disconnect process...
+4:47:58 | Player "Cappy" (steamId=76561198079984427) disconnected from server.
+4:48:0 | Player "RagnarokHaze" (steamId=76561198120496196) initiated disconnect process...
+4:48:2 | Player "RagnarokHaze" (steamId=76561198120496196) disconnected from server.

@@ -1,0 +1,616 @@
+
+
+=====================================================================
+== C:\TCAFiles\Users\admin\1\DayZServer_x64.exe
+== "C:\TCAFiles\Users\admin\1\DayZServer_x64.exe" "-ip=192.168.1.90" "-port=2302" "-mod=@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items" "-config=serverdz.cfg" "-bepath=C:\TCAFiles\Users\admin\1\Battleye" "-profiles=C:\TCAFiles\Users\admin\1\instance" "-autoinit" "-noFilePatching"
+=====================================================================
+Exe timestamp: 2023/03/01 02:15:27
+Current time:  2023/03/01 03:33:06
+
+Version 1.20.155814
+ 3:33:06.227 [Inputs] Loading inputs default "bin/constants.xml"
+ 3:33:06.230 [Inputs] Loading inputs default "bin/specific.xml"
+ 3:33:06.231 [Inputs] Loading inputs default "BBP_keybind/data/modded_Inputs.xml"
+ 3:33:06.231 [Inputs] Loading inputs default "SchanaModCompass/Data/Inputs.xml"
+ 3:33:06.231 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+ 3:33:06.232 [Inputs] Loading inputs default "BasicMap/data/Inputs.xml"
+ 3:33:06.232 [Inputs] Loading inputs default "BasicSpawnSelect/data/inputs.xml"
+ 3:33:06.232 [Inputs] Loading inputs default "Notifications/inputs/inputs.xml"
+ 3:33:06.233 [Inputs] Loading inputs default "SchanaModParty/Data/Inputs.xml"
+ 3:33:06.233 !!! [Inputs] Cannot load inputs default "", file does not exist
+ 3:33:06.233 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+ 3:33:06.233 [Inputs] Loading inputs cfg "C:\TCAFiles\Users\admin\1\instance\Users\Survivor\Server.core.xml"
+ 3:33:06.236 [Inputs] Exporting inputs cfg "C:\TCAFiles\Users\admin\1\instance\Users\Survivor\Server.core.xml"
+ 3:33:25.958 [CE][Hive] :: Initializing OFFLINE
+ 3:33:25.958 [StorageDirs] :: Selected storage directory: C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\
+ 3:33:25.959 [CE][Hive] :: Loading core data ... 
+ 3:33:25.960 [CE][CoreData] :: 7 root classes, 18 defaults, 0 updaters...
+ 3:33:29.977 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+ 3:33:29.979 [CE][TypeSetup] :: 505 classes setuped...
+ 3:33:30.904 [CE][RegisterBind] :: 0 classes binded...
+ 3:33:30.904 [CE][RegisterConfig] :: 11201 config classes registered, 0 sub-counters...
+ 3:33:30.904 [CE][Hive] :: Loading map data ... 
+ 3:33:30.905 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+ 3:33:30.947 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.947 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.947 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.947 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.947 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.947 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.947 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.947 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.947 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.947 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.947 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.947 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.947 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.947 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.947 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.947 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.947 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.947 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.948 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.949 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.949 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.949 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.949 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.949 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.949 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.949 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.949 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.949 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.949 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.949 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.949 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.949 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.949 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.949 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.949 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.949 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.949 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 3:33:30.949 [CE][LoadPrototype] :: loaded 413 prototypes
+ 3:33:30.949   799 containers, 10069 points
+ 3:33:30.949   66 dispatches, 239 proxies
+ 3:33:30.949 !!! [CE][LoadPrototype] 5 groups have no points...
+ 3:33:30.949 [CE][LoadPrototype] :: last group name: Land_Wreck_sed02_aban2_red_DE...
+ 3:33:30.953 [CE][LoadPrototype] :: loaded 0 prototypes
+ 3:33:30.953   55 containers, 232 points
+ 3:33:30.953   0 dispatches, 0 proxies
+ 3:33:30.953 [CE][LoadPrototype] :: last group name: Rail9...
+ 3:33:31.798 [CE][LoadMap] "Group" :: loaded 11699 groups, groups failed: 0, largest group range: 34.2
+ 3:33:31.801 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.2
+ 3:33:32.31 [CE][Links] found 1906 total links between groups, of 11699
+ 3:33:32.31 [CE][LoadClusters] "Cluster" :: Loading files...
+ 3:33:32.208 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+ 3:33:32.393 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+ 3:33:32.580 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+ 3:33:32.767 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+ 3:33:32.839 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17347 instances
+ 3:33:32.843 [CE][Storage] ver:21 stamp:4726, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin"
+ 3:33:32.844 [CE][Storage] ver:21 stamp:4724, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.001"
+ 3:33:32.845 [CE][Storage] ver:21 stamp:4725, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.002"
+ 3:33:32.845 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin".
+ 3:33:32.912 !!! [CE][offlineDB] :: No Shutdown message present.
+ 3:33:32.915 [CE][offlineDB] :: Loaded 47 dynamic events 225 total types.
+ 3:33:32.935 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+ 3:33:33.119 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+ 3:33:33.119 [CE][DE][SPAWNS] :: Total positions: 929
+ 3:33:33.119 [CE][DE][GROUPS] :: Total eventgroups defined: 83, Eventgroups in use: 83
+ 3:33:33.121 [CE][Storage] ver:21 stamp:4726, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin"
+ 3:33:33.122 [CE][Storage] ver:21 stamp:4724, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.001"
+ 3:33:33.123 [CE][Storage] ver:21 stamp:4725, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.002"
+ 3:33:33.123 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin".
+ 3:33:33.123 [CE][DynamicEvent] Load  Events:[47] Primary spawners: 47 Secondary spawners: 4
+ 3:33:33.123 [CE][InfectedRespawner] (PRIArmy) :: Status
+ 3:33:33.123   Zones:30, Unpopulated:0
+ 3:33:33.123   SMin:10, SMax:20
+ 3:33:33.123   DMin:185, DMax:263
+ 3:33:33.123 [CE][InfectedRespawner] (PRIArmyHard) :: Status
+ 3:33:33.123   Zones:15, Unpopulated:0
+ 3:33:33.123   SMin:56, SMax:80
+ 3:33:33.123   DMin:121, DMax:163
+ 3:33:33.123 [CE][InfectedRespawner] (PRICity) :: Status
+ 3:33:33.123   Zones:36, Unpopulated:0
+ 3:33:33.123   SMin:0, SMax:0
+ 3:33:33.123   DMin:162, DMax:249
+ 3:33:33.123 [CE][InfectedRespawner] (PRICityTier1) :: Status
+ 3:33:33.123   Zones:89, Unpopulated:0
+ 3:33:33.123   SMin:0, SMax:0
+ 3:33:33.123   DMin:427, DMax:656
+ 3:33:33.124 [CE][InfectedRespawner] (PRIFirefighter) :: Status
+ 3:33:33.124   Zones:8, Unpopulated:0
+ 3:33:33.124   SMin:0, SMax:0
+ 3:33:33.124   DMin:24, DMax:40
+ 3:33:33.124 [CE][InfectedRespawner] (PRIIndustrial) :: Status
+ 3:33:33.124   Zones:66, Unpopulated:0
+ 3:33:33.124   SMin:0, SMax:0
+ 3:33:33.124   DMin:293, DMax:528
+ 3:33:33.124 [CE][InfectedRespawner] (PRIMedic) :: Status
+ 3:33:33.124   Zones:23, Unpopulated:0
+ 3:33:33.124   SMin:0, SMax:0
+ 3:33:33.124   DMin:69, DMax:115
+ 3:33:33.124 [CE][InfectedRespawner] (PRINBC) :: Status
+ 3:33:33.124   Zones:4, Unpopulated:0
+ 3:33:33.124   SMin:16, SMax:20
+ 3:33:33.124   DMin:7, DMax:14
+ 3:33:33.124 [CE][InfectedRespawner] (PRINBCYellow) :: Zones:0 Respawner Function DISABLED !!!
+ 3:33:33.124 [CE][InfectedRespawner] (PRIPolice) :: Status
+ 3:33:33.124   Zones:21, Unpopulated:0
+ 3:33:33.124   SMin:0, SMax:0
+ 3:33:33.124   DMin:63, DMax:105
+ 3:33:33.124 [CE][InfectedRespawner] (PRIPoliceHard) :: Zones:0 Respawner Function DISABLED !!!
+ 3:33:33.124 [CE][InfectedRespawner] (PRIPrisoner) :: Status
+ 3:33:33.124   Zones:2, Unpopulated:0
+ 3:33:33.124   SMin:0, SMax:0
+ 3:33:33.124   DMin:16, DMax:24
+ 3:33:33.124 [CE][InfectedRespawner] (PRIReligious) :: Status
+ 3:33:33.124   Zones:35, Unpopulated:0
+ 3:33:33.124   SMin:0, SMax:0
+ 3:33:33.124   DMin:41, DMax:112
+ 3:33:33.124 [CE][InfectedRespawner] (PRISanta) :: Zones:0 Respawner Function DISABLED !!!
+ 3:33:33.124 [CE][InfectedRespawner] (PRISolitude) :: Status
+ 3:33:33.124   Zones:153, Unpopulated:0
+ 3:33:33.124   SMin:0, SMax:0
+ 3:33:33.124   DMin:261, DMax:657
+ 3:33:33.124 [CE][InfectedRespawner] (PRIVillage) :: Status
+ 3:33:33.124   Zones:190, Unpopulated:0
+ 3:33:33.124   SMin:0, SMax:0
+ 3:33:33.124   DMin:1014, DMax:1616
+ 3:33:33.124 [CE][InfectedRespawner] (PRIVillageTier1) :: Status
+ 3:33:33.124   Zones:85, Unpopulated:0
+ 3:33:33.124   SMin:0, SMax:0
+ 3:33:33.124   DMin:373, DMax:621
+ 3:33:33.124 [CE][InfectedRespawner] (SECArmy) :: Zones:0 Respawner Function DISABLED !!!
+ 3:33:33.124 [CE][InfectedRespawner] (SECArmy) :: Zones:0 Respawner Function DISABLED !!!
+ 3:33:33.124 [CE][InfectedRespawner] (SECPoliceHard) :: Zones:0 Respawner Function DISABLED !!!
+ 3:33:33.124 [CE][InfectedRespawner] (SECIndustrial) :: Zones:0 Respawner Function DISABLED !!!
+ 3:33:33.127 [CE][Storage] ver:25 stamp:4726, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin"
+ 3:33:33.129 [CE][Storage] ver:25 stamp:4724, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.001"
+ 3:33:33.133 [CE][Storage] ver:25 stamp:4725, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.002"
+ 3:33:33.133 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin" 808 items.
+ 3:33:33.437   808 items loaded. (0 failed)
+ 3:33:33.439 [CE][Storage] ver:25 stamp:4726, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin"
+ 3:33:33.439 [CE][Storage] ver:25 stamp:4724, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.001"
+ 3:33:33.440 [CE][Storage] ver:25 stamp:4725, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.002"
+ 3:33:33.440 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin" 1338 items.
+ 3:33:33.835   1338 items loaded. (0 failed)
+ 3:33:33.836 [CE][Storage] ver:25 stamp:4726, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin"
+ 3:33:33.837 [CE][Storage] ver:25 stamp:4724, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.001"
+ 3:33:33.838 [CE][Storage] ver:25 stamp:4725, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.002"
+ 3:33:33.838 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin" 2323 items.
+ 3:33:34.531   2323 items loaded. (0 failed)
+ 3:33:34.533 [CE][Storage] ver:25 stamp:4726, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin"
+ 3:33:34.534 [CE][Storage] ver:25 stamp:4724, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.001"
+ 3:33:34.535 [CE][Storage] ver:25 stamp:4725, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.002"
+ 3:33:34.535 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_003.bin" 1686 items.
+ 3:33:35.05   1686 items loaded. (0 failed)
+ 3:33:35.06 [CE][Storage] ver:25 stamp:4726, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin"
+ 3:33:35.07 [CE][Storage] ver:25 stamp:4724, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.001"
+ 3:33:35.08 [CE][Storage] ver:25 stamp:4725, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.002"
+ 3:33:35.08 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_004.bin" 1630 items.
+ 3:33:35.508   1630 items loaded. (0 failed)
+ 3:33:35.509 [CE][Storage] ver:25 stamp:4726, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin"
+ 3:33:35.510 [CE][Storage] ver:25 stamp:4724, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.001"
+ 3:33:35.511 [CE][Storage] ver:25 stamp:4725, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.002"
+ 3:33:35.511 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_005.bin" 1852 items.
+ 3:33:36.21   1852 items loaded. (0 failed)
+ 3:33:36.22 [CE][Storage] ver:25 stamp:4726, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin"
+ 3:33:36.23 [CE][Storage] ver:25 stamp:4724, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.001"
+ 3:33:36.24 [CE][Storage] ver:25 stamp:4725, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.002"
+ 3:33:36.24 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_006.bin" 1357 items.
+ 3:33:36.419   1357 items loaded. (0 failed)
+ 3:33:36.420 [CE][Storage] ver:25 stamp:4726, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin"
+ 3:33:36.421 [CE][Storage] ver:25 stamp:4724, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.001"
+ 3:33:36.421 [CE][Storage] ver:25 stamp:4725, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.002"
+ 3:33:36.421 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_007.bin" 1305 items.
+ 3:33:36.795   1305 items loaded. (0 failed)
+ 3:33:36.796 [CE][Storage] ver:25 stamp:4726, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin"
+ 3:33:36.797 [CE][Storage] ver:25 stamp:4724, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.001"
+ 3:33:36.798 [CE][Storage] ver:25 stamp:4725, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.002"
+ 3:33:36.798 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_008.bin" 1863 items.
+ 3:33:37.379   1863 items loaded. (0 failed)
+ 3:33:37.381 [CE][Storage] ver:25 stamp:4726, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin"
+ 3:33:37.382 [CE][Storage] ver:25 stamp:4724, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.001"
+ 3:33:37.383 [CE][Storage] ver:25 stamp:4725, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.002"
+ 3:33:37.383 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_009.bin" 2377 items.
+ 3:33:38.142   2377 items loaded. (0 failed)
+ 3:33:38.144 [CE][Storage] ver:25 stamp:4726, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin"
+ 3:33:38.144 [CE][Storage] ver:25 stamp:4724, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.001"
+ 3:33:38.145 [CE][Storage] ver:25 stamp:4725, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.002"
+ 3:33:38.145 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_010.bin" 1550 items.
+ 3:33:38.671   1550 items loaded. (0 failed)
+ 3:33:38.672 [CE][Storage] ver:25 stamp:4726, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin"
+ 3:33:38.673 [CE][Storage] ver:25 stamp:4724, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.001"
+ 3:33:38.673 [CE][Storage] ver:25 stamp:4725, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.002"
+ 3:33:38.673 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_011.bin" 154 items.
+ 3:33:38.721   154 items loaded. (0 failed)
+ 3:33:38.721 [CE][Storage] ver:26 stamp:4726, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.bin"
+ 3:33:38.721 [CE][Storage] ver:26 stamp:4724, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.001"
+ 3:33:38.721 [CE][Storage] ver:26 stamp:4725, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.002"
+ 3:33:38.721 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\building.bin" 0 items.
+ 3:33:38.721   0 items loaded. (0 failed)
+ 3:33:38.722 [CE][Storage] ver:25 stamp:4726, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin"
+ 3:33:38.724 [CE][Storage] ver:25 stamp:4724, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.001"
+ 3:33:38.724 [CE][Storage] ver:25 stamp:4725, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.002"
+ 3:33:38.724 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\vehicles.bin" 80 items.
+ 3:33:38.859   80 items loaded. (0 failed)
+ 3:33:38.869 [CE][Hive] :: Storage load took:5.75 seconds, recovery stamp:4726
+ 3:33:38.869   entity: 19940, building: 0
+ 3:33:38.869   no lifetime: 43
+ 3:33:38.869   ignored: 1
+ 3:33:38.869   pathgraph's: 413
+ 3:33:38.870 [CE][Hive] :: Initializing ... 
+ 3:33:38.870 [CE][OnInit]
+ 3:33:38.870   static groups: 11699
+ 3:33:38.870   containers: 21552
+ 3:33:38.870   points: 171523
+ 3:33:38.870   proxies: 4129
+ 3:33:38.870   linked groups: 1610, points: 0
+ 3:33:38.870   abandoned groups: 0, points: 0
+ 3:33:38.870   dynamic groups: 0
+ 3:33:38.905 [CE][InitializeMap] :: initialized: 0
+ 3:33:38.905 [CE][Hive] :: Initializing spawners ... 
+ 3:33:40.484 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 4483.640137, 10814.135742
+ 3:33:40.485 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 4500.309082, 10823.548828
+ 3:33:40.485 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 4506.627441, 10804.444336
+ 3:33:40.486 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 4501.259766, 10776.899414
+ 3:33:40.487 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 4473.169922, 10783.147461
+ 3:33:40.488 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 4115.576172, 10593.991211
+ 3:33:40.488 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 4118.630859, 10544.861328
+ 3:33:40.488 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 4163.645996, 10561.747070
+ 3:33:40.489 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 4137.974609, 10548.260742
+ 3:33:40.489 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 4129.859863, 10564.947266
+ 3:33:40.489 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 4115.912109, 10555.199219
+ 3:33:40.490 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 4116.314941, 10569.284180
+ 3:33:40.490 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 2140.869385, 3305.794922
+ 3:33:40.490 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 2157.276855, 3328.215088
+ 3:33:40.490 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 2166.556152, 3312.134033
+ 3:33:40.490 [CE][InfectedRespawner] (PRIArmy) :: Initial Spawn: 15
+ 3:33:40.491 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 1685.372192, 14253.199219
+ 3:33:40.491 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 1672.415405, 14229.649414
+ 3:33:40.491 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 1735.754272, 14264.128906
+ 3:33:40.492 !!! [CE][Spawn] Character "ZmbM_usSoldier_Heavy_Woodland" at 1723.764282, 14217.310547
+ 3:33:40.492 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 1676.837524, 14197.921875
+ 3:33:40.492 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 1717.469727, 14272.559570
+ 3:33:40.493 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 1644.985107, 14273.806641
+ 3:33:40.493 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 4162.237305, 11073.802734
+ 3:33:40.493 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 4202.912598, 11066.789063
+ 3:33:40.493 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 4236.056641, 11055.459961
+ 3:33:40.494 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 4197.973145, 11036.816406
+ 3:33:40.494 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 4199.093750, 11025.215820
+ 3:33:40.494 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 4188.091309, 11028.440430
+ 3:33:40.495 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 4213.158203, 11033.980469
+ 3:33:40.495 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 4432.269531, 9597.311523
+ 3:33:40.496 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 4429.559082, 9625.703125
+ 3:33:40.496 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 4462.130371, 9603.714844
+ 3:33:40.496 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 4468.636230, 9627.207031
+ 3:33:40.496 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 4460.292480, 9614.849609
+ 3:33:40.497 !!! [CE][Spawn] Character "ZmbM_usSoldier_Heavy_Woodland" at 4460.186523, 9613.070313
+ 3:33:40.497 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 4461.652832, 9622.229492
+ 3:33:40.497 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 4531.552246, 8286.452148
+ 3:33:40.497 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 4507.399902, 8270.200195
+ 3:33:40.497 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 4509.369629, 8300.386719
+ 3:33:40.498 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 4512.071289, 8309.350586
+ 3:33:40.498 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 4520.340820, 8329.446289
+ 3:33:40.498 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 4560.744629, 8331.880859
+ 3:33:40.498 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 1156.157959, 7238.220703
+ 3:33:40.499 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 1157.720703, 7244.249512
+ 3:33:40.499 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 1132.702515, 7215.384277
+ 3:33:40.499 !!! [CE][Spawn] Character "ZmbM_usSoldier_Heavy_Woodland" at 1149.715576, 7238.795898
+ 3:33:40.499 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 1151.939331, 7252.437988
+ 3:33:40.500 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 1165.240723, 7248.164063
+ 3:33:40.500 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 1158.137085, 7236.909180
+ 3:33:40.500 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 2571.554443, 5082.063477
+ 3:33:40.500 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 2573.760498, 5071.168945
+ 3:33:40.500 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 2557.942139, 5060.874512
+ 3:33:40.501 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 2563.895996, 5080.665527
+ 3:33:40.501 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 2563.344727, 5089.614258
+ 3:33:40.501 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 2590.036621, 5076.116211
+ 3:33:40.501 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 2555.976563, 5070.926758
+ 3:33:40.501 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 1533.723145, 13631.258789
+ 3:33:40.502 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 1538.923096, 13602.769531
+ 3:33:40.502 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 1505.301025, 13641.996094
+ 3:33:40.502 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 1492.778564, 13604.727539
+ 3:33:40.502 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 1508.927002, 13618.923828
+ 3:33:40.503 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 1481.525757, 13674.502930
+ 3:33:40.503 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 1520.456543, 13642.592773
+ 3:33:40.503 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 1509.739868, 13619.172852
+ 3:33:40.503 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 1505.907471, 13621.692383
+ 3:33:40.503 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 1777.276123, 13764.636719
+ 3:33:40.504 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 1767.987915, 13818.426758
+ 3:33:40.504 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 1797.136108, 13848.585938
+ 3:33:40.504 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 1806.614258, 13784.628906
+ 3:33:40.504 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 1821.381958, 13816.786133
+ 3:33:40.505 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 1872.533447, 13772.632813
+ 3:33:40.505 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 4771.687500, 10287.985352
+ 3:33:40.505 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 4788.424316, 10274.145508
+ 3:33:40.505 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 4776.032715, 10309.814453
+ 3:33:40.506 !!! [CE][Spawn] Character "ZmbM_usSoldier_Heavy_Woodland" at 4797.294922, 10301.497070
+ 3:33:40.506 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 4756.225098, 10296.333984
+ 3:33:40.506 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 4781.053711, 10245.142578
+ 3:33:40.506 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 4679.495605, 9606.479492
+ 3:33:40.506 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 4666.194336, 9606.647461
+ 3:33:40.507 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 4628.387207, 9589.567383
+ 3:33:40.507 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 4635.784180, 9626.730469
+ 3:33:40.507 [CE][InfectedRespawner] (PRIArmyHard) :: Initial Spawn: 66
+ 3:33:40.507 [CE][InfectedRespawner] (PRICity) :: Initial Spawn: 0
+ 3:33:40.507 [CE][InfectedRespawner] (PRICityTier1) :: Initial Spawn: 0
+ 3:33:40.507 [CE][InfectedRespawner] (PRIFirefighter) :: Initial Spawn: 0
+ 3:33:40.507 [CE][InfectedRespawner] (PRIIndustrial) :: Initial Spawn: 0
+ 3:33:40.507 [CE][InfectedRespawner] (PRIMedic) :: Initial Spawn: 0
+ 3:33:40.508 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13697.302734, 11179.489258
+ 3:33:40.508 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13671.013672, 11198.276367
+ 3:33:40.508 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13677.075195, 11162.981445
+ 3:33:40.509 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13687.916016, 11181.315430
+ 3:33:40.509 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13682.851563, 11180.351563
+ 3:33:40.509 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13683.199219, 11177.241211
+ 3:33:40.509 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13675.885742, 11175.016602
+ 3:33:40.509 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13647.178711, 11193.211914
+ 3:33:40.509 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2123.482422, 3343.111572
+ 3:33:40.510 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2153.755615, 3318.102539
+ 3:33:40.510 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2145.637451, 3331.214844
+ 3:33:40.510 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2174.672852, 3334.218994
+ 3:33:40.510 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2148.828613, 3333.759277
+ 3:33:40.510 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2151.653564, 3344.691162
+ 3:33:40.510 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2110.005615, 3322.895020
+ 3:33:40.511 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2135.365967, 3344.287354
+ 3:33:40.511 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2148.068848, 3325.766846
+ 3:33:40.511 [CE][InfectedRespawner] (PRINBC) :: Initial Spawn: 17
+ 3:33:40.511 [CE][InfectedRespawner] (PRINBCYellow) :: Initial Spawn: 0
+ 3:33:40.511 [CE][InfectedRespawner] (PRIPolice) :: Initial Spawn: 0
+ 3:33:40.511 [CE][InfectedRespawner] (PRIPoliceHard) :: Initial Spawn: 0
+ 3:33:40.511 [CE][InfectedRespawner] (PRIPrisoner) :: Initial Spawn: 0
+ 3:33:40.511 [CE][InfectedRespawner] (PRIReligious) :: Initial Spawn: 0
+ 3:33:40.511 [CE][InfectedRespawner] (PRISanta) :: Initial Spawn: 0
+ 3:33:40.511 [CE][InfectedRespawner] (PRISolitude) :: Initial Spawn: 0
+ 3:33:40.511 [CE][InfectedRespawner] (PRIVillage) :: Initial Spawn: 0
+ 3:33:40.511 [CE][InfectedRespawner] (PRIVillageTier1) :: Initial Spawn: 0
+ 3:33:40.511 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:21260, Total in Map: 18359 at 0 (sec)
+ 3:33:40.511   tests:0, repeats:0 fails:0, overtime:0
+ 3:33:40.512 [CE][InfectedRespawner] (SECArmy) :: Initial Spawn: 0
+ 3:33:40.512 [CE][InfectedRespawner] (SECArmy) :: Initial Spawn: 0
+ 3:33:40.512 [CE][InfectedRespawner] (SECPoliceHard) :: Initial Spawn: 0
+ 3:33:40.512 [CE][InfectedRespawner] (SECIndustrial) :: Initial Spawn: 0
+ 3:33:40.512 [CE][TrajectoryRespawner] (PRIApple) :: Initial Spawn is DISABLED
+ 3:33:40.512 [CE][TrajectoryRespawner] (PRIConiferous) :: Initial Spawn is DISABLED
+ 3:33:40.512 [CE][TrajectoryRespawner] (PRIDeciduous) :: Initial Spawn is DISABLED
+ 3:33:40.512 [CE][TrajectoryRespawner] (PRIHumus) :: Initial Spawn is DISABLED
+ 3:33:40.512 [CE][TrajectoryRespawner] (PRIPear) :: Initial Spawn is DISABLED
+ 3:33:40.512 [CE][TrajectoryRespawner] (PRIPlum) :: Initial Spawn is DISABLED
+ 3:33:40.512 [CE][TrajectoryRespawner] (PRIStones) :: Initial Spawn is DISABLED
+ 3:33:40.512 [CE][DynEvent] :: 47 types
+ 3:33:40.512 [00] AmbientHen
+ 3:33:40.512   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 3:33:40.512 [01] AnimalBear
+ 3:33:40.512   Primary Spawner: "Animal", active: yes, repeat: 1
+ 3:33:40.512 [02] AnimalCow
+ 3:33:40.512   Primary Spawner: "Animal", active: yes, repeat: 1
+ 3:33:40.512 [03] AnimalDeer
+ 3:33:40.512   Primary Spawner: "Animal", active: yes, repeat: 1
+ 3:33:40.512 [04] AnimalGoat
+ 3:33:40.512   Primary Spawner: "Animal", active: yes, repeat: 1
+ 3:33:40.512 [05] AnimalPig
+ 3:33:40.512   Primary Spawner: "Animal", active: yes, repeat: 1
+ 3:33:40.512 [06] AnimalRoeDeer
+ 3:33:40.512   Primary Spawner: "Animal", active: yes, repeat: 1
+ 3:33:40.512 [07] AnimalSheep
+ 3:33:40.512   Primary Spawner: "Animal", active: yes, repeat: 1
+ 3:33:40.512 [08] AnimalWildBoar
+ 3:33:40.512   Primary Spawner: "Animal", active: yes, repeat: 1
+ 3:33:40.512 [09] AnimalWolf
+ 3:33:40.512   Primary Spawner: "Animal", active: yes, repeat: 1
+ 3:33:40.512 [10] InfectedArmy
+ 3:33:40.512   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.512 [11] InfectedArmyHard
+ 3:33:40.512   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.512 [12] InfectedCity
+ 3:33:40.512   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.512 [13] InfectedCityTier1
+ 3:33:40.512   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.512 [14] InfectedFirefighter
+ 3:33:40.512   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.512 [15] InfectedIndustrial
+ 3:33:40.512   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.512 [16] InfectedMedic
+ 3:33:40.512   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.513 [17] InfectedNBC
+ 3:33:40.513   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.513 [18] InfectedNBCYellow
+ 3:33:40.513   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.513 [19] InfectedPolice
+ 3:33:40.513   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.513 [20] InfectedPoliceHard
+ 3:33:40.513   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.513 [21] InfectedPrisoner
+ 3:33:40.513   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.513 [22] InfectedReligious
+ 3:33:40.513   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.513 [23] InfectedSanta
+ 3:33:40.513   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.513 [24] InfectedSolitude
+ 3:33:40.513   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.513 [25] InfectedVillage
+ 3:33:40.513   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.513 [26] InfectedVillageTier1
+ 3:33:40.513   Primary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.513 [27] ItemPlanks
+ 3:33:40.513   Primary Spawner: "Item", active: yes, repeat: 1
+ 3:33:40.513 [28] Loot
+ 3:33:40.513   Primary Spawner: "Loot", active: yes, repeat: 2
+ 3:33:40.513 [29] StaticContaminatedArea
+ 3:33:40.513   Primary Spawner: "Static", active: yes, repeat: 1
+ 3:33:40.513 [30] StaticHeliCrash
+ 3:33:40.513   Primary Spawner: "Static", active: yes, repeat: 1
+ 3:33:40.513   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.513 [31] StaticMilitaryConvoy
+ 3:33:40.513   Primary Spawner: "Static", active: yes, repeat: 1
+ 3:33:40.513   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.513 [32] StaticPoliceSituation
+ 3:33:40.513   Primary Spawner: "Static", active: yes, repeat: 1
+ 3:33:40.513   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.513 [33] StaticTrain
+ 3:33:40.513   Primary Spawner: "Static", active: yes, repeat: 1
+ 3:33:40.513   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 3:33:40.513 [34] TrajectoryApple
+ 3:33:40.513   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 3:33:40.513 [35] TrajectoryConiferous
+ 3:33:40.513   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 3:33:40.513 [36] TrajectoryDeciduous
+ 3:33:40.513   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 3:33:40.513 [37] TrajectoryHumus
+ 3:33:40.513   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 3:33:40.513 [38] TrajectoryPear
+ 3:33:40.513   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 3:33:40.513 [39] TrajectoryPlum
+ 3:33:40.513   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 3:33:40.513 [40] TrajectoryStones
+ 3:33:40.513   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 3:33:40.513 [41] VehicleCivilianSedan
+ 3:33:40.513   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:33:40.513 [42] VehicleHatchback02
+ 3:33:40.513   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:33:40.513 [43] VehicleOffroad02
+ 3:33:40.513   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:33:40.513 [44] VehicleOffroadHatchback
+ 3:33:40.513   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:33:40.513 [45] VehicleSedan02
+ 3:33:40.513   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:33:40.513 [46] VehicleTruck01
+ 3:33:40.513   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 3:33:40.513 [CE][Hive] :: Initializing of spawners done.
+ 3:33:40.516   Items batched for deletion: 0, of: 18791
+ 3:33:40.519   Items batched for deletion: 0, of: 18791
+ 3:33:40.519 <cleanup> Remove:"PleurotusMushroom" at [3458,13758] damage=0.90
+ 3:33:40.520 <cleanup> Remove:"BoletusMushroom" at [3321,13749] damage=0.90
+ 3:33:40.520 <cleanup> Remove:"PleurotusMushroom" at [3459,13757] damage=0.60
+ 3:33:40.520 <cleanup> Remove:"MacrolepiotaMushroom" at [3381,13846] damage=0.60
+ 3:33:40.520 <cleanup> Remove:"BoletusMushroom" at [3380,13777] damage=0.50
+ 3:33:40.520 <cleanup> Remove:"AgaricusMushroom" at [3462,13748] damage=0.90
+ 3:33:40.520 <cleanup> Remove:"AgaricusMushroom" at [3463,13743] damage=0.90
+ 3:33:40.520 <cleanup> Remove:"AgaricusMushroom" at [3463,13743] damage=0.41
+ 3:33:40.520 <cleanup> Remove:"AgaricusMushroom" at [3459,13749] damage=0.29
+ 3:33:40.520 <cleanup> Remove:"MacrolepiotaMushroom" at [3379,13797] damage=0.90
+ 3:33:40.521 <cleanup> Remove:"PleurotusMushroom" at [3461,13746] damage=0.60
+ 3:33:40.521 <cleanup> Remove:"MacrolepiotaMushroom" at [3355,13796] damage=0.19
+ 3:33:40.521 <cleanup> Remove:"AgaricusMushroom" at [3481,13804] damage=0.60
+ 3:33:40.521 <cleanup> Remove:"AgaricusMushroom" at [3478,13803] damage=0.90
+ 3:33:40.521 <cleanup> Remove:"BoletusMushroom" at [3325,13725] damage=0.60
+ 3:33:40.521 <cleanup> Remove:"AgaricusMushroom" at [3459,13756] damage=0.50
+ 3:33:40.521 <cleanup> Remove:"MacrolepiotaMushroom" at [3402,13868] damage=0.60
+ 3:33:40.521 <cleanup> Remove:"PleurotusMushroom" at [3480,13809] damage=0.60
+ 3:33:40.521 <cleanup> Remove:"BoletusMushroom" at [3336,13807] damage=0.60
+ 3:33:40.521 <cleanup> Remove:"MacrolepiotaMushroom" at [3358,13780] damage=0.90
+ 3:33:40.521 <cleanup> Remove:"AgaricusMushroom" at [3462,13739] damage=0.60
+ 3:33:40.521 <cleanup> Remove:"MacrolepiotaMushroom" at [3406,13803] damage=0.60
+ 3:33:40.521 <cleanup> Remove:"BoletusMushroom" at [3410,13847] damage=0.60
+ 3:33:40.521 <cleanup> Remove:"MacrolepiotaMushroom" at [3354,13791] damage=0.90
+ 3:33:40.522 <cleanup> Remove:"BoletusMushroom" at [3401,13831] damage=0.90
+ 3:33:40.522 <cleanup> Remove:"BoletusMushroom" at [3360,13786] damage=0.60
+ 3:33:40.522 <cleanup> Remove:"AgaricusMushroom" at [3459,13753] damage=0.90
+ 3:33:40.522 <cleanup> Remove:"MacrolepiotaMushroom" at [3352,13755] damage=0.60
+ 3:33:40.522 <cleanup> Remove:"AgaricusMushroom" at [3479,13800] damage=0.50
+ 3:33:40.522 <cleanup> Remove:"MacrolepiotaMushroom" at [3363,13808] damage=0.90
+ 3:33:40.522 <cleanup> Remove:"AgaricusMushroom" at [3481,13807] damage=0.37
+ 3:33:40.522 <cleanup> Remove:"PleurotusMushroom" at [3460,13743] damage=0.60
+ 3:33:40.522 <cleanup> Remove:"PleurotusMushroom" at [3483,13799] damage=0.50
+ 3:33:40.525   Items deleted: 33, of: 33
+ 3:33:40.525 [CE][Hive] :: Init sequence finished.
+ 3:33:40.525 Player connect enabled
+ 3:33:40.725 Average server FPS: 0.13 (measured interval: 1 s)
+ 3:33:40.725 Used memory: 1998380 KB
+ 3:33:40.725 Players: 0 in total
+ 3:33:41.156 [IdleMode] Entering IN - save processed
+ 3:33:41.739 Average server FPS: 10.86 (measured interval: 1 s)
+ 3:33:41.739 Used memory: 2068673 KB
+ 3:33:41.739 Players: 0 in total
+ 3:33:42.725 ------------------------------------
+ 3:33:42.725   ***  CE Loop took 1.6 (sec)...
+ 3:33:42.725 Idle Mode Active!
+ 3:33:42.725 ------------------------------------
+ 3:33:42.738 Average server FPS: 167.00 (measured interval: 1 s)
+ 3:33:42.738 Used memory: 2107275 KB
+ 3:33:42.738 Players: 0 in total
+ 3:33:43.738 Average server FPS: 3434.00 (measured interval: 1 s)
+ 3:33:43.738 Used memory: 2109361 KB
+ 3:33:43.738 Players: 0 in total
+ 3:33:44.737 Average server FPS: 3542.00 (measured interval: 1 s)
+ 3:33:44.737 Used memory: 2110726 KB
+ 3:33:44.737 Players: 0 in total
+ 3:33:45.738 Average server FPS: 3906.00 (measured interval: 1 s)
+ 3:33:45.738 Used memory: 2114283 KB
+ 3:33:45.738 Players: 0 in total
+ 3:33:46.738 Average server FPS: 3304.00 (measured interval: 1 s)
+ 3:33:46.738 Used memory: 2117118 KB
+ 3:33:46.738 Players: 0 in total
+ 3:33:47.635 ------------------------------------
+ 3:33:47.635   ***  CE Loop took 4.9 (sec)...
+ 3:33:47.635 Idle Mode Active!
+ 3:33:47.635 ------------------------------------
+ 3:33:47.738 Average server FPS: 2841.00 (measured interval: 1 s)
+ 3:33:47.738 Used memory: 2119286 KB
+ 3:33:47.738 Players: 0 in total
+ 3:33:48.737 Average server FPS: 3462.00 (measured interval: 1 s)
+ 3:33:48.737 Used memory: 2121801 KB
+ 3:33:48.737 Players: 0 in total
+ 3:33:49.737 Average server FPS: 4485.00 (measured interval: 1 s)
+ 3:33:49.737 Used memory: 2122279 KB
+ 3:33:49.737 Players: 0 in total
+ 3:33:50.739 Average server FPS: 3844.16 (measured interval: 1 s)
+ 3:33:50.739 Used memory: 2126852 KB
+ 3:33:50.739 Players: 0 in total
+ 3:33:51.738 Average server FPS: 3888.00 (measured interval: 1 s)
+ 3:33:51.738 Used memory: 2128662 KB
+ 3:33:51.738 Players: 0 in total
+ 3:33:52.537 ------------------------------------
+ 3:33:52.537   ***  CE Loop took 4.9 (sec)...
+ 3:33:52.537 Idle Mode Active!
+ 3:33:52.537 ------------------------------------
+ 3:33:52.738 Average server FPS: 6220.00 (measured interval: 1 s)
+ 3:33:52.738 Used memory: 2130050 KB
+ 3:33:52.738 Players: 0 in total
+ 3:33:53.738 Average server FPS: 3282.00 (measured interval: 1 s)
+ 3:33:53.738 Used memory: 2138399 KB
+ 3:33:53.738 Players: 0 in total
+ 3:33:54.740 Average server FPS: 1758.48 (measured interval: 1 s)
+ 3:33:54.740 Used memory: 2140456 KB
+ 3:33:54.740 Players: 0 in total
+ 3:33:55.741 Average server FPS: 5423.00 (measured interval: 1 s)
+ 3:33:55.741 Used memory: 2142668 KB
+ 3:33:55.741 Players: 0 in total
+ 3:33:56.741 Average server FPS: 4998.00 (measured interval: 1 s)
+ 3:33:56.741 Used memory: 2142916 KB
+ 3:33:56.741 Players: 0 in total
+ 3:33:57.438 ------------------------------------
+ 3:33:57.438   ***  CE Loop took 4.9 (sec)...
+ 3:33:57.438 Idle Mode Active!
+ 3:33:57.438 ------------------------------------
+ 3:33:57.741 Average server FPS: 6100.00 (measured interval: 1 s)
+ 3:33:57.741 Used memory: 2145585 KB
+ 3:33:57.741 Players: 0 in total
+ 3:33:58.741 Average server FPS: 3640.00 (measured interval: 1 s)
+ 3:33:58.741 Used memory: 2151547 KB
+ 3:33:58.741 Players: 0 in total
+ 3:33:59.740 Average server FPS: 3720.00 (measured interval: 1 s)
+ 3:33:59.740 Used memory: 2153060 KB
+ 3:33:59.740 Players: 0 in total

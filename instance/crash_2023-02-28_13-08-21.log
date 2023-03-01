@@ -1,0 +1,39 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles\crash_2023-02-28_13-08-21.log started at 28.02. 13:15:28
+
+
+
+------------------------------------
+EPSILON-SERVER, 28.02 2023 13:15:28
+NULL pointer to instance
+Class:      'SchanaPartyManagerServer'
+Function: '~SchanaPartyManagerServer'
+Stack trace:
+SchanaModParty/Game/schana_party_manager_server.c:31
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items 
+
+
+------------------------------------
+EPSILON-SERVER, 28.02 2023 13:15:28
+NULL pointer to instance
+Class:      'SchanaPartyMarkerManagerServer'
+Function: '~SchanaPartyMarkerManagerServer'
+Stack trace:
+SchanaModParty/Game/schana_party_marker_manager_server.c:14
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items 
+
+
+------------------------------------
+EPSILON-SERVER, 28.02 2023 13:15:28
+NULL pointer to instance
+Class:      'SchanaPartyBasicMapAPI'
+Function: '~SchanaPartyBasicMapAPI'
+Stack trace:
+SchanaModParty/Game/basicmapintegration\schanapartybasicmapapi.c:45
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items 

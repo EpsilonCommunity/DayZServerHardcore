@@ -1,0 +1,30 @@
+
+
+******************************************************************************
+AdminLog started on 2023-02-28 at 13:08:18
+13:08:32 |  [VPPAT] [PermissionManager] Adding Super Admin (76561198079984427)
+13:08:32 |  [VPPAT] [PermissionManager] Loaded UserGroups.json
+13:08:32 |  [VPPAT] [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+13:08:32 |  [VPPAT] [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+13:08:32 |  [VPPAT] [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+13:08:32 |  [VPPAT] [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+13:08:32 |  [VPPAT] [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+13:08:32 |  [VPPAT] [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+13:08:32 |  [VPPAT] [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+13:08:32 |  [VPPAT] [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+13:08:32 |  [VPPAT] [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+13:08:32 |  [VPPAT] [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+13:08:32 |  [VPPAT] [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+13:08:32 |  [VPPAT] [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+13:08:32 |  [VPPAT] [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+13:08:32 |  [VPPAT] [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+13:08:32 |  [VPPAT] [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+13:08:32 |  [VPPAT] [PermissionManager] Perm (Chat:refuelCar) has been registered!
+13:08:32 |  [VPPAT] [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+13:08:32 |  [VPPAT] [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+13:08:32 |  [VPPAT] Building Sets Loaded: 0
+13:08:32 |  [VPPAT] [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+13:08:32 |  [VPPAT] [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+
+
+**********************************EOF****************************************

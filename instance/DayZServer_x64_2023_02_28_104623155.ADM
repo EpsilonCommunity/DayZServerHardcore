@@ -1,0 +1,400 @@
+
+
+******************************************************************************
+AdminLog started on 2023-02-27 at 23:54:42
+23:54:56 |  [VPPAT] [PermissionManager] Adding Super Admin (76561198079984427)
+23:54:56 |  [VPPAT] [PermissionManager] Loaded UserGroups.json
+23:54:56 |  [VPPAT] [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+23:54:56 |  [VPPAT] [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+23:54:56 |  [VPPAT] [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+23:54:56 |  [VPPAT] [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+23:54:56 |  [VPPAT] [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+23:54:56 |  [VPPAT] [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+23:54:56 |  [VPPAT] [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+23:54:56 |  [VPPAT] [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+23:54:56 |  [VPPAT] [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+23:54:56 |  [VPPAT] [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+23:54:56 |  [VPPAT] [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+23:54:56 |  [VPPAT] [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+23:54:56 |  [VPPAT] [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+23:54:56 |  [VPPAT] [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+23:54:56 |  [VPPAT] [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+23:54:56 |  [VPPAT] [PermissionManager] Perm (Chat:refuelCar) has been registered!
+23:54:56 |  [VPPAT] [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+23:54:56 |  [VPPAT] [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+23:54:56 |  [VPPAT] Building Sets Loaded: 0
+23:54:56 |  [VPPAT] [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+23:54:56 |  [VPPAT] [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+23:56:06 | Player "Cappy" is connected (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=)
+23:56:30 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) connected to server!
+23:57:13 | Player "RagnarokHaze"(id=Unknown) has been disconnected
+23:58:26 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) initiated disconnect process...
+23:58:27 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) disconnected early from server (EXIT NOW).
+23:58:27 | Player "Cappy"(id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) has been disconnected
+23:59:43 | Player "goof"(id=Unknown) has been disconnected
+00:02:04 | Player "RagnarokHaze" is connected (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ=)
+00:02:26 |  [VPPAT] Player "RagnarokHaze" (steamId=76561198120496196) connected to server!
+00:03:20 | Player "Cappy" is connected (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=)
+00:03:33 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) connected to server!
+00:04:05 | Player "goof" is connected (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=)
+00:04:30 |  [VPPAT] Player "goof" (steamId=76561198103590483) connected to server!
+00:05:15 | ##### PlayerList log: 3 players
+00:05:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<3389.1, 13778.1, 222.5>)
+00:05:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<3403.0, 13762.4, 222.3>)
+00:05:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<3388.1, 13777.2, 222.4>)
+00:05:15 | #####
+00:09:41 |  [VPPAT] "Cappy" (steamid=76561198079984427) Spawned Item: (Pot)
+00:10:15 | ##### PlayerList log: 3 players
+00:10:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<3399.3, 13777.1, 222.2>)
+00:10:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<3398.9, 13778.7, 222.2>)
+00:10:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<3397.5, 13785.9, 222.2>)
+00:10:15 | #####
+00:10:36 | Chat("goof"(id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=)): leaving my SK in the humvee
+00:15:15 | ##### PlayerList log: 3 players
+00:15:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<3397.8, 13777.6, 222.1>)
+00:15:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<3382.8, 13778.1, 221.3>)
+00:15:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<3397.5, 13785.2, 222.1>)
+00:15:15 | #####
+00:20:15 | ##### PlayerList log: 3 players
+00:20:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<3397.2, 13778.3, 222.1>)
+00:20:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<3400.2, 13773.5, 222.2>)
+00:20:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<3399.2, 13774.8, 222.2>)
+00:20:15 | #####
+00:25:15 | ##### PlayerList log: 3 players
+00:25:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<3396.0, 13782.5, 222.1>)
+00:25:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<3395.2, 13783.6, 222.0>)
+00:25:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<3397.0, 13785.5, 222.1>)
+00:25:15 | #####
+00:30:08 |  [VPPAT] "Cappy" (steamid=76561198079984427) gave godmode to (steamid=76561198079984427)
+00:30:15 | ##### PlayerList log: 3 players
+00:30:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<3128.2, 12608.3, 206.5>)
+00:30:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<3130.3, 12612.5, 206.3>)
+00:30:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<3138.5, 12619.2, 205.7>)
+00:30:15 | #####
+00:30:31 |  [VPPAT] "76561198079984427" (steamid=76561198079984427) teleported to (pos=<3104.389893, 206.893494, 12598.099609>)
+00:30:31 |  [VPPAT] "Cappy": (steamid=76561198079984427) teleported to (pos=3104.39,0,12598.1)
+00:30:34 |  [VPPAT] "76561198079984427" (steamid=76561198079984427) teleported to (pos=<3104.389893, 206.893494, 12598.099609>)
+00:30:34 |  [VPPAT] "Cappy": (steamid=76561198079984427) teleported to (pos=3104.39,0,12598.1)
+00:30:35 |  [VPPAT] "76561198079984427" (steamid=76561198079984427) teleported to (pos=<3104.389893, 206.893494, 12598.099609>)
+00:30:35 |  [VPPAT] "Cappy": (steamid=76561198079984427) teleported to (pos=3104.39,0,12598.1)
+00:30:35 |  [VPPAT] "76561198079984427" (steamid=76561198079984427) teleported to (pos=<3104.389893, 206.893494, 12598.099609>)
+00:30:35 |  [VPPAT] "Cappy": (steamid=76561198079984427) teleported to (pos=3104.39,0,12598.1)
+00:30:35 |  [VPPAT] "76561198079984427" (steamid=76561198079984427) teleported to (pos=<3104.389893, 206.893494, 12598.099609>)
+00:30:35 |  [VPPAT] "Cappy": (steamid=76561198079984427) teleported to (pos=3104.39,0,12598.1)
+00:30:35 |  [VPPAT] "76561198079984427" (steamid=76561198079984427) teleported to (pos=<3104.389893, 206.893494, 12598.099609>)
+00:30:35 |  [VPPAT] "Cappy": (steamid=76561198079984427) teleported to (pos=3104.39,0,12598.1)
+00:30:35 |  [VPPAT] "76561198079984427" (steamid=76561198079984427) teleported to (pos=<3104.389893, 206.893494, 12598.099609>)
+00:30:35 |  [VPPAT] "Cappy": (steamid=76561198079984427) teleported to (pos=3104.39,0,12598.1)
+00:30:35 |  [VPPAT] "76561198079984427" (steamid=76561198079984427) teleported to (pos=<3104.389893, 206.893494, 12598.099609>)
+00:30:35 |  [VPPAT] "Cappy": (steamid=76561198079984427) teleported to (pos=3104.39,0,12598.1)
+00:30:36 |  [VPPAT] "76561198079984427" (steamid=76561198079984427) teleported to (pos=<3104.389893, 206.893494, 12598.099609>)
+00:30:36 |  [VPPAT] "Cappy": (steamid=76561198079984427) teleported to (pos=3104.39,0,12598.1)
+00:30:36 |  [VPPAT] "76561198079984427" (steamid=76561198079984427) teleported to (pos=<3104.389893, 206.893494, 12598.099609>)
+00:30:36 |  [VPPAT] "Cappy": (steamid=76561198079984427) teleported to (pos=3104.39,0,12598.1)
+00:30:36 |  [VPPAT] "76561198079984427" (steamid=76561198079984427) teleported to (pos=<3104.389893, 206.893494, 12598.099609>)
+00:30:36 |  [VPPAT] "Cappy": (steamid=76561198079984427) teleported to (pos=3104.39,0,12598.1)
+00:30:40 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) initiated disconnect process...
+00:30:41 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) disconnected early from server (EXIT NOW).
+00:30:42 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) disconnected from server.
+00:30:42 | Player "Cappy"(id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) has been disconnected
+00:30:46 | Player "Cappy" is connected (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=)
+00:30:57 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) connected to server!
+00:35:15 | ##### PlayerList log: 3 players
+00:35:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<2693.9, 10042.8, 274.8>)
+00:35:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<2694.8, 10044.1, 274.8>)
+00:35:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<2695.1, 10043.4, 274.8>)
+00:35:15 | #####
+00:36:00 | Chat("goof"(id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=)): ANY TYRE REPAIR KIT
+00:36:05 | Chat("goof"(id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=)): front left tire badly damaged
+00:36:41 |  [VPPAT] "Cappy" (steamid=76561198079984427) Spawned Item: (Truck_01_Covered_Blue)
+00:37:48 | Chat("goof"(id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=)): you can split that wheel cant you
+00:37:54 |  [VPPAT] "Cappy" (steamid=76561198079984427) Spawned Item: (Truck_01_Covered_Orange)
+00:38:00 |  [VPPAT] "Cappy" (steamid=76561198079984427) Spawned Item: (Truck_01_Covered)
+00:40:15 | ##### PlayerList log: 3 players
+00:40:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<2556.8, 9553.4, 258.5>)
+00:40:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<2556.0, 9567.6, 258.2>)
+00:40:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<2555.5, 9556.1, 258.3>)
+00:40:15 | #####
+00:45:15 | ##### PlayerList log: 3 players
+00:45:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<2596.1, 9580.0, 259.9>)
+00:45:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<2632.7, 9568.8, 260.4>)
+00:45:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<2594.2, 9579.1, 258.5>)
+00:45:15 | #####
+00:49:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<4523.5, 8361.5, 316.8>)[HP: 91] hit by Infected into Torso(1) for 9 damage (MeleeZombieSoldier)
+00:49:19 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<4520.7, 8358.6, 316.6>)[HP: 82.1803] hit by Infected into Torso(1) for 9 damage (MeleeZombieSoldier)
+00:49:22 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<4528.3, 8343.5, 317.4>)[HP: 73.2704] hit by Infected into Torso(1) for 9 damage (MeleeZombieSoldier)
+00:49:24 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<4530.3, 8339.8, 317.9>)[HP: 71.0204] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+00:49:52 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<4532.2, 8343.5, 317.6>)[HP: 62.9257] hit by Infected into Torso(1) for 9 damage (MeleeZombieSoldier)
+00:50:00 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<4531.5, 8313.3, 317.6>)[HP: 60.856] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+00:50:02 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<4522.3, 8317.1, 317.6>)[HP: 59.9466] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+00:50:05 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<4520.2, 8314.5, 317.6>)[HP: 51.0374] hit by Infected into Torso(1) for 9 damage (MeleeZombieSoldier)
+00:50:06 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<4520.3, 8317.4, 317.6>)[HP: 48.7874] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+00:50:06 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<4520.8, 8316.9, 317.6>)[HP: 39.7874] hit by Infected into Torso(1) for 9 damage (MeleeZombieSoldier)
+00:50:07 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<4523.1, 8314.1, 317.6>)[HP: 37.6283] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+00:50:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<4551.8, 8309.7, 317.9>)[HP: 36.8035] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+00:50:15 | ##### PlayerList log: 3 players
+00:50:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<2903.0, 9362.5, 268.0>)
+00:50:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<4551.4, 8308.2, 317.9>)
+00:50:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<2903.6, 9363.5, 268.1>)
+00:50:15 | #####
+00:50:57 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<4552.2, 8307.1, 317.9>)[HP: 35.5928] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+00:51:00 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<4543.0, 8305.9, 317.9>)[HP: 0.14109] hit by explosion (M67Grenade_Ammo)
+00:51:30 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3666.845947, 310.996124, 8941.658203>)
+00:51:30 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3671.654541, 310.941040, 8938.158203>)
+00:51:30 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3671.769287, 310.938293, 8938.073242>)
+00:51:30 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3671.924072, 310.934723, 8937.959961>)
+00:51:30 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3672.051270, 310.931671, 8937.866211>)
+00:51:31 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3672.216797, 310.927795, 8937.746094>)
+00:51:31 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3672.352051, 310.924683, 8937.646484>)
+00:51:31 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3672.524414, 310.920685, 8937.522461>)
+00:51:31 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3672.665283, 310.917511, 8937.420898>)
+00:51:31 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3672.843018, 310.913391, 8937.294922>)
+00:51:31 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3672.987305, 310.910156, 8937.193359>)
+00:51:31 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3673.167480, 310.906250, 8937.070313>)
+00:51:31 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3673.313721, 310.903046, 8936.970703>)
+00:51:31 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3673.495117, 310.899200, 8936.850586>)
+00:51:31 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3673.573242, 310.897614, 8936.798828>)
+00:51:31 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3673.680176, 310.895325, 8936.729492>)
+00:51:31 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3673.705811, 310.894714, 8936.710938>)
+00:51:31 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3673.728271, 310.894196, 8936.694336>)
+00:51:31 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3673.784180, 310.893127, 8936.659180>)
+00:51:31 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3673.799561, 310.892822, 8936.648438>)
+00:51:31 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3673.881836, 310.890930, 8936.592773>)
+00:51:31 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3673.887939, 310.890900, 8936.587891>)
+00:51:31 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3673.927979, 310.890076, 8936.564453>)
+00:51:31 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3673.929443, 310.890045, 8936.563477>)
+00:52:22 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<3693.6, 8909.8, 311.0>)[HP: 98.9375] hit by Infected into LeftLeg(8) for 4.25 damage (MeleeZombie)
+00:54:04 |  [VPPAT] "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<3726.719482, 314.064758, 8913.149414>)
+00:54:21 | Chat("Cappy"(id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=)): PRESS H
+00:54:48 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<3726.0, 8925.9, 316.2>)[HP: 97.7366] hit by FallDamage
+00:55:15 | ##### PlayerList log: 3 players
+00:55:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<3742.0, 8895.2, 312.3>)
+00:55:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<4464.1, 8386.7, 314.7>)
+00:55:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<3742.6, 8896.2, 312.3>)
+00:55:15 | #####
+01:00:15 | ##### PlayerList log: 3 players
+01:00:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<3822.3, 8881.5, 311.3>)
+01:00:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<4463.1, 8388.4, 316.2>)
+01:00:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<3841.1, 8950.2, 311.5>)
+01:00:15 | #####
+01:02:11 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<3860.9, 8987.6, 311.2>)[HP: 98.3125] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieMale)
+01:02:37 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<3854.4, 8968.9, 311.1>)[HP: 92.3291] hit by Infected into Torso(1) for 6.75 damage (MeleeZombieMale)
+01:02:39 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<3855.0, 8968.6, 311.1>)[HP: 92.4143] hit by Infected into Block(-1) for 0 damage 
+01:02:44 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<3856.3, 8965.4, 311.0>)[HP: 91.8358] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieMale)
+01:05:15 | ##### PlayerList log: 3 players
+01:05:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<3766.8, 9019.9, 311.5>)
+01:05:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<4463.1, 8388.4, 316.2>)
+01:05:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<3761.3, 9007.0, 312.5>)
+01:05:15 | #####
+01:10:15 | ##### PlayerList log: 3 players
+01:10:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<3845.7, 9050.7, 314.0>)
+01:10:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<4464.1, 8387.5, 315.0>)
+01:10:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<3844.7, 9050.1, 314.0>)
+01:10:15 | #####
+01:15:15 | ##### PlayerList log: 3 players
+01:15:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6113.6, 7738.0, 302.3>)
+01:15:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<5838.0, 8140.3, 312.3>)
+01:15:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6114.3, 7738.9, 302.3>)
+01:15:15 | #####
+01:18:29 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6303.3, 7848.9, 305.1>)[HP: 32.1424] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieFemale)
+01:18:30 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6304.2, 7849.8, 305.2>)[HP: 30.2674] hit by Infected into RightLeg(3) for 7.5 damage (MeleeZombieFemale)
+01:18:32 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6307.9, 7850.1, 305.2>)[HP: 28.4732] hit by Infected into LeftLeg(8) for 7.5 damage (MeleeZombieFemale)
+01:20:15 | ##### PlayerList log: 3 players
+01:20:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<8357.0, 5993.8, 292.8>)
+01:20:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6321.6, 7780, 305.0>)
+01:20:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<8354.1, 5994.2, 292.8>)
+01:20:15 | #####
+01:25:15 | ##### PlayerList log: 3 players
+01:25:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<8354.5, 5968.6, 292.0>)
+01:25:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6227.4, 7780.4, 301.3>)
+01:25:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<8358.6, 5979.6, 292.0>)
+01:25:15 | #####
+01:26:09 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6140.4, 7647.0, 299.0>) placed Canopy Tent
+01:27:05 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<5990.9, 7679.3, 307.9>)[HP: 39.5653] hit by Infected into LeftLeg(8) for 7.5 damage (MeleeZombieFemale)
+01:27:09 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<5993.5, 7677.5, 307.9>)[HP: 37.7685] hit by Infected into RightLeg(3) for 7.5 damage (MeleeZombieFemale)
+01:27:10 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<5993.8, 7676.5, 307.9>)[HP: 35.9706] hit by Infected into RightLeg(3) for 7.5 damage (MeleeZombieFemale)
+01:28:52 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<5995.2, 7676.6, 307.9>)[HP: 36.2758] hit by Infected into RightLeg(3) for 7.5 damage (MeleeZombieMale)
+01:29:51 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<5985.9, 7673.1, 307.9>)[HP: 35.6049] hit by Infected into RightLeg(3) for 7.5 damage (MeleeZombieMale)
+01:30:15 | ##### PlayerList log: 3 players
+01:30:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<8357.5, 5993.8, 292.8>)
+01:30:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<5996.0, 7677.0, 307.9>)
+01:30:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<8359.6, 5991.2, 292.0>)
+01:30:15 | #####
+01:30:30 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<5993.1, 7678.3, 307.9>)[HP: 34.5587] hit by Infected into LeftLeg(8) for 7.5 damage (MeleeZombieMale)
+01:30:31 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<5992.9, 7677, 307.9>)[HP: 27.8087] hit by Infected into Torso(1) for 6.75 damage (MeleeZombieMale)
+01:30:38 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<5988.9, 7685, 307.9>)[HP: 27.251] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+01:30:39 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<5988.3, 7686.2, 307.9>)[HP: 26.501] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+01:30:44 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<5988.6, 7685.0, 307.9>)[HP: 19.8147] hit by Infected into Torso(1) for 6.75 damage (MeleeZombieMale)
+01:30:46 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<5988.5, 7685.0, 307.9>)[HP: 19.1278] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieMale)
+01:35:15 | ##### PlayerList log: 3 players
+01:35:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<8382.9, 5985.8, 292.0>)
+01:35:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<5989.8, 7685.6, 307.9>)
+01:35:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<8387.5, 5984.3, 293.3>)
+01:35:15 | #####
+01:40:15 | ##### PlayerList log: 3 players
+01:40:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<7057.2, 7667.6, 295.8>)
+01:40:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<5989.8, 7685.6, 307.9>)
+01:40:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<7057.7, 7666.6, 295.8>)
+01:40:15 | #####
+01:45:15 | ##### PlayerList log: 3 players
+01:45:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<7054.9, 7671.8, 294.6>)
+01:45:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<5989.8, 7685.6, 307.9>)
+01:45:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<7057.7, 7666.6, 295.8>)
+01:45:15 | #####
+01:45:55 |  [VPPAT] Player "goof" (steamId=76561198103590483) initiated disconnect process...
+01:45:57 |  [VPPAT] Player "goof" (steamId=76561198103590483) disconnected from server.
+01:45:57 | Player "goof"(id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) has been disconnected
+01:50:15 | ##### PlayerList log: 2 players
+01:50:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<7125.1, 7696.0, 294.1>)
+01:50:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<7121.4, 7716.5, 294.8>)
+01:50:15 | #####
+01:55:15 | ##### PlayerList log: 2 players
+01:55:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<4640.4, 7542.0, 326.2>)
+01:55:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<4641.6, 7542.0, 326.2>)
+01:55:15 | #####
+02:00:15 | ##### PlayerList log: 2 players
+02:00:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<4762.2, 6783.1, 270.7>)
+02:00:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<4760.1, 6787.8, 270.7>)
+02:00:15 | #####
+02:01:26 |  [VPPAT] "Cappy" (steamid=76561198079984427) /refuel used on self.
+02:01:56 |  [VPPAT] "Cappy" (steamid=76561198079984427) /refuel used on self.
+02:01:58 |  [VPPAT] "Cappy" (steamid=76561198079984427) /refuel used on self.
+02:01:59 |  [VPPAT] "Cappy" (steamid=76561198079984427) /refuel used on self.
+02:03:54 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<4808.8, 6804.0, 270.2>)[HP: 98.9375] hit by Infected into RightLeg(3) for 4.25 damage (MeleeZombie)
+02:05:15 | ##### PlayerList log: 2 players
+02:05:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<4811.3, 6837.4, 270.3>)
+02:05:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<4806.7, 6836.9, 270.8>)
+02:05:15 | #####
+02:10:15 | ##### PlayerList log: 2 players
+02:10:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<4807.6, 6779.9, 269.6>)
+02:10:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<4804.9, 6797.7, 270.1>)
+02:10:15 | #####
+02:15:15 | ##### PlayerList log: 2 players
+02:15:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<4716.5, 6799.2, 271.4>)
+02:15:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<4804.9, 6797.7, 270.1>)
+02:15:15 | #####
+02:20:15 | ##### PlayerList log: 2 players
+02:20:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<4745.9, 6839.6, 271.5>)
+02:20:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<4760.9, 6757.1, 270.0>)
+02:20:15 | #####
+02:21:47 | Player "goof" is connected (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=)
+02:21:56 |  [VPPAT] Player "goof" (steamId=76561198103590483) connected to server!
+02:24:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6273, 7822.5, 304.9>)[HP: 40.4727] hit by Infected into Block(-1) for 0 damage 
+02:24:45 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6308.2, 7842.9, 304.9>)[HP: 41.133] hit by Infected into Block(-1) for 0 damage 
+02:24:50 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6307.9, 7844.6, 304.9>)[HP: 40.1991] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+02:24:58 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6279.5, 7832.6, 304.9>)[HP: 39.3981] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+02:24:59 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6277.9, 7830.9, 305.0>)[HP: 39.3981] hit by Infected into Block(-1) for 0 damage 
+02:25:01 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6275.2, 7825.6, 305.0>)[HP: 39.4646] hit by Infected into Block(-1) for 0 damage 
+02:25:02 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6274.3, 7825.5, 305.0>)[HP: 38.4646] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+02:25:03 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6273.0, 7824.2, 305.0>)[HP: 37.5314] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+02:25:07 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6265.5, 7825.1, 304.9>)[HP: 28.5968] hit by Infected into Torso(1) for 9 damage (MeleeZombieSoldier)
+02:25:07 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6265.4, 7825.1, 304.9>)[HP: 19.5968] hit by Infected into Torso(1) for 9 damage (MeleeZombieSoldier)
+02:25:08 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6266.2, 7826.2, 304.9>)[HP: 19.5968] hit by Infected into Block(-1) for 0 damage 
+02:25:11 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6269.4, 7829.3, 305.0>)[HP: 18.6609] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+02:25:15 | ##### PlayerList log: 3 players
+02:25:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<5114.6, 6925.1, 272.7>)
+02:25:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<5116.2, 6927.7, 273.0>)
+02:25:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6274.4, 7823.5, 305.0>)
+02:25:15 | #####
+02:25:15 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6275.2, 7823.7, 305.0>)[HP: 9.78656] hit by Infected into Torso(1) for 9 damage (MeleeZombieSoldier)
+02:25:16 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6278.2, 7823.8, 305.0>)[HP: 8.78656] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+02:25:17 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6280.2, 7824, 305.0>)[HP: 8.78656] hit by Infected into Block(-1) for 0 damage 
+02:25:18 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6281.7, 7824.3, 305.0>)[HP: 8.84772] hit by Infected into Block(-1) for 0 damage 
+02:25:21 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6284.9, 7823.9, 305.0>)[HP: 8.90754] hit by Infected into Block(-1) for 0 damage 
+02:25:22 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6285.2, 7822.8, 305.0>)[HP: 8.90754] hit by Infected into Block(-1) for 0 damage 
+02:25:22 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6285.0, 7822, 305.0>)[HP: 8.90754] hit by Infected into Block(-1) for 0 damage 
+02:25:22 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6284.9, 7821.8, 305.0>)[HP: 8.90754] hit by Infected into Block(-1) for 0 damage 
+02:25:23 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6284.5, 7821.2, 305.0>)[HP: 8.90754] hit by Infected into Block(-1) for 0 damage 
+02:25:24 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6285.5, 7820.3, 305.0>)[HP: 8.96628] hit by Infected into Block(-1) for 0 damage 
+02:25:25 | Player "goof" (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6286.9, 7821.2, 305.0>)[HP: 8.96628] hit by Infected into Block(-1) for 0 damage 
+02:25:26 | Player "goof" (DEAD) (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6287.7, 7822.1, 305.0>)[HP: 0] hit by Infected into Torso(1) for 9 damage (MeleeZombieSoldier)
+02:25:26 | Player "goof" (DEAD) (id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI= pos=<6287.7, 7822.1, 305.0>) killed by ZmbM_usSoldier_normal_Woodland
+02:27:45 |  [VPPAT] Player "goof" (steamId=76561198103590483) initiated disconnect process...
+02:27:47 |  [VPPAT] Player "goof" (steamId=76561198103590483) disconnected from server.
+02:27:47 | Player "goof"(id=AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) has been disconnected
+02:30:15 | ##### PlayerList log: 2 players
+02:30:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<5725.5, 7296.6, 304.3>)
+02:30:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<5729.8, 7303.9, 304.8>)
+02:30:15 | #####
+02:34:41 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6193.7, 7742.1, 301.0>)[HP: 98.4063] hit by Infected into LeftLeg(8) for 6.375 damage (MeleeZombieMale)
+02:34:42 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6190.7, 7744.3, 301.0>)[HP: 97.6563] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+02:34:46 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6187.1, 7747.4, 301.0>)[HP: 96.1531] hit by Infected into RightLeg(3) for 6.375 damage (MeleeZombieMale)
+02:34:47 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6187.1, 7747.4, 301.0>)[HP: 94.6495] hit by Infected into LeftLeg(8) for 6.375 damage (MeleeZombieMale)
+02:35:10 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6190.5, 7778.5, 300.2>)[HP: 98.875] hit by Infected into RightLeg(3) for 4.5 damage (MeleeZombie)
+02:35:15 | ##### PlayerList log: 2 players
+02:35:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6186.6, 7775.7, 300.3>)
+02:35:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6188.8, 7777.1, 300.0>)
+02:35:15 | #####
+02:35:34 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6203.7, 7793.4, 302.3>)[HP: 93.8803] hit by Infected into LeftLeg(8) for 8.5 damage (MeleeZombieSoldier)
+02:35:37 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6207.4, 7794.7, 302.3>)[HP: 92.3767] hit by Infected into LeftLeg(8) for 6.375 damage (MeleeZombieFemale)
+02:35:38 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6208.5, 7795.0, 302.3>)[HP: 83.4674] hit by Infected into Torso(1) for 9 damage (MeleeZombieSoldier)
+02:35:39 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6208.7, 7794.6, 302.3>)[HP: 82.4674] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+02:35:40 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6210.1, 7792.6, 302.3>)[HP: 81.9674] hit by Infected into RightArm(17) for 5 damage (MeleeZombie)
+02:35:42 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6214.0, 7790.9, 302.3>)[HP: 81.0579] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+02:35:43 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6216.3, 7789.9, 302.3>)[HP: 80.0579] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+02:35:44 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6217.2, 7790.1, 302.3>)[HP: 79.6484] hit by Infected into LeftArm(18) for 5 damage (MeleeZombie)
+02:35:44 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6217.5, 7790.6, 302.3>) is unconscious
+02:35:44 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6217.8, 7790.8, 302.3>)[HP: 78.6484] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+02:35:45 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6217.8, 7792.0, 302.3>)[HP: 77.6484] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+02:35:45 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6217.8, 7792.1, 302.3>)[HP: 73.1484] hit by Infected into Torso(1) for 4.5 damage (MeleeZombie)
+02:36:03 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6221.9, 7786.5, 302.3>)[HP: 99] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+02:36:04 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6224.8, 7787.4, 302.3>)[HP: 98] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+02:36:05 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6225.7, 7790.6, 302.3>)[HP: 97] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+02:36:09 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6212.1, 7795.1, 302.3>)[HP: 94.8401] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+02:36:09 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6211.9, 7794.4, 302.3>)[HP: 92.6802] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+02:36:12 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6221.4, 7790.7, 302.3>)[HP: 91.7709] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+02:36:17 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6194.8, 7794.5, 302.3>)[HP: 90.861] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+02:36:21 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6190.6, 7785.0, 302.3>)[HP: 90.0421] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+02:36:36 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6216.8, 7793.9, 302.3>) regained consciousness
+02:40:15 | ##### PlayerList log: 2 players
+02:40:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6217.8, 7790.2, 302.3>)
+02:40:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6215.8, 7796.1, 302.3>)
+02:40:15 | #####
+02:45:15 | ##### PlayerList log: 2 players
+02:45:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6217.8, 7790.2, 302.3>)
+02:45:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6215.1, 7795.7, 302.3>)
+02:45:15 | #####
+02:50:15 | ##### PlayerList log: 2 players
+02:50:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6288.4, 7823.2, 305.0>)
+02:50:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6205.3, 7797.2, 302.3>)
+02:50:15 | #####
+02:55:15 | ##### PlayerList log: 2 players
+02:55:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6313.7, 7790.4, 305.2>)
+02:55:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6207.3, 7797.3, 302.3>)
+02:55:15 | #####
+03:00:15 | ##### PlayerList log: 2 players
+03:00:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6211.6, 7646.4, 298.3>)
+03:00:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6223.1, 7796.8, 302.3>)
+03:00:15 | #####
+03:05:15 | ##### PlayerList log: 2 players
+03:05:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6154.7, 7690.3, 300.7>)
+03:05:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6233.5, 7788.6, 301.8>)
+03:05:15 | #####
+03:10:15 | ##### PlayerList log: 2 players
+03:10:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<6073.2, 7820.9, 303.1>)
+03:10:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6238.0, 7773.3, 301.2>)
+03:10:15 | #####
+03:15:15 | ##### PlayerList log: 2 players
+03:15:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<5985.1, 7714.9, 304.3>)
+03:15:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6235.0, 7747.8, 301.0>)
+03:15:15 | #####
+03:20:15 | ##### PlayerList log: 2 players
+03:20:15 | Player "RagnarokHaze" (id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ= pos=<5994.8, 7686.2, 307.9>)
+03:20:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6257.7, 7751.9, 301.1>)
+03:20:15 | #####
+03:21:58 |  [VPPAT] Player "RagnarokHaze" (steamId=76561198120496196) initiated disconnect process...
+03:22:00 |  [VPPAT] Player "RagnarokHaze" (steamId=76561198120496196) disconnected from server.
+03:22:01 | Player "RagnarokHaze"(id=LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ=) has been disconnected
+03:25:15 | ##### PlayerList log: 1 players
+03:25:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6251.9, 7758.4, 301.3>)
+03:25:15 | #####
+03:30:15 | ##### PlayerList log: 1 players
+03:30:15 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6362.8, 7799.0, 305.1>)
+03:30:15 | #####
+03:32:29 | Player "Cappy" (id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I= pos=<6306.5, 7810.8, 305.0>)[HP: 99] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+03:33:01 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) initiated disconnect process...
+03:33:03 |  [VPPAT] Player "Cappy" (steamId=76561198079984427) disconnected from server.
+03:33:04 | Player "Cappy"(id=o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) has been disconnected
+
+
+**********************************EOF****************************************

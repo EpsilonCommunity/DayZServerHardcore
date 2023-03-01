@@ -1,0 +1,65 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\admin\1\instance\crash_2023-03-01_04-27-54.log started at 01.03. 04:30:25
+
+
+
+------------------------------------
+SERVER-EPSILON, 01.03 2023 04:30:25
+[Object::GetMaxHealth] :: [Land_Wreck_sed01_aban2_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 01.03 2023 04:30:52
+[Object::GetMaxHealth] :: [Land_Wreck_sed01_aban1_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 01.03 2023 04:31:19
+[Object::GetMaxHealth] :: [Land_Wreck_hb01_aban2_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 01.03 2023 04:31:19
+[Object::GetMaxHealth] :: [Land_Wreck_hb01_aban1_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 01.03 2023 04:32:13
+[Object::GetMaxHealth] :: [Land_Wreck_Volha_Police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 01.03 2023 04:39:19
+NULL pointer to instance
+Function: 'BuildList'
+Stack trace:
+VPPAdminTools/3_Game/vppadmintools\playerlist\playerlist.c:254
+VPPAdminTools/3_Game/vppadmintools\playerlist\playerlist.c:297
+VPPAdminTools/3_Game/vppadmintools\playerlist\playerlist.c:225
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:482
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:264
+scripts/5_Mission/mission\missionserver.c:243
+scripts/5_Mission/mission\missionserver.c:96
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:58
+TM/Trader/scripts/5_Mission/mission\missionserver.c:80
+scripts/3_Game/dayzgame.c:2454
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:211
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  

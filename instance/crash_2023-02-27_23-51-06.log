@@ -1,0 +1,423 @@
+---------------------------------------------
+Log C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles\crash_2023-02-27_23-51-06.log started at 27.02. 23:51:28
+
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:28
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:28
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:28
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:28
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:28
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:29
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:29
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:29
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:30
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:30
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:31
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:31
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:31
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:31
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:31
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:31
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:32
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:32
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:32
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:32
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:32
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:32
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:32
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:32
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:32
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:33
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:33
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:33
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:33
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:34
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:34
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:51:34
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:52:50
+NULL pointer to instance
+Class:      'SchanaPartyManagerServer'
+Function: '~SchanaPartyManagerServer'
+Stack trace:
+SchanaModParty/Game/schana_party_manager_server.c:31
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:52:50
+NULL pointer to instance
+Class:      'SchanaPartyMarkerManagerServer'
+Function: '~SchanaPartyMarkerManagerServer'
+Stack trace:
+SchanaModParty/Game/schana_party_marker_manager_server.c:14
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 
+
+
+------------------------------------
+EPSILON-SERVER, 27.02 2023 23:52:50
+NULL pointer to instance
+Class:      'SchanaPartyBasicMapAPI'
+Function: '~SchanaPartyBasicMapAPI'
+Stack trace:
+SchanaModParty/Game/basicmapintegration\schanapartybasicmapapi.c:45
+
+Runtime mode
+CLI params: limitFPS 60 cpuCount 4 freezeCheck  netLog  adminLog  doLogs  port 2302 profiles C:\Program Files (x86)\Steam\steamapps\common\DayZServer\profiles config serverDZ.cfg mod @CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty 

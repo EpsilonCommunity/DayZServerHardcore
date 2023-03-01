@@ -1,0 +1,19 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\admin\1\instance\crash_2023-03-01_04-10-52.log started at 01.03. 04:13:42
+
+
+
+------------------------------------
+SERVER-EPSILON, 01.03 2023 04:13:42
+[Object::GetMaxHealth] :: [Land_Wreck_sed01_aban2_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 01.03 2023 04:14:08
+[Object::GetMaxHealth] :: [Land_Wreck_sed01_aban1_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@Trader;@TraderFixesAndFeatures;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<economycore>
+	<classes>
+<!--
+These are rootclasses to be used by economy.
+Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
+Do not forget to add attribute act="car", if root class represents moveable vehicles
+-->
+		<rootclass name="DefaultWeapon" /> <!-- weapons -->
+		<rootclass name="DefaultMagazine" /> <!-- magazines -->
+		<rootclass name="Inventory_Base" /> <!-- inventory items -->
+		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" /> <!-- houses, wrecks -->
+		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" /> <!-- player characters -->
+		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
+		<rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
+	</classes>
+	<defaults>
+		<default name="dyn_radius" value="30" />
+		<default name="dyn_smin" value="0" />
+		<default name="dyn_smax" value="0" />
+		<default name="dyn_dmin" value="1" />
+		<default name="dyn_dmax" value="5" />
+		<default name="log_ce_loop" value="true"/>
+		<default name="log_ce_dynamicevent" value="true"/>
+		<default name="log_ce_vehicle" value="true"/>
+		<default name="log_ce_lootspawn" value="true"/>
+		<default name="log_ce_lootcleanup" value="true"/>
+		<default name="log_ce_lootrespawn" value="true"/>
+		<default name="log_ce_statistics" value="true"/>
+		<default name="log_ce_zombie" value="true"/>
+		<default name="log_storageinfo" value="true"/>
+		<default name="log_hivewarning" value="true"/>
+		<default name="log_missionfilewarning" value="true"/>
+		<default name="save_events_startup" value="true"/>
+		<default name="save_types_startup" value="true"/>
+	</defaults>
+</economycore>
+<ce folder="types">
+  <file name="types_clothes.xml" type="types" />
+  <file name="types_containers.xml" type="types" />
+  <file name="types_explosives.xml" type="types" />
+  <file name="types_food.xml" type="types" />
+  <file name="types_other.xml" type="types" />
+  <file name="types_tools.xml" type="types" />
+  <file name="types_vehiclesparts.xml" type="types" />
+  <file name="types_weapons.xml" type="types" />
+  <file name="types_money.xml" type="types" />
+  <file name="types_bbp.xml" type="types" />
+</ce>
