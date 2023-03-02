@@ -1,0 +1,14 @@
+---------------------------------------------
+ServerPanel log started at 01.03.2023 23:47:00
+
+01.03.2023 23:47:00 [ServerPanelLogger]: INFO: Will try to create ServerPanel log file in $profile:
+01.03.2023 23:47:00 [ServerPanelConfig]: Reading Server Config
+01.03.2023 23:47:00 [ServerPanelConfig]: ConfigRequest
+01.03.2023 23:48:22 [ServerPanelI]: Cappy (o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) - Config sync
+01.03.2023 23:50:34 [ServerPanelI]: Cappy (o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) - Config sync
+02.03.2023 00:24:05 [ServerPanelI]: Cappy (o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) - Config sync
+02.03.2023 00:27:12 [ServerPanelI]: RagnarokHaze (LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ=) - Config sync
+02.03.2023 00:40:00 [ServerPanelI]: goof (AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) - Config sync
+02.03.2023 00:40:17 [ServerPanelI]: goof (AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) - Player Stats sync
+02.03.2023 01:25:59 [ServerPanelI]: Cappy (o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) - Config sync
+02.03.2023 02:02:12 [ServerPanelI]: Cappy (o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) - Config sync
