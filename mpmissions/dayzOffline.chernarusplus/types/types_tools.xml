@@ -684,9 +684,10 @@
         <usage name="Industrial" />
         <usage name="Town" />
         <usage name="Village" />
+        <usage name="Medic" />
     </type>
     <type name="ChernarusMap">
-        <nominal>50</nominal>
+        <nominal>500</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>30</min>
@@ -698,6 +699,9 @@
         <tag name="shelves" />
         <usage name="Hunting" />
         <usage name="Office" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Industrial" />
     </type>
     <type name="ChernarusMap_Open">
         <nominal>1</nominal>
