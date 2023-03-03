@@ -6,7 +6,7 @@
 		"disableRespawnDialog": true
 	},
 	"PlayerData": {
-		"disablePersonalLight": false,
+		"disablePersonalLight": true,
 		"StaminaData": {
 			"sprintStaminaModifierErc": 1.0,
 			"sprintStaminaModifierCro": 1.0,
