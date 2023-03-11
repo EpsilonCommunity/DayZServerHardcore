@@ -1,6 +1,6 @@
 {
     "Version": "2.5",
-    "EnableAutoCalculation": 0,
+    "EnableAutoCalculation": 1,
     "EnableAutoDestockAtRestart": 0,
     "EnableDefaultTraderStock": 0,
     "TraderCategories": [

@@ -1,10 +1,33 @@
 [
     {
-        "Name": "GREEN MOUNTAIN",
+        "Name": "Trader Area",
         "Pos": [
-            3693.56005859375,
-            402.31201171875,
-            6010.0498046875
+            11596.6,
+            0,
+            14695.6
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            212,
+            138,
+            251
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0,
+        "MapToShowOn": "chernarusplus",
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    },
+    {
+        "Name": "Vehicle Trader",
+        "Pos": [
+            11616.6,
+            0,
+            14686.3
         ],
         "Icon": "BasicMap\\gui\\images\\marker.paa",
         "Is3DMarker": 0,
@@ -23,11 +46,11 @@
         "Group": "BASICMAP_SERVER"
     },
     {
-        "Name": "KUMYRNA",
+        "Name": "Clothing Trader",
         "Pos": [
-            8345.6103515625,
-            292.302001953125,
-            5985.93017578125
+            11597.8,
+            0,
+            14675.6
         ],
         "Icon": "BasicMap\\gui\\images\\marker.paa",
         "Is3DMarker": 0,
@@ -46,8 +69,13 @@
         "Group": "BASICMAP_SERVER"
     },
     {
-        "Name": "Cement Mixer",
-        "Icon": "BasicMap\\gui\\images\\tools.paa",
+        "Name": "Weapon Trader",
+        "Pos": [
+            11620.1,
+            0,
+            14657.7
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
         "Is3DMarker": 0,
         "Colour": [
             212,
@@ -61,16 +89,16 @@
         "MinRenderDistance": -1.0,
         "MapToShowOn": "chernarusplus",
         "CanEdit": 0,
-        "Group": "BASICMAP_SERVER",
-        "pos": [
-            2943.952880859375,
-            220.7844696044922,
-            12637.5263671875
-        ]
+        "Group": "BASICMAP_SERVER"
     },
     {
-        "Name": "Cement Mixer",
-        "Icon": "BasicMap\\gui\\images\\tools.paa",
+        "Name": "Tool Trader",
+        "Pos": [
+            11620.1,
+            0,
+            14659.2
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
         "Is3DMarker": 0,
         "Colour": [
             212,
@@ -84,16 +112,16 @@
         "MinRenderDistance": -1.0,
         "MapToShowOn": "chernarusplus",
         "CanEdit": 0,
-        "Group": "BASICMAP_SERVER",
-        "pos": [
-            5216.392578125,
-            340.9700927734375,
-            9886.8974609375
-        ]
+        "Group": "BASICMAP_SERVER"
     },
     {
-        "Name": "Cement Mixer",
-        "Icon": "BasicMap\\gui\\images\\tools.paa",
+        "Name": "Garage",
+        "Pos": [
+            11631.9,
+            0,
+            14658.4
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
         "Is3DMarker": 0,
         "Colour": [
             212,
@@ -107,126 +135,6 @@
         "MinRenderDistance": -1.0,
         "MapToShowOn": "chernarusplus",
         "CanEdit": 0,
-        "Group": "BASICMAP_SERVER",
-        "pos": [
-            8005.10009765625,
-            129.20440673828126,
-            12594.5
-        ]
-    },
-    {
-        "Name": "Cement Mixer",
-        "Icon": "BasicMap\\gui\\images\\tools.paa",
-        "Is3DMarker": 0,
-        "Colour": [
-            212,
-            138,
-            251
-        ],
-        "Alpha": 240,
-        "HideOnPanel": 0,
-        "HideOnMap": 0,
-        "MaxRenderDistance": -1.0,
-        "MinRenderDistance": -1.0,
-        "MapToShowOn": "chernarusplus",
-        "CanEdit": 0,
-        "Group": "BASICMAP_SERVER",
-        "pos": [
-            11916.3330078125,
-            28.763134002685548,
-            14286.380859375
-        ]
-    },
-    {
-        "Name": "Cement Mixer",
-        "Icon": "BasicMap\\gui\\images\\tools.paa",
-        "Is3DMarker": 0,
-        "Colour": [
-            212,
-            138,
-            251
-        ],
-        "Alpha": 240,
-        "HideOnPanel": 0,
-        "HideOnMap": 0,
-        "MaxRenderDistance": -1.0,
-        "MinRenderDistance": -1.0,
-        "MapToShowOn": "chernarusplus",
-        "CanEdit": 0,
-        "Group": "BASICMAP_SERVER",
-        "pos": [
-            13320.810546875,
-            9.184663772583008,
-            6120.3203125
-        ]
-    },
-    {
-        "Name": "Cement Mixer",
-        "Icon": "BasicMap\\gui\\images\\tools.paa",
-        "Is3DMarker": 0,
-        "Colour": [
-            212,
-            138,
-            251
-        ],
-        "Alpha": 240,
-        "HideOnPanel": 0,
-        "HideOnMap": 0,
-        "MaxRenderDistance": -1.0,
-        "MinRenderDistance": -1.0,
-        "MapToShowOn": "chernarusplus",
-        "CanEdit": 0,
-        "Group": "BASICMAP_SERVER",
-        "pos": [
-            2259.96728515625,
-            185.38668823242188,
-            5228.34326171875
-        ]
-    },
-    {
-        "Name": "Cement Mixer",
-        "Icon": "BasicMap\\gui\\images\\tools.paa",
-        "Is3DMarker": 0,
-        "Colour": [
-            212,
-            138,
-            251
-        ],
-        "Alpha": 240,
-        "HideOnPanel": 0,
-        "HideOnMap": 0,
-        "MaxRenderDistance": -1.0,
-        "MinRenderDistance": -1.0,
-        "MapToShowOn": "chernarusplus",
-        "CanEdit": 0,
-        "Group": "BASICMAP_SERVER",
-        "pos": [
-            8025.97412109375,
-            14.320038795471192,
-            3112.5556640625
-        ]
-    },
-    {
-        "Name": "Cement Mixer",
-        "Icon": "BasicMap\\gui\\images\\tools.paa",
-        "Is3DMarker": 0,
-        "Colour": [
-            212,
-            138,
-            251
-        ],
-        "Alpha": 240,
-        "HideOnPanel": 0,
-        "HideOnMap": 0,
-        "MaxRenderDistance": -1.0,
-        "MinRenderDistance": -1.0,
-        "MapToShowOn": "chernarusplus",
-        "CanEdit": 0,
-        "Group": "BASICMAP_SERVER",
-        "pos": [
-            10054.9150390625,
-            5.99834680557251,
-            1824.8145751953126
-        ]
+        "Group": "BASICMAP_SERVER"
     }
 ]

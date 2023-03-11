@@ -1,0 +1,13 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\admin\1\instance\crash_2023-03-02_05-10-39.log started at 02.03. 05:10:42
+
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 05:10:42
+Can't compile "World" script module!
+
+GarbageSearch/Scripts/4_World/actionsearchgarbage.c(87): Can't find variable 'z_ObjectsArray_GS'
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @GarbageSearch;@TraderPlus;@Location Text;@Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  

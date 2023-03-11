@@ -1,0 +1,244 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\admin\1\instance\script_2023-03-02_05-05-57.log started at 02.03. 05:05:57
+
+SCRIPT       : Registered 354 temporary action enum(s), UAN==354
+SCRIPT    (W): @"Notifications/scripts/3_Game/client\notifications\notificationui.c,13": FIX-ME: Overriding function 'AddNotification' but not marked as 'override'
+SCRIPT    (W): @"Notifications/scripts/3_Game/client\notifications\notificationui.c,46": FIX-ME: Overriding function 'UpdateTargetHeight' but not marked as 'override'
+SCRIPT    (W): @"Notifications/scripts/3_Game/client\notifications\notificationui.c,81": FIX-ME: Overriding function 'RemoveNotification' but not marked as 'override'
+SCRIPT    (W): @"BasicMap/scripts/3_Game/gui\basicmapmenu.c,556": FIX-ME: Overriding function 'LockControls' but not marked as 'override'
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT       : Default Mission: $saves:VPPDebugMissions/Debug.chernarusplus exists!
+SCRIPT       : Default Mission: $saves:VPPDebugMissions/Debug.enoch exists!
+SCRIPT    (W): @"BaseBuildingItemStackandRepair/scripts/4_World/classes\recipes\repair_basebuildingtoolstape.c,44": Missing ';' at the end of line
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/items\bbp_base.c,321": FIX-ME: Overriding function 'IsRaidable' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/items\bbp_base.c,326": FIX-ME: Overriding function 'IsFancyBBPItem' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/items\bbp_base.c,399": FIX-ME: Overriding function 'CreateConstructionKit' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/items\bbp_base.c,404": FIX-ME: Overriding function 'GetKitSpawnPosition' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/items\bbp_base.c,416": FIX-ME: Overriding function 'GetConstructionKitType' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/items\bbp_base.c,827": FIX-ME: Overriding function 'OnSetSlotLock' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_floor\bbp_bfloor\bbp_bfloor.c,14": FIX-ME: Overriding function 'isFloor' but not marked as 'override'
+SCRIPT    (W): @"ZenCatchRain/scripts/4_world/entities\manbase\playerbase.c,3": FIX-ME: Overriding function 'SetActions' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_stair\mstair\bbp_bstair.c,24": FIX-ME: Overriding function 'isDismantle' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\bbpa_base.c,49": FIX-ME: Overriding function 'IsFancyBBPAItem' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\bbpa_base.c,103": FIX-ME: Overriding function 'FoldBaseBuildingObject' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\bbpa_base.c,111": FIX-ME: Overriding function 'CreateConstructionKit' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\bbpa_base.c,122": FIX-ME: Overriding function 'GetKitSpawnPosition' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\bbpa_base.c,127": FIX-ME: Overriding function 'GetConstructionKitType' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\bbpa_base.c,428": FIX-ME: Overriding function 'OnSetSlotLock' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\well\bbp_well.c,13": FIX-ME: Overriding function 'IsWell' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\well\bbp_well.c,236": FIX-ME: Overriding function 'OnPartDestroyedServer' but not marked as 'override'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\webhookmessagebase.c,53": Possible variable name conflict 'title'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\webhookmessagebase.c,53": Possible variable name conflict 'color'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\admintool\hammer.c,16": FIX-ME: Overriding function 'isBBPAAdminTool' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_barb_fence\bbp_barb.c,28": FIX-ME: Overriding function 'CreateAreaDamage' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_barb_fence\bbp_barb.c,78": FIX-ME: Overriding function 'UpdateBarbedWireAreaDamagePos' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_pillar\bpillar\bbp_bpillar.c,9": FIX-ME: Overriding function 'isDismantle' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_floor\bbp_sfloor\bbp_sfloor.c,14": FIX-ME: Overriding function 'isFloor' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/overrides\construction.c,189": FIX-ME: Overriding function 'SpawnConstructionMaterialPiles' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_mesh_fence\bbp_barb.c,28": FIX-ME: Overriding function 'CreateAreaDamage' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_mesh_fence\bbp_barb.c,78": FIX-ME: Overriding function 'UpdateBarbedWireAreaDamagePos' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\land_claim_flags\bbp_admin_land_claim_flag.c,28": FIX-ME: Overriding function 'BBP_Destroy' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_floor_hatch\bbp_floor_hatch.c,49": FIX-ME: Overriding function 'isFloor' but not marked as 'override'
+SCRIPT    (W): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\tradermenu.c,455": FIX-ME: Overriding function 'OnMouseButtonDown' but not marked as 'override'
+SCRIPT    (W): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\tradermenu.c,1031": FIX-ME: Overriding function 'OnDoubleClick' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_half_wall\bbp_half_swall\bbp_swall.c,14": FIX-ME: Overriding function 'isSmall' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\xmas_lights\bbp_xmaslights_solar.c,20": FIX-ME: Overriding function 'TurnOnItem' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\bed\bbp_bed.c,76": FIX-ME: Overriding function 'OpenFence' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\bed\bbp_bed.c,98": FIX-ME: Overriding function 'CloseFence' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\bed\bbp_bed.c,123": FIX-ME: Overriding function 'CheckFenceClosed' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_stair\bstair\bbp_bstair.c,15": FIX-ME: Overriding function 'isDismantle' but not marked as 'override'
+SCRIPT    (W): @"TraderPlusBanking/scripts/4_World/classes\tpbsystemhandler\core\traderplusbankingmenu.c,344": FIX-ME: Overriding function 'OnChange' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/overrides\construction.c,72": FIX-ME: Overriding function 'DropNonUsableMaterialsServer' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/overrides\construction.c,24": FIX-ME: Overriding function 'AdminBuildPartServer' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/overrides\hologram.c,81": FIX-ME: Overriding function 'EvaluateCollision' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_floor\bbp_floor_mesh\bbp_mesh.c,14": FIX-ME: Overriding function 'isFloor' but not marked as 'override'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\messagetypes\joinleavemessage.c,7": Possible variable name conflict 'guid'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\messagetypes\joinleavemessage.c,7": Possible variable name conflict 'details'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\bbpa_kit_base.c,86": FIX-ME: Overriding function 'NeededHologramBBPA' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_slope_roof\bbp_slope_roof.c,14": FIX-ME: Overriding function 'isflat' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\bed\bbp_bedkit.c,7": FIX-ME: Overriding function 'NeededHologramBBPA' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_ramp\bramp\bbp_bramp.c,24": FIX-ME: Overriding function 'isDismantle' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\gang_plug\bbp_gang_plug.c,3": FIX-ME: Overriding function 'EEInit' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\gang_plug\bbp_gang_plug.c,89": FIX-ME: Overriding function 'OnOwnSocketTaken' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\gang_plug\bbp_gang_plug.c,122": FIX-ME: Overriding function 'OnOwnSocketReleased' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_stair\sstair\bbp_sstair.c,24": FIX-ME: Overriding function 'isDismantle' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\sofa\bbp_sofakit.c,7": FIX-ME: Overriding function 'NeededHologramBBPA' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_mesh_gate\bbp_mesh_gate.c,63": FIX-ME: Overriding function 'CreateAreaDamage' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_mesh_gate\bbp_mesh_gate.c,113": FIX-ME: Overriding function 'UpdateBarbedWireAreaDamagePos' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\sofa\bbp_sofa.c,76": FIX-ME: Overriding function 'OpenFence' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\sofa\bbp_sofa.c,98": FIX-ME: Overriding function 'CloseFence' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\sofa\bbp_sofa.c,123": FIX-ME: Overriding function 'CheckFenceClosed' but not marked as 'override'
+SCRIPT    (W): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderpluscategorymenu.c,15": Possible variable name conflict 'layoutRoot'
+SCRIPT    (W): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderpluscategorymenu.c,25": Possible variable name conflict 'layoutRoot'
+SCRIPT    (W): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderpluscategorymenu.c,211": FIX-ME: Overriding function 'OnDoubleClick' but not marked as 'override'
+SCRIPT    (W): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderpluscategorymenu.c,243": FIX-ME: Overriding function 'OnClick' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/bbp_building\bbp_pillar\spillar\bbp_spillar.c,9": FIX-ME: Overriding function 'isDismantle' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\xmas_lights\bbp_xmaslights_9v.c,28": FIX-ME: Overriding function 'TurnOnItem' but not marked as 'override'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/4_World/items\admintool\admin.c,16": FIX-ME: Overriding function 'isBBPAdminTool' but not marked as 'override'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\land_claim_flags\bbp_land_claim_pole.c,19": FIX-ME: Overriding function 'BBP_Destroy' but not marked as 'override'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,725": Unknown type 'ItemsCargo'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,725": Wrong number of template parameters
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,725": Unknown type 'ItemsCargo'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,725": Wrong number of template parameters
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,725": Error in parameters
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,734": Unknown type 'GarageItemData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,734": Unknown type 'GarageItemData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,734": Error in parameters
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,735": Can't find variable 'GarageHelpers'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,736": Can't find variable 'cargo'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,740": Undefined function 'TraderPlusHelper.GetGarageConfig'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,745": Unknown type 'GarageData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,745": Unknown type 'GarageData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,745": Error in parameters
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,746": Can't find variable 'garageData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,748": Undefined function 'TraderPlusHelper.GetGarageConfig'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,749": Undefined function 'TraderPlusHelper.GetGarageConfig'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,749": Undefined function 'TraderPlusHelper.GetGarageConfig'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,752": Can't find variable 'garageData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,753": Can't find variable 'garageData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,757": Can't find variable 'garageData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,757": Syntax error
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,773": Can't find variable 'GarageHelpers'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,774": Unknown type 'GarageData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,774": Unknown type 'GarageData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,774": Error in parameters
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,775": Can't find variable 'garageData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,777": Can't find variable 'garageData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,779": Can't find variable 'garageData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,781": Can't find variable 'garageData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,782": Can't find variable 'garageData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,789": Can't find variable 'garageData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,791": Can't find variable 'garageData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,793": Can't find variable 'garageData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,794": Can't find variable 'garageData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,804": Can't find variable 'garageData'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c,804": Syntax error
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\action\actiontradeplus.c,88": Can't find variable 'GarageHelpers'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\action\actiontradeplus.c,89": Bad type 'Param3'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\action\actiontradeplus.c,89": Can't find class Param3
+SCRIPT    (E): @"TraderPlus/scripts/4_World/entities\receipt\newreceipt.c,25": Bad type 'Param2'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/entities\receipt\newreceipt.c,25": Can't find class Param2
+SCRIPT    (E): @"TraderPlus/scripts/4_World/entities\receipt\newreceipt.c,160": Bad type 'Param5'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/entities\holograms.c,11": Bad type 'Param1'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/entities\holograms.c,11": Can't find class Param1
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderplusserver.c,454": Bad type 'Param3'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderplusserver.c,454": Can't find class Param3
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderplusserver.c,533": Bad type 'Param1'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderplusserver.c,533": Can't find class Param1
+SCRIPT    (W): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderplusserver.c,615": Unsafe down-casting, use 'NewReceipt.Cast' for safe down-casting
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderclient.c,49": Bad type 'TraderPlusCopyMap'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderclient.c,243": Undefined function 'TraderPlusClient.GetGarageCore'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderclient.c,246": Undefined function 'TraderPlusClient.GetGarageCore'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderclient.c,246": Undefined function 'TraderPlusClient.GetGarageCore'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderclient.c,487": Bad type 'TraderPlusCopyMap'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderclient.c,541": Bad type 'Param3'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderclient.c,579": Bad type 'Param1'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderpluscore.c,85": Bad type 'Param1'
+SCRIPT    (E): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderpluscore.c,85": Can't find class Param1
+SCRIPT    (E): @"TraderPlusBanking/scripts/4_World/classes\tpbsystemhandler\core\traderplusbankingmenu.c,295": Bad type 'Param2'
+SCRIPT    (E): @"TraderPlusBanking/scripts/4_World/classes\tpbsystemhandler\core\traderplusbankingmenu.c,295": Can't find class Param2
+SCRIPT    (E): @"TraderPlusBanking/scripts/4_World/classes\tpbsystemhandler\config\traderplusbankingdata.c,34": Bad type 'Param1'
+SCRIPT    (E): @"TraderPlusBanking/scripts/4_World/classes\tpbsystemhandler\config\traderplusbankingdata.c,34": Can't find class Param1
+SCRIPT    (E): @"TraderPlusBanking/scripts/4_World/classes\tpbsystemhandler\config\traderplusbankingdata.c,50": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"TraderPlusBanking/scripts/4_World/classes\tpbsystemhandler\core\traderplusbankingcore.c,61": Bad type 'Param1'
+SCRIPT    (E): @"TraderPlusBanking/scripts/4_World/classes\tpbsystemhandler\core\traderplusbankingcore.c,61": Can't find class Param1
+SCRIPT    (E): @"TraderPlusBanking/scripts/4_World/classes\tpbsystemhandler\core\traderplusbankingcore.c,106": Can't find variable 'm_GarageMenu'
+SCRIPT    (E): @"TraderPlusBanking/scripts/4_World/classes\tpbsystemhandler\core\traderplusbankingcore.c,107": Can't find variable 'm_GarageMenu'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\servermanager\classes\bansmanager.c,64": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\servermanager\classes\bansmanager.c,87": Bad type 'Param1'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\servermanager\classes\bansmanager.c,87": Can't find class Param1
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\servermanager\classes\bansmanager.c,110": Bad type 'Param1'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\servermanager\classes\bansmanager.c,120": Bad type 'Param2'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\servermanager\classes\bansmanager.c,145": Bad type 'Param2'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\itemmanager\itemmanager.c,263": Bad type 'Param1'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\itemmanager\itemmanager.c,263": Can't find class Param1
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\itemmanager\itemmanager.c,270": Bad type 'Param1'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\itemmanager\itemmanager.c,295": Bad type 'Param1'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\teleportmanager\teleportmanager.c,34": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\teleportmanager\teleportmanager.c,305": Bad type 'array'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\teleportmanager\teleportmanager.c,313": Bad type 'Param1'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\teleportmanager\teleportmanager.c,313": Can't find class Param1
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\teleportmanager\teleportmanager.c,328": Bad type 'Param1'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\teleportmanager\teleportmanager.c,328": Can't find class Param1
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\teleportmanager\teleportmanager.c,336": Bad type 'Param3'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\teleportmanager\teleportmanager.c,450": Bad type 'Param4'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\logmanager\logmanager.c,48": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\webhooksmanager.c,41": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\webhooksmanager.c,89": Bad type 'Param1'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\webhooksmanager.c,89": Can't find class Param1
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\webhooksmanager.c,124": Bad type 'Param1'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\webhooksmanager.c,148": Bad type 'Param3'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\buildingsetmanager\buildingsetmanager.c,127": Bad type 'Param1'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\buildingsetmanager\buildingsetmanager.c,127": Can't find class Param1
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\buildingsetmanager\buildingsetmanager.c,153": Bad type 'Param3'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\buildingsetmanager\buildingsetmanager.c,202": Bad type 'Param2'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\xmleditor\xmleditor.c,31": Bad type 'array'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\xmleditor\xmleditor.c,43": Bad type 'Param2'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\xmleditor\xmleditor.c,43": Can't find class Param2
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\xmleditor\xmleditor.c,50": Bad type 'Param3'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\xmleditor\xmleditor.c,126": Bad type 'Param1'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\xmleditor\xmleditor.c,185": Bad type 'Param1'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\xmleditor\xmleditor.c,185": Can't find class Param1
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\servermanager\servermanager.c,254": Bad type 'Param2'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\servermanager\servermanager.c,254": Can't find class Param2
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\chatcommandmanager\classes\chatmodules\argumentcommands\misc\namalskevents.c,23": Bad type 'Param2'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\chatcommandmanager\classes\chatmodules\argumentcommands\misc\namalskevents.c,23": Can't find class Param2
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\admintools\admintools.c,60": No need to use 'Cast' for up-casting
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\weathermanager\timemanager.c,31": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\weathermanager\timemanager.c,56": Bad type 'Param1'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\weathermanager\timemanager.c,56": Can't find class Param1
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\weathermanager\timemanager.c,66": Bad type 'Param5'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\weathermanager\weathermanager.c,31": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\weathermanager\weathermanager.c,64": Bad type 'Param5'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\weathermanager\weathermanager.c,168": Bad type 'Param4'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\playermanager\playermanager.c,47": Bad type 'Param2'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\playermanager\playermanager.c,75": Bad type 'Param2'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\playermanager\playermanager.c,163": Bad type 'Param2'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\playermanager\playermanager.c,272": Bad type 'Param3'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\playermanager\playermanager.c,507": Bad type 'Param3'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\playermanager\playermanager.c,580": Bad type 'Param1'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\playermanager\playermanager.c,580": Can't find class Param1
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\playermanager\playermanager.c,590": Bad type 'Param1'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\steamapimanager\steamapimanager.c,30": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\steamapimanager\steamapimanager.c,108": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\permissionmanager\permissionmanager.c,98": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\permissionmanager\permissionmanager.c,153": Bad type 'Param1'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\permissionmanager\permissionmanager.c,153": Can't find class Param1
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\permissionmanager\permissionmanager.c,174": Bad type 'Param1'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\permissionmanager\permissionmanager.c,174": Can't find class Param1
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\permissionmanager\permissionmanager.c,320": Bad type 'Param2'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\esptools\vppesptools.c,16": Bad type 'Param1'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\esptools\vppesptools.c,88": Bad type 'Param2'
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\esptools\vppesptools.c,88": Can't find class Param2
+SCRIPT    (E): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\permissionmanager\permissionloader.c,22": Bad type 'JsonFileLoader'
+SCRIPT    (E): @"ZenGunMoveSounds/scripts/4_world/entities\manbase\playerbase\playerbase.c,122": Bad type 'Param2'
+SCRIPT    (E): @"ZenGunMoveSounds/scripts/4_world/entities\manbase\playerbase\playerbase.c,122": Can't find class Param2
+SCRIPT    (W): @"ZenImmersiveLogin/scripts/4_world/entities\manbase\playerbase.c,118": Unsafe down-casting, use 'PPERequester_ZenSpawnEffects.Cast' for safe down-casting
+SCRIPT    (W): @"ZenImmersiveLogin/scripts/4_world/entities\manbase\playerbase.c,147": Unsafe down-casting, use 'PPERequester_ZenSpawnEffects.Cast' for safe down-casting
+SCRIPT    (E): @"BasicSpawnSelect/scripts/4_World/plugins\pluginbase\pluginspawnselectclient.c,64": Bad type 'Param2'
+SCRIPT    (E): @"BasicSpawnSelect/scripts/4_World/spawnselectmenu.c,184": Bad type 'Param2'
+SCRIPT    (E): @"BasicSpawnSelect/scripts/4_World/spawnselectmenu.c,184": Can't find class Param2
+SCRIPT    (E): @"BasicSpawnSelect/scripts/4_World/spawnselectmenu.c,324": Bad type 'Param1'
+SCRIPT    (E): @"BasicSpawnSelect/scripts/4_World/spawnselectmenu.c,324": Can't find class Param1
+SCRIPT    (E): @"BasicSpawnSelect/scripts/4_World/spawnselectmenu.c,343": Bad type 'Param1'
+SCRIPT    (E): @"BasicSpawnSelect/scripts/4_World/spawnselectmenu.c,343": Can't find class Param1
+SCRIPT    (E): @"BasicTerritories/scripts/4_World/territoryflag.c,161": Bad type 'Param2'
+SCRIPT    (E): @"BasicTerritories/scripts/4_World/territoryflag.c,161": Can't find class Param2
+SCRIPT    (E): @"CarLock/scripts/4_World/classes\carlocksystemhandler\core\carlockserver.c,15": Bad type 'Param2'
+SCRIPT    (E): @"CarLock/scripts/4_World/classes\carlocksystemhandler\core\carlockserver.c,43": Bad type 'Param2'
+SCRIPT    (E): @"ZenNotes/scripts/4_world/classes\useractionscomponent\actions\continuous\actionzenreadnotehands.c,42": Bad type 'Param1'
+SCRIPT    (E): @"ZenNotes/scripts/4_world/classes\useractionscomponent\actions\continuous\actionzenreadnotehands.c,42": Can't find class Param1
+SCRIPT    (E): @"ZenNotes/scripts/4_world/classes\useractionscomponent\actions\continuous\actionzenreadnotehands.c,42": Unknown type 'auto'
+SCRIPT    (E): @"ZenNotes/scripts/4_world/classes\useractionscomponent\actions\continuous\actionzenreadnotehands.c,42": Error in parameters
+SCRIPT    (E): @"ZenNotes/scripts/4_world/classes\useractionscomponent\actions\continuous\actionzenreadnotehands.c,43": Can't find variable 'data'
+SCRIPT    (E): @"BaseBuildingPlus/scripts/4_World/basebuildingplusui\entites\itembase\craftingbookbase.c,46": Bad type 'Param1'
+SCRIPT    (E): @"BaseBuildingPlus/scripts/4_World/basebuildingplusui\entites\itembase\craftingbookbase.c,46": Can't find class Param1
+SCRIPT    (E): @"BaseBuildingPlus/scripts/4_World/overrides\playerbase.c,38": Bad type 'Param1'
+SCRIPT    (E): @"BBPItemPack/Scripts/4_World/overrides\playerbase.c,38": Bad type 'Param1'
+SCRIPT    (W): @"BBPItemPack/Scripts/4_World/items\solar\bbp_solarplus.c,146": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (E): Can't compile "World" script module!
+
+TraderPlus/scripts/4_World/classes\tradersystemhandler\helpers\traderplushelpers.c(725): Unknown type 'ItemsCargo'

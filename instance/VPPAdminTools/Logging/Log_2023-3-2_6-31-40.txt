@@ -1,0 +1,885 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-3-2_6-31-40
+====================================================================================
+6:31:40 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+6:31:40 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+6:31:40 | [PermissionManager] Perm (FreeCamera) has been registered!
+6:31:40 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuItemManager) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuServerManager) has been registered!
+6:31:40 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+6:31:40 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+6:31:40 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+6:31:40 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+6:31:40 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+6:31:40 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+6:31:40 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+6:31:40 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+6:31:40 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+6:31:40 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+6:31:40 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+6:31:40 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+6:31:40 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+6:31:40 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+6:31:40 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+6:31:40 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+6:31:40 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+6:31:40 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+6:31:40 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+6:31:40 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+6:31:40 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+6:31:40 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+6:31:40 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+6:31:40 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+6:31:40 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+6:31:40 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+6:31:40 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+6:31:40 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+6:31:40 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+6:31:40 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+6:31:40 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+6:31:40 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+6:31:40 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuBansManager) has been registered!
+6:31:40 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+6:31:40 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+6:31:40 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+6:31:40 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+6:31:40 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+6:31:40 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+6:31:40 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+6:31:40 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+6:31:40 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+6:31:40 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+6:31:40 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+6:31:40 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+6:31:40 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+6:31:40 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+6:31:40 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+6:31:40 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+6:31:40 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+6:31:40 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+6:31:40 | [PermissionManager] Adding Super Admin (76561198079984427)
+6:31:40 | [PermissionManager] Loaded UserGroups.json
+6:31:40 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+6:31:40 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+6:31:40 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+6:31:40 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+6:31:40 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+6:31:40 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+6:31:40 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+6:31:40 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+6:31:40 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+6:31:40 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+6:31:40 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+6:31:40 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+6:31:40 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+6:31:40 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+6:31:40 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+6:31:40 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+6:31:40 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+6:31:40 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+6:31:40 | Building Sets Loaded: 0
+6:31:40 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+14:46:38 | Player "RagnarokHaze" (steamId=76561198120496196) connected to server!
+15:35:2 | Player "RagnarokHaze" (steamId=76561198120496196) initiated disconnect process...
+15:35:4 | Player "RagnarokHaze" (steamId=76561198120496196) disconnected from server.
+20:9:49 | Player "Cappy" (steamId=76561198079984427) connected to server!
+20:10:27 | Player "RagnarokHaze" (steamId=76561198120496196) connected to server!
+20:14:15 | Player "Cappy" (steamId=76561198079984427) initiated disconnect process...
+20:14:16 | Player "Cappy" (steamId=76561198079984427) disconnected early from server (EXIT NOW).
+20:14:31 | Player "Cappy" (steamId=76561198079984427) connected to server!
+20:25:5 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:25:14 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:25:15 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:25:16 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:25:20 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:25:20 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:25:20 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:25:22 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:25:23 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:25:25 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:25:26 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:26:13 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6498.781250, 289.155365, 7365.174316>
+20:26:16 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6498.781250, 289.155365, 7365.174316>
+20:26:57 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6492.873535, 289.155151, 7366.222656>
+20:27:0 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6492.873535, 289.155151, 7366.222656>
+20:27:11 | "Cappy" (steamid=76561198079984427) deleted object "BBP_Bfoundation" (pos=<6492.873535, 289.155151, 7366.222656>)
+20:27:15 | "Cappy" (steamid=76561198079984427) deleted object "BBP_Bfoundation" (pos=<6498.781250, 289.155365, 7365.174316>)
+20:27:50 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.904785, 291.375427, 7371.741699>
+20:29:4 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.904785, 291.373718, 7419.741699>
+20:29:6 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.904785, 291.373932, 7413.741699>
+20:29:9 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.904785, 291.374146, 7407.741699>
+20:29:11 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.904785, 291.374359, 7401.741699>
+20:29:15 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.904785, 291.374573, 7395.741699>
+20:29:25 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6461.904785, 291.375214, 7377.741699>
+20:29:33 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6461.904785, 291.375000, 7383.741699>
+20:29:39 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6461.904785, 291.374786, 7389.741699>
+20:29:46 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.904785, 291.373718, 7419.741699>
+20:29:50 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.904785, 291.373932, 7413.741699>
+20:29:52 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.904785, 291.374146, 7407.741699>
+20:29:54 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.904785, 291.374359, 7401.741699>
+20:29:57 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.904785, 291.374573, 7395.741699>
+20:29:59 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.904785, 291.374786, 7389.741699>
+20:30:4 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.904785, 291.375000, 7383.741699>
+20:30:6 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.904785, 291.375214, 7377.741699>
+20:30:8 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.904785, 291.375427, 7371.741699>
+20:33:22 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Stair_Kit)
+20:33:37 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6467.904785, 291.375000, 7377.742188>
+20:34:11 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:34:12 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:34:12 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:34:12 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:34:12 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:34:12 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:34:12 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:34:25 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6455.904785, 291.375000, 7377.742188>
+20:34:29 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6455.904785, 291.375000, 7377.742188>
+20:34:48 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6455.904785, 291.374786, 7371.742188>
+20:34:50 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6455.904785, 291.374786, 7371.742188>
+20:35:11 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6455.904785, 291.374359, 7395.742188>
+20:35:14 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6455.904785, 291.374573, 7389.742188>
+20:35:16 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6455.904785, 291.374786, 7383.742188>
+20:35:17 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6455.904785, 291.374786, 7383.742188>
+20:35:19 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6455.904785, 291.374573, 7389.742188>
+20:35:20 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6455.904785, 291.374359, 7395.742188>
+20:35:35 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6455.904785, 291.374146, 7401.742188>
+20:35:37 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6455.904785, 291.374146, 7401.742188>
+20:35:58 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Pillar_Kit)
+20:35:58 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Pillar_Kit)
+20:36:2 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Roof_Kit)
+20:36:2 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Roof_Kit)
+20:36:2 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Roof_Kit)
+20:36:6 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Roof_Kit)
+20:36:7 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Roof_Kit)
+20:36:13 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Step_Ladder_Kit)
+20:36:32 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Land_Claim_FlagKit)
+20:36:45 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_BedKit)
+20:36:45 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_BedKit)
+20:36:46 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_BedKit)
+20:36:53 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_WellKit)
+20:36:55 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_SofaKit)
+20:36:57 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_SofaKit)
+20:36:59 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Toilet)
+20:37:21 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Window_Kit)
+20:37:21 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Window_Kit)
+20:37:22 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Window_Kit)
+20:37:37 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Door_Kit)
+20:37:38 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Door_Kit)
+20:37:39 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Door_Kit)
+20:37:40 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Door_Kit)
+20:37:42 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:43 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:43 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:43 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:43 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:43 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:43 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:44 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:44 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:44 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:44 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:44 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:44 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:44 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:45 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:45 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:45 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:45 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:45 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:45 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:46 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:46 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:46 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:46 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:46 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:46 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:47 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:47 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:47 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:47 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:47 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:47 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:48 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:48 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:37:48 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:38:47 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6455.904785, 291.373932, 7407.742188>
+20:39:8 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6455.904785, 291.593201, 7380.631348>
+20:39:17 | Admin "Cappy" (steamId=76561198079984427) built part well_dirt_01 at position: <6476.357422, 288.850220, 7382.844727>
+20:39:19 | Admin "Cappy" (steamId=76561198079984427) built part well_dirt_02 at position: <6476.357422, 288.850220, 7382.844727>
+20:39:20 | Admin "Cappy" (steamId=76561198079984427) built part well_dirt_03 at position: <6476.357422, 288.850220, 7382.844727>
+20:39:21 | Admin "Cappy" (steamId=76561198079984427) built part well_dirt_04 at position: <6476.357422, 288.850220, 7382.844727>
+20:39:22 | Admin "Cappy" (steamId=76561198079984427) built part well_dirt_05 at position: <6476.357422, 288.850220, 7382.844727>
+20:39:23 | Admin "Cappy" (steamId=76561198079984427) built part well_dirt_06 at position: <6476.357422, 288.850220, 7382.844727>
+20:39:24 | Admin "Cappy" (steamId=76561198079984427) built part well_base at position: <6476.357422, 288.850220, 7382.844727>
+20:39:26 | Admin "Cappy" (steamId=76561198079984427) built part well_frame at position: <6476.357422, 288.850220, 7382.844727>
+20:41:30 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Door_Kit)
+20:42:42 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6458.904785, 291.375000, 7386.764160>
+20:43:0 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Window_Kit)
+20:43:46 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6461.904785, 291.593414, 7380.630859>
+20:43:52 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Stair_Kit)
+20:43:56 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6464.794922, 291.593414, 7377.741699>
+20:43:59 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6464.794922, 291.593628, 7371.741699>
+20:44:2 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6461.904785, 291.593658, 7368.851563>
+20:44:5 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6455.904785, 291.593018, 7368.852051>
+20:44:8 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6453.014648, 291.592987, 7371.742188>
+20:44:8 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6455.904785, 294.593201, 7383.521484>
+20:44:10 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6453.014648, 291.593201, 7377.742188>
+20:44:16 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6455.904785, 291.592590, 7392.852051>
+20:44:19 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.904785, 291.592804, 7392.851563>
+20:44:20 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6464.794922, 291.593201, 7383.741699>
+20:44:23 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6464.794922, 291.592987, 7389.741699>
+20:45:41 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:46:48 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:46:49 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:46:49 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:46:51 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:47:18 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6449.904785, 291.374786, 7377.742676>
+20:47:20 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6449.904785, 291.374786, 7377.742676>
+20:47:26 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6449.904785, 291.374146, 7395.742676>
+20:47:28 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6449.904785, 291.374146, 7395.742676>
+20:48:4 | "Cappy" (steamid=76561198079984427) deleted object "BBP_Bwall" (pos=<6461.904785, 291.592804, 7392.851563>)
+20:48:9 | "Cappy" (steamid=76561198079984427) deleted object "BBP_BDoor" (pos=<6455.904785, 291.592590, 7392.852051>)
+20:48:13 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6449.904785, 291.373932, 7401.742676>
+20:48:15 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6449.904785, 291.373932, 7401.742676>
+20:48:26 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:48:26 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:48:26 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:48:27 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:48:27 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:48:27 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:48:27 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:48:29 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Door_Kit)
+20:48:44 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6449.904785, 291.374573, 7371.742676>
+20:48:45 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6449.904785, 291.374573, 7371.742676>
+20:49:17 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6449.904785, 291.592133, 7404.631836>
+20:49:19 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6447.014648, 291.592133, 7401.742676>
+20:49:21 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6447.014648, 291.592346, 7395.742676>
+20:49:23 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6449.904785, 291.592377, 7392.852539>
+20:49:24 | "RagnarokHaze" (steamid=76561198120496196) deleted object "BushHard_b_prunusSpinosa_2s" (pos=<6446.173828, 293.408691, 7367.191406>)
+20:49:26 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6455.904785, 291.592590, 7392.852051>
+20:49:31 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6458.794922, 291.592560, 7395.742188>
+20:49:32 | "RagnarokHaze" (steamid=76561198120496196) deleted object "BBP_Bwall" (pos=<6453.014648, 291.592987, 7371.742188>)
+20:49:34 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6458.794922, 291.592346, 7401.742188>
+20:49:47 | "RagnarokHaze" (steamid=76561198120496196) deleted object "BBP_BWindow" (pos=<6453.014648, 291.593201, 7377.742188>)
+20:49:49 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6455.904785, 291.592346, 7404.631348>
+20:50:24 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+20:50:32 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6449.904785, 291.374573, 7383.742676>
+20:50:33 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6449.904785, 291.374359, 7389.742676>
+20:50:35 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6449.904785, 291.374359, 7389.742676>
+20:50:37 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6449.904785, 291.374573, 7383.742676>
+20:50:48 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6452.904785, 291.374573, 7386.764648>
+20:51:13 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6447.014648, 291.592560, 7389.742676>
+20:51:19 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+20:51:26 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6447.014648, 291.592773, 7383.742676>
+20:51:30 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6449.904785, 291.592987, 7380.631836>
+20:51:55 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Door_Kit)
+20:52:2 | "RagnarokHaze" (steamid=76561198120496196) deleted object "BBP_BDoor" (pos=<6461.904785, 291.593414, 7380.630859>)
+20:52:4 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Window_Kit)
+20:52:5 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Window_Kit)
+20:52:5 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Window_Kit)
+20:52:43 | "RagnarokHaze" (steamid=76561198120496196) deleted object "BBP_Bwall" (pos=<6455.904785, 291.593018, 7368.852051>)
+20:52:51 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6452.794922, 291.592773, 7383.742676>
+20:52:57 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6455.904785, 291.593018, 7368.852051>
+20:52:59 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6449.904785, 291.592804, 7368.852539>
+20:53:0 | Admin "Cappy" (steamId=76561198079984427) built part t3_door at position: <6452.794922, 291.592773, 7383.742676>
+20:53:1 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6447.014648, 291.592773, 7371.742676>
+20:53:4 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6447.014648, 291.592987, 7377.742676>
+20:53:11 | Admin "Cappy" (steamId=76561198079984427) built part t3_wall_concrete_bricks_2 at position: <6452.794922, 291.592773, 7383.742676>
+20:53:11 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6458.794922, 291.593201, 7377.742188>
+20:53:15 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6458.794922, 291.592987, 7371.742188>
+20:53:18 | Admin "Cappy" (steamId=76561198079984427) built part window_bars at position: <6452.794922, 291.592773, 7383.742676>
+20:53:46 | "Cappy" (steamid=76561198079984427) deleted object "BBP_BWindow" (pos=<6452.794922, 291.592773, 7383.742676>)
+20:54:17 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6464.794922, 291.592773, 7395.741699>
+20:54:40 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Window_Kit)
+20:54:41 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Window_Kit)
+20:54:42 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Window_Kit)
+20:55:16 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6455.904785, 291.373932, 7407.742188>
+20:55:35 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Window_Kit)
+20:55:36 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Window_Kit)
+20:55:49 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Door_Kit)
+20:56:11 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6453.014648, 291.592133, 7407.742188>
+20:56:13 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6455.904785, 291.592133, 7410.631348>
+20:56:14 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6458.794922, 291.592133, 7407.742188>
+20:56:17 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6464.794922, 291.592346, 7407.741699>
+20:56:18 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6461.904785, 291.592346, 7410.630859>
+20:56:19 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6453.014648, 291.592133, 7407.742188>
+20:56:21 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6455.904785, 291.592133, 7410.631348>
+20:56:22 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6464.794922, 291.592560, 7401.741699>
+20:56:26 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6464.794922, 291.592773, 7395.741699>
+20:56:36 | Admin "Cappy" (steamId=76561198079984427) built part t1_door at position: <6455.904785, 291.592133, 7410.631348>
+20:56:42 | Admin "Cappy" (steamId=76561198079984427) built part t1_door at position: <6453.014648, 291.592133, 7407.742188>
+20:56:44 | Admin "Cappy" (steamId=76561198079984427) built part window_bars at position: <6453.014648, 291.592133, 7407.742188>
+20:56:47 | Admin "Cappy" (steamId=76561198079984427) built part t2_door at position: <6455.904785, 291.592133, 7410.631348>
+20:56:52 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_door at position: <6464.794922, 291.592987, 7389.741699>
+20:56:54 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6464.794922, 291.592987, 7389.741699>
+20:56:56 | Admin "Cappy" (steamId=76561198079984427) built part t2_door at position: <6453.014648, 291.592133, 7407.742188>
+20:56:57 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6464.794922, 291.593201, 7383.741699>
+20:57:2 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_door at position: <6464.794922, 291.593414, 7377.741699>
+20:57:4 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6464.794922, 291.593414, 7377.741699>
+20:57:7 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_door at position: <6464.794922, 291.593628, 7371.741699>
+20:57:8 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6464.794922, 291.593628, 7371.741699>
+20:57:9 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.904785, 291.592346, 7410.630859>
+20:57:11 | Admin "Cappy" (steamId=76561198079984427) built part t1_door at position: <6461.904785, 291.592346, 7410.630859>
+20:57:14 | Admin "Cappy" (steamId=76561198079984427) built part window_bars at position: <6461.904785, 291.592346, 7410.630859>
+20:57:16 | Admin "Cappy" (steamId=76561198079984427) built part t1_door at position: <6464.794922, 291.592346, 7407.741699>
+20:57:17 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6464.794922, 291.592346, 7407.741699>
+20:57:18 | Admin "RagnarokHaze" (steamId=76561198120496196) built part window_bars at position: <6464.794922, 291.593628, 7371.741699>
+20:57:20 | Admin "Cappy" (steamId=76561198079984427) built part window_bars at position: <6464.794922, 291.592346, 7407.741699>
+20:57:20 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_door at position: <6461.904785, 291.593658, 7368.851563>
+20:57:21 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6461.904785, 291.593658, 7368.851563>
+20:57:23 | Admin "Cappy" (steamId=76561198079984427) built part t1_door at position: <6464.794922, 291.592560, 7401.741699>
+20:57:24 | Admin "RagnarokHaze" (steamId=76561198120496196) built part window_bars at position: <6461.904785, 291.593658, 7368.851563>
+20:57:25 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6464.794922, 291.592560, 7401.741699>
+20:57:27 | Admin "Cappy" (steamId=76561198079984427) built part window_bars at position: <6464.794922, 291.592560, 7401.741699>
+20:57:28 | Admin "RagnarokHaze" (steamId=76561198120496196) built part window_bars at position: <6464.794922, 291.593414, 7377.741699>
+20:57:36 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_door at position: <6458.794922, 291.593201, 7377.742188>
+20:57:37 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6458.794922, 291.593201, 7377.742188>
+20:57:38 | Admin "Cappy" (steamId=76561198079984427) built part t2_door at position: <6464.794922, 291.592987, 7389.741699>
+20:57:38 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t2_metal at position: <6458.794922, 291.593201, 7377.742188>
+20:57:39 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6458.794922, 291.592987, 7371.742188>
+20:57:52 | "Cappy" (steamid=76561198079984427) deleted object "BBP_Bstair" (pos=<6467.904785, 291.375000, 7377.742188>)
+20:58:6 | "RagnarokHaze" (steamid=76561198120496196) deleted object "BBP_BDoor" (pos=<6458.794922, 291.593201, 7377.742188>)
+20:58:11 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_door at position: <6455.904785, 291.593018, 7368.852051>
+20:58:12 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6455.904785, 291.593018, 7368.852051>
+20:58:15 | Admin "RagnarokHaze" (steamId=76561198120496196) built part window_bars at position: <6455.904785, 291.593018, 7368.852051>
+20:58:17 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6449.904785, 291.592804, 7368.852539>
+20:58:18 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6447.014648, 291.592773, 7371.742676>
+20:58:21 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_door at position: <6447.014648, 291.592987, 7377.742676>
+20:58:22 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6447.014648, 291.592987, 7377.742676>
+20:58:24 | Admin "RagnarokHaze" (steamId=76561198120496196) built part window_bars at position: <6447.014648, 291.592987, 7377.742676>
+20:58:28 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6455.904785, 291.593201, 7380.631348>
+20:58:31 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_planks at position: <6449.904785, 291.592987, 7380.631836>
+20:58:41 | "RagnarokHaze" (steamid=76561198120496196) deleted object "BBP_Bwall" (pos=<6449.904785, 291.592987, 7380.631836>)
+20:59:16 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6449.904785, 291.592987, 7380.631836>
+20:59:17 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6449.904785, 291.592987, 7380.631836>
+20:59:19 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Stair_Kit)
+20:59:23 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6447.014648, 291.592773, 7383.742676>
+20:59:25 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6447.014648, 291.592560, 7389.742676>
+20:59:32 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_door at position: <6458.794922, 291.592133, 7407.742188>
+20:59:35 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6467.904785, 291.374573, 7389.742188>
+20:59:42 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6458.794922, 291.592133, 7407.742188>
+20:59:44 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6458.794922, 291.592346, 7401.742188>
+20:59:46 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_door at position: <6458.794922, 291.592560, 7395.742188>
+20:59:48 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6458.794922, 291.592560, 7395.742188>
+20:59:50 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6455.904785, 291.592590, 7392.852051>
+20:59:53 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6449.904785, 291.592377, 7392.852539>
+21:0:0 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6447.014648, 291.592346, 7395.742676>
+21:0:2 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6447.014648, 291.592133, 7401.742676>
+21:0:4 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6449.904785, 291.592133, 7404.631836>
+21:0:6 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6455.904785, 291.592346, 7404.631348>
+21:1:9 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Door_Kit)
+21:1:39 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6458.794922, 291.593201, 7377.742188>
+21:1:41 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_door at position: <6458.794922, 291.593201, 7377.742188>
+21:1:43 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6458.794922, 291.593201, 7377.742188>
+21:2:12 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:12 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:13 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:13 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:13 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:13 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:13 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:13 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:13 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:14 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:14 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:14 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:14 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:14 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:15 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:15 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:15 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:15 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:15 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:15 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:16 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:2:46 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6450.328613, 294.593201, 7383.521484>
+21:2:49 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6450.328613, 294.592987, 7389.521484>
+21:2:51 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6456.328613, 294.592773, 7389.520996>
+21:2:52 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6456.328613, 294.592773, 7389.520996>
+21:2:57 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6450.328613, 294.592987, 7389.521484>
+21:3:0 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6450.328613, 294.593201, 7383.521484>
+21:3:44 | "RagnarokHaze" (steamid=76561198120496196) deleted object "BBP_Bfloor" (pos=<6450.328613, 294.592987, 7389.521484>)
+21:3:46 | "RagnarokHaze" (steamid=76561198120496196) deleted object "BBP_Bfloor" (pos=<6450.328613, 294.593201, 7383.521484>)
+21:3:47 | "RagnarokHaze" (steamid=76561198120496196) deleted object "BBP_Bfloor" (pos=<6456.328613, 294.592773, 7389.520996>)
+21:3:51 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.904785, 294.592987, 7389.741699>
+21:3:52 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.904785, 294.592987, 7389.741699>
+21:4:2 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.904785, 294.593201, 7383.741699>
+21:4:3 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.904785, 294.593201, 7383.741699>
+21:4:18 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6455.904785, 294.592773, 7389.741699>
+21:4:19 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6455.904785, 294.592773, 7389.741699>
+21:4:24 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6449.904785, 294.592560, 7389.741699>
+21:4:27 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6449.904785, 294.592560, 7389.741699>
+21:4:34 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6449.905273, 294.592346, 7383.741699>
+21:4:50 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6449.905273, 294.592346, 7383.741699>
+21:4:53 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6455.904785, 294.593201, 7377.741211>
+21:4:54 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6455.904785, 294.593201, 7377.741211>
+21:5:3 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6461.904785, 294.592773, 7395.741699>
+21:5:4 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6461.904785, 294.592773, 7395.741699>
+21:5:7 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6461.904785, 294.592560, 7401.741699>
+21:5:8 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6461.904785, 294.592560, 7401.741699>
+21:5:13 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6461.904785, 294.592346, 7407.740723>
+21:5:14 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6461.904785, 294.592346, 7407.740723>
+21:5:24 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6455.904785, 294.592133, 7407.742188>
+21:5:26 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6455.904785, 294.592133, 7407.742188>
+21:5:40 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6455.904785, 294.592560, 7395.742188>
+21:5:41 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6455.904785, 294.592560, 7395.742188>
+21:5:55 | Player "goof" (steamId=76561198103590483) connected to server!
+21:5:58 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6455.904785, 294.592346, 7401.741211>
+21:6:0 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6455.904785, 294.592346, 7401.741211>
+21:6:4 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6449.904785, 294.592133, 7401.742676>
+21:6:7 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6449.904785, 294.592133, 7401.742676>
+21:6:10 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6449.904785, 294.592346, 7395.742676>
+21:6:12 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6449.904785, 294.592346, 7395.742676>
+21:6:32 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.904785, 294.593414, 7377.741699>
+21:6:35 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.904785, 294.593658, 7371.741699>
+21:6:36 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.904785, 294.593658, 7371.741699>
+21:6:36 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6461.904785, 294.593414, 7377.741699>
+21:12:8 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6455.904785, 294.592987, 7371.741211>
+21:12:9 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6455.904785, 294.592987, 7371.741211>
+21:12:12 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6449.904785, 294.592987, 7377.741699>
+21:12:14 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6449.904785, 294.592987, 7377.741699>
+21:15:22 | Player "goof" (steamId=76561198103590483) initiated disconnect process...
+21:15:24 | Player "goof" (steamId=76561198103590483) disconnected from server.
+21:16:50 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:17:17 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6449.904785, 294.592773, 7371.741699>
+21:17:18 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6449.904785, 294.592773, 7371.741699>
+21:19:8 | "Cappy" (steamid=76561198079984427) deleted object "BBP_BWindow" (pos=<6461.904785, 291.592346, 7410.630859>)
+21:19:23 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Door_Kit)
+21:19:27 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+21:19:28 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+21:19:32 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Workbench_Kit)
+21:19:40 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6455.904785, 291.373718, 7413.742188>
+21:19:41 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.904785, 291.592346, 7410.630859>
+21:19:42 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6455.904785, 291.373718, 7413.742188>
+21:19:44 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.904785, 291.592346, 7410.630859>
+21:19:46 | Admin "Cappy" (steamId=76561198079984427) built part t1_door at position: <6461.904785, 291.592346, 7410.630859>
+21:19:58 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6455.904785, 291.373505, 7419.742188>
+21:19:59 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6455.904785, 291.373505, 7419.742188>
+21:20:55 | Admin "RagnarokHaze" (steamId=76561198120496196) built part window_bars at position: <6455.904785, 291.592133, 7410.631348>
+21:21:55 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6458.794922, 291.592133, 7407.742188>
+21:21:58 | Admin "Cappy" (steamId=76561198079984427) built part t2_door at position: <6458.794922, 291.592133, 7407.742188>
+21:22:16 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6458.794922, 291.592560, 7395.742188>
+21:22:18 | Admin "Cappy" (steamId=76561198079984427) built part t2_door at position: <6458.794922, 291.592560, 7395.742188>
+21:22:20 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6458.794922, 291.592346, 7401.742188>
+21:22:25 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6455.904785, 291.592590, 7392.852051>
+21:22:27 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6449.904785, 291.592377, 7392.852539>
+21:22:28 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t2_metal at position: <6455.904785, 291.593201, 7380.631348>
+21:22:34 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6455.904785, 291.374359, 7395.742188>
+21:22:35 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t2_metal at position: <6458.794922, 291.593201, 7377.742188>
+21:22:36 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6455.904785, 291.374146, 7401.742188>
+21:22:37 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6449.904785, 291.373932, 7401.742676>
+21:22:37 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t2_metal at position: <6458.794922, 291.592987, 7371.742188>
+21:22:39 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6449.904785, 291.374146, 7395.742676>
+21:22:43 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t2_metal at position: <6449.904785, 291.592987, 7380.631836>
+21:23:46 | "Cappy" (steamid=76561198079984427) Spawned Item: (FenceKit)
+21:24:8 | Admin "Cappy" (steamId=76561198079984427) built part base at position: <6453.034180, 291.499023, 7412.898926>
+21:24:11 | Admin "Cappy" (steamId=76561198079984427) built part wall_base_down at position: <6453.034180, 291.499023, 7412.898926>
+21:24:20 | Admin "Cappy" (steamId=76561198079984427) built part wall_platform at position: <6453.034180, 291.499023, 7412.898926>
+21:24:27 | Admin "Cappy" (steamId=76561198079984427) built part wall_wood_down at position: <6453.034180, 291.499023, 7412.898926>
+21:24:53 | Admin "Cappy" (steamId=76561198079984427) built part base at position: <6453.091797, 291.496124, 7416.887695>
+21:24:55 | Admin "Cappy" (steamId=76561198079984427) built part wall_base_down at position: <6453.091797, 291.496124, 7416.887695>
+21:24:57 | Admin "Cappy" (steamId=76561198079984427) built part wall_wood_down at position: <6453.091797, 291.496124, 7416.887695>
+21:24:59 | Admin "Cappy" (steamId=76561198079984427) built part wall_platform at position: <6453.091797, 291.496124, 7416.887695>
+21:26:33 | Admin "Cappy" (steamId=76561198079984427) built part base at position: <6453.097168, 291.498810, 7420.577148>
+21:26:35 | Admin "Cappy" (steamId=76561198079984427) built part wall_base_down at position: <6453.097168, 291.498810, 7420.577148>
+21:26:36 | Admin "Cappy" (steamId=76561198079984427) built part wall_wood_down at position: <6453.097168, 291.498810, 7420.577148>
+21:27:19 | Admin "Cappy" (steamId=76561198079984427) built part base at position: <6455.160156, 291.498810, 7422.528809>
+21:27:34 | "Cappy" (steamid=76561198079984427) deleted object "Fence" (pos=<6455.160156, 291.498810, 7422.528809>)
+21:27:43 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Half_Wall_Kit)
+21:27:44 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Half_Wall_Kit)
+21:27:44 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Half_Wall_Kit)
+21:27:46 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Half_Wall_Kit)
+21:28:9 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6464.794922, 291.592133, 7413.741699>
+21:28:13 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6464.794922, 291.591919, 7419.741699>
+21:28:15 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.904785, 291.591919, 7422.630859>
+21:28:17 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6455.904785, 291.591705, 7422.631348>
+21:28:34 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6455.904785, 291.591705, 7422.631348>
+21:28:36 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.904785, 291.591919, 7422.630859>
+21:28:38 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6464.794922, 291.591919, 7419.741699>
+21:28:41 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6464.794922, 291.592133, 7413.741699>
+21:28:44 | Admin "Cappy" (steamId=76561198079984427) built part wall_platform_stairs_right at position: <6453.034180, 291.499023, 7412.898926>
+21:28:46 | Admin "Cappy" (steamId=76561198079984427) built part wall_platform_stairs_left at position: <6453.034180, 291.499023, 7412.898926>
+21:28:48 | Admin "Cappy" (steamId=76561198079984427) built part wall_platform_stairs_right at position: <6453.091797, 291.496124, 7416.887695>
+21:28:50 | Admin "Cappy" (steamId=76561198079984427) built part wall_platform_stairs_left at position: <6453.091797, 291.496124, 7416.887695>
+21:28:52 | Admin "Cappy" (steamId=76561198079984427) built part wall_platform at position: <6453.097168, 291.498810, 7420.577148>
+21:28:53 | Admin "Cappy" (steamId=76561198079984427) built part wall_platform_stairs_right at position: <6453.097168, 291.498810, 7420.577148>
+21:28:55 | Admin "Cappy" (steamId=76561198079984427) built part wall_platform_stairs_left at position: <6453.097168, 291.498810, 7420.577148>
+21:28:58 | Admin "Cappy" (steamId=76561198079984427) built part wall_base_up at position: <6453.097168, 291.498810, 7420.577148>
+21:29:1 | Admin "Cappy" (steamId=76561198079984427) built part wall_base_up at position: <6453.091797, 291.496124, 7416.887695>
+21:29:3 | Admin "Cappy" (steamId=76561198079984427) built part wall_base_up at position: <6453.034180, 291.499023, 7412.898926>
+21:29:7 | Admin "Cappy" (steamId=76561198079984427) built part wall_wood_up at position: <6453.034180, 291.499023, 7412.898926>
+21:29:11 | Admin "Cappy" (steamId=76561198079984427) built part wall_wood_up at position: <6453.091797, 291.496124, 7416.887695>
+21:29:14 | Admin "Cappy" (steamId=76561198079984427) built part wall_wood_up at position: <6453.097168, 291.498810, 7420.577148>
+21:31:31 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Foundation_Kit)
+21:31:39 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:31:40 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:32:3 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6449.904785, 291.373718, 7407.742676>
+21:32:5 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6449.904785, 291.373718, 7407.742676>
+21:32:9 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6447.792969, 288.207214, 7414.579102>)
+21:32:15 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6452.939453, 294.509552, 7410.846680>)
+21:32:18 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6450.860840, 291.625854, 7407.119141>)
+21:32:21 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6447.014648, 291.591919, 7407.742676>
+21:32:22 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6447.014648, 291.591919, 7407.742676>
+21:32:25 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6449.904785, 291.591919, 7410.631836>
+21:32:26 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6449.904785, 291.591919, 7410.631836>
+21:32:28 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6452.895996, 294.704254, 7410.436035>)
+21:32:44 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Hatch_Kit)
+21:32:52 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6449.904785, 294.591919, 7407.742188>
+21:32:54 | Admin "Cappy" (steamId=76561198079984427) built part t1_door at position: <6449.904785, 294.591919, 7407.742188>
+21:32:55 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6449.904785, 294.591919, 7407.742188>
+21:32:58 | Admin "Cappy" (steamId=76561198079984427) built part stair at position: <6449.904785, 294.591919, 7407.742188>
+21:33:2 | Admin "Cappy" (steamId=76561198079984427) built part t2_door at position: <6449.904785, 294.591919, 7407.742188>
+21:33:3 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6449.904785, 294.591919, 7407.742188>
+21:33:14 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6449.904785, 291.373718, 7407.742676>
+21:34:36 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Roof_Kit)
+21:34:37 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Roof_Kit)
+21:34:38 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Roof_Kit)
+21:34:39 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Roof_Kit)
+21:34:40 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Roof_Kit)
+21:34:41 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Roof_Kit)
+21:36:33 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:36:33 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:36:33 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:36:33 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:36:33 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:36:34 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:36:34 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:36:34 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:36:34 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:36:34 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:36:34 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:36:34 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:36:35 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:36:35 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:36:35 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:36:35 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:36:35 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:36:35 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:36:35 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:38:53 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Wall_Kit)
+21:38:56 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Wall_Kit)
+21:38:56 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Wall_Kit)
+21:38:57 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Wall_Kit)
+21:39:2 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Wall_Kit)
+21:39:3 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Wall_Kit)
+21:39:53 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_BWindow_Hologram)
+21:39:54 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Window_Kit)
+21:39:55 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Window_Kit)
+21:40:58 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6455.904785, 294.810333, 7410.632324>
+21:41:5 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6449.904785, 294.810120, 7410.632324>
+21:41:12 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6461.904785, 294.810547, 7410.629883>
+21:41:17 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6461.904785, 297.810547, 7410.629883>
+21:41:31 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Roof_Kit)
+21:41:31 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Roof_Kit)
+21:41:31 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Roof_Kit)
+21:41:32 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Roof_Kit)
+21:41:32 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Roof_Kit)
+21:41:32 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Roof_Kit)
+21:41:32 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Roof_Kit)
+21:41:59 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6455.904785, 297.810333, 7410.632324>
+21:42:1 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_door at position: <6455.904785, 297.810333, 7410.632324>
+21:42:3 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6455.904785, 297.810333, 7410.632324>
+21:42:5 | Admin "RagnarokHaze" (steamId=76561198120496196) built part window_bars at position: <6455.904785, 297.810333, 7410.632324>
+21:42:7 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Slope_Roof_Kit)
+21:42:7 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6455.904785, 294.810333, 7410.632324>
+21:42:14 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6449.904785, 294.810120, 7410.632324>
+21:42:18 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6449.904785, 297.810120, 7410.632324>
+21:42:20 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6449.904785, 297.810120, 7410.632324>
+21:42:22 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Roof_Hatch_Kit)
+21:42:24 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6461.904785, 294.810547, 7410.629883>
+21:42:48 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Roof_Kit)
+21:42:48 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Roof_Kit)
+21:42:49 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Roof_Kit)
+21:42:49 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Roof_Kit)
+21:42:49 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Roof_Kit)
+21:42:49 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Roof_Kit)
+21:42:49 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Roof_Kit)
+21:42:59 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6464.794922, 294.810547, 7407.740723>
+21:43:0 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6464.794922, 294.810547, 7407.740723>
+21:43:14 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6461.904785, 297.810547, 7410.629883>
+21:43:18 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6464.793945, 294.810760, 7401.741699>
+21:43:19 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6464.793945, 294.810760, 7401.741699>
+21:43:22 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6464.793945, 294.810974, 7395.741699>
+21:43:23 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6464.793945, 294.810974, 7395.741699>
+21:43:26 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6464.793945, 294.811188, 7389.741699>
+21:43:27 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6464.793945, 294.811188, 7389.741699>
+21:43:29 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6464.793945, 294.811401, 7383.741699>
+21:43:30 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6464.793945, 294.811401, 7383.741699>
+21:43:33 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6464.793945, 294.811615, 7377.741699>
+21:43:34 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6464.793945, 294.811615, 7377.741699>
+21:43:37 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6464.794922, 294.811859, 7371.741699>
+21:43:38 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6464.794922, 294.811859, 7371.741699>
+21:43:41 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6461.904785, 294.811859, 7368.852539>
+21:43:41 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6461.904785, 294.811859, 7368.852539>
+21:43:48 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6461.904785, 297.811859, 7368.852539>
+21:43:49 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6461.904785, 297.811859, 7368.852539>
+21:43:53 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6455.904785, 294.811218, 7368.851074>
+21:43:54 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6455.904785, 294.811218, 7368.851074>
+21:43:59 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6447.015625, 294.810120, 7407.742188>
+21:44:0 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6455.904785, 297.811218, 7368.851074>
+21:44:1 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6447.015625, 294.810333, 7401.742676>
+21:44:2 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_door at position: <6455.904785, 297.811218, 7368.851074>
+21:44:4 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6455.904785, 297.811218, 7368.851074>
+21:44:7 | Admin "RagnarokHaze" (steamId=76561198120496196) built part window_bars at position: <6455.904785, 297.811218, 7368.851074>
+21:44:11 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6447.015625, 294.810547, 7395.742676>
+21:44:12 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6449.904785, 294.811005, 7368.851563>
+21:44:13 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6449.904785, 294.811005, 7368.851563>
+21:44:15 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6449.905762, 297.810547, 7395.742676>
+21:44:18 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6449.905762, 297.810333, 7401.742676>
+21:44:19 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6449.905762, 297.810333, 7401.742676>
+21:44:20 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t2_metal at position: <6449.904785, 294.811005, 7368.851563>
+21:44:22 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6449.905762, 297.810547, 7395.742676>
+21:44:25 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6449.904785, 297.810791, 7389.741699>
+21:44:26 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6449.904785, 297.810791, 7389.741699>
+21:44:28 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6449.905273, 297.810577, 7383.741699>
+21:44:31 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6447.014648, 294.811188, 7377.741699>
+21:44:34 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6449.904785, 297.811188, 7377.741699>
+21:44:38 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6447.014648, 294.810974, 7371.741699>
+21:44:40 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6449.904785, 297.810974, 7371.741699>
+21:44:46 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6449.904785, 297.811005, 7368.851563>
+21:44:47 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6449.904785, 297.811005, 7368.851563>
+21:44:52 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.904785, 297.811859, 7371.741699>
+21:45:16 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6447.014648, 294.811188, 7377.741699>
+21:45:19 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6447.015137, 294.810577, 7383.741699>
+21:45:20 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6447.015137, 294.810577, 7383.741699>
+21:45:23 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6447.014648, 294.810791, 7389.741699>
+21:45:24 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6447.014648, 294.810791, 7389.741699>
+21:45:28 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6447.015625, 294.810547, 7395.742676>
+21:45:30 | "Cappy" (steamid=76561198079984427) deleted object "BBP_Bwall" (pos=<6449.904785, 294.811005, 7368.851563>)
+21:45:31 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6447.015625, 294.810333, 7401.742676>
+21:45:33 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6447.015625, 294.810120, 7407.742188>
+21:45:33 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6447.014648, 294.810974, 7371.741699>
+21:45:36 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6449.904785, 297.810974, 7371.741699>
+21:45:38 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6449.904785, 297.811188, 7377.741699>
+21:45:40 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6449.905273, 297.810577, 7383.741699>
+21:45:48 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6449.905762, 297.810120, 7407.742188>
+21:45:51 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6449.905762, 297.810120, 7407.742188>
+21:45:56 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.904785, 297.810547, 7407.740723>
+21:45:59 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.903809, 297.810760, 7401.741699>
+21:46:3 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.903809, 297.810974, 7395.741699>
+21:46:6 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.903809, 297.811188, 7389.741699>
+21:46:9 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.903809, 297.811401, 7383.741699>
+21:46:12 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6461.903809, 297.811615, 7377.741699>
+21:46:17 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.904785, 297.811859, 7371.741699>
+21:46:19 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.903809, 297.811615, 7377.741699>
+21:46:21 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.903809, 297.811401, 7383.741699>
+21:46:24 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.903809, 297.811188, 7389.741699>
+21:46:27 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.903809, 297.810974, 7395.741699>
+21:46:29 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.903809, 297.810760, 7401.741699>
+21:46:33 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6461.904785, 297.810547, 7407.740723>
+21:46:38 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6449.904785, 294.811005, 7368.851563>
+21:46:41 | Admin "RagnarokHaze" (steamId=76561198120496196) built part t1_wall_logs_horizontal at position: <6449.904785, 294.811005, 7368.851563>
+21:46:58 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Hatch_Kit)
+21:47:25 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6455.904785, 297.810333, 7407.742188>
+21:47:26 | Admin "Cappy" (steamId=76561198079984427) built part t1_door at position: <6455.904785, 297.810333, 7407.742188>
+21:47:28 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6455.904785, 297.810333, 7407.742188>
+21:47:30 | Admin "Cappy" (steamId=76561198079984427) built part stair at position: <6455.904785, 297.810333, 7407.742188>
+21:47:35 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6455.904785, 300.810333, 7407.742188>
+21:47:36 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6455.904785, 300.810333, 7407.742188>
+21:48:0 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6455.015137, 300.813385, 7404.620605>)
+21:48:4 | Admin "RagnarokHaze" (steamId=76561198120496196) built part frame at position: <6455.904785, 300.810120, 7401.742188>
+21:48:4 | Admin "Cappy" (steamId=76561198079984427) built part t1_door at position: <6455.904785, 300.810120, 7401.742188>
+21:48:6 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6455.904785, 300.810120, 7401.742188>
+21:48:8 | Admin "Cappy" (steamId=76561198079984427) built part stair at position: <6455.904785, 300.810120, 7401.742188>
+21:48:20 | "Cappy" (steamid=76561198079984427) Spawned Item: (BBP_Floor_Kit)
+21:48:33 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6455.904785, 297.810120, 7401.742188>
+21:48:34 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6455.904785, 297.810120, 7401.742188>
+21:48:41 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6455.904785, 300.809906, 7395.742188>
+21:48:42 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6455.904785, 300.809906, 7395.742188>
+21:48:45 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6455.904785, 300.809692, 7389.742188>
+21:48:46 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6455.904785, 300.809692, 7389.742188>
+21:48:48 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6455.904785, 300.809479, 7383.742188>
+21:48:49 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6455.904785, 300.809479, 7383.742188>
+21:48:52 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6455.904785, 300.811005, 7377.741211>
+21:48:53 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6455.904785, 300.811005, 7377.741211>
+21:48:56 | Admin "Cappy" (steamId=76561198079984427) built part frame at position: <6455.904785, 300.811218, 7371.741211>
+21:48:58 | Admin "Cappy" (steamId=76561198079984427) built part t1_wall_logs_horizontal at position: <6455.904785, 300.811218, 7371.741211>
+21:48:58 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6455.904785, 300.811218, 7371.741211>
+21:49:0 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6455.904785, 300.811005, 7377.741211>
+21:49:1 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6455.904785, 300.809479, 7383.742188>
+21:49:3 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6455.904785, 300.809692, 7389.742188>
+21:49:4 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6455.904785, 300.809906, 7395.742188>
+21:49:8 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6455.904785, 300.810333, 7407.742188>
+21:49:18 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6455.904785, 300.810120, 7401.742188>
+21:49:20 | Admin "Cappy" (steamId=76561198079984427) built part t2_door at position: <6455.904785, 300.810120, 7401.742188>
+21:50:53 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6455.904785, 291.592346, 7404.631348>
+21:50:55 | Admin "Cappy" (steamId=76561198079984427) built part t2_metal at position: <6449.904785, 291.592133, 7404.631836>
+21:51:28 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate)
+21:51:28 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate)
+21:51:28 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate)
+21:53:58 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate)
+21:56:32 | "Cappy" (steamid=76561198079984427) deleted object "AliceBag_Green" (pos=<6477.890137, 288.681213, 7390.526855>)
+21:56:33 | "Cappy" (steamid=76561198079984427) deleted object "HunterPants_Summer" (pos=<6477.890137, 288.433746, 7390.526855>)
+21:56:37 | "Cappy" (steamid=76561198079984427) deleted object "PlateCarrierVest_Camo" (pos=<6477.890137, 288.425110, 7390.526855>)
+21:56:41 | "Cappy" (steamid=76561198079984427) deleted object "HuntingJacket_Spring" (pos=<6477.890137, 288.507538, 7390.526855>)
+21:57:22 | "Cappy" (steamid=76561198079984427) Created a new item preset: (Medical Supplies)
+21:59:26 | "Cappy" (steamid=76561198079984427) Spawned Item: (WoodenCrate)
+21:59:34 | "Cappy" (steamid=76561198079984427) deleted object "WoodenCrate" (pos=<6460.562500, 291.595276, 7389.449219>)
+21:59:43 | "Cappy" (steamid=76561198079984427) edited preset: (Medical Supplies)
+22:0:16 | "Cappy" (steamid=76561198079984427) Spawned Item: (WorkingBoots_Yellow)
+22:0:24 | "Cappy" (steamid=76561198079984427) spawned preset: (Medical Supplies)
+22:0:55 | "Cappy" (steamid=76561198079984427) Spawned Item: (Jeans_Blue)
+22:1:20 | "Cappy" (steamid=76561198079984427) Spawned Item: (LeatherShirt_Natural)
+22:1:30 | "Cappy" (steamid=76561198079984427) Spawned Item: (TShirt_Green)
+22:1:42 | "Cappy" (steamid=76561198079984427) Spawned Item: (TacticalShirt_Olive)
+22:1:52 | "Cappy" (steamid=76561198079984427) Spawned Item: (TelnyashkaShirt)
+22:2:30 | "Cappy" (steamid=76561198079984427) Spawned Item: (WorkingGloves_Beige)
+22:2:57 | "Cappy" (steamid=76561198079984427) Spawned Item: (GorkaHelmet)
+22:3:3 | "Cappy" (steamid=76561198079984427) Spawned Item: (GorkaPants_Summer)
+22:3:4 | "Cappy" (steamid=76561198079984427) Spawned Item: (GorkaEJacket_Summer)
+22:3:28 | "Cappy" (steamid=76561198079984427) Spawned Item: (AssaultBag_Ttsko)
+22:3:35 | "Cappy" (steamid=76561198079984427) Spawned Item: (UKAssVest_Camo)
+22:3:43 | "Cappy" (steamid=76561198079984427) Spawned Item: (AssaultBag_Green)
+22:4:4 | "Cappy" (steamid=76561198079984427) Spawned Item: (AviatorGlasses)
+22:4:4 | "Cappy" (steamid=76561198079984427) Spawned Item: (AviatorGlasses)
+22:4:10 | "Cappy" (steamid=76561198079984427) Spawned Item: (TacticalGloves_Green)
+22:4:37 | "Cappy" (steamid=76561198079984427) Spawned Item: (JungleBoots_Olive)
+22:5:0 | "Cappy" (steamid=76561198079984427) Spawned Item: (BDUPants)
+22:5:1 | "Cappy" (steamid=76561198079984427) Spawned Item: (BDUJacket)
+22:5:40 | "Cappy" (steamid=76561198079984427) Spawned Item: (SmershVest)
+22:5:55 | "Cappy" (steamid=76561198079984427) Spawned Item: (SmershBag)
+22:6:42 | "Cappy" (steamid=76561198079984427) Spawned Item: (LeatherSack_Natural)
+22:6:59 | "Cappy" (steamid=76561198079984427) Spawned Item: (LeatherStorageVest_Natural)
+22:7:0 | "Cappy" (steamid=76561198079984427) Spawned Item: (LeatherStorageVest_Beige)
+22:7:51 | "Cappy" (steamid=76561198079984427) Spawned Item: (MilitaryBeret_ChDKZ)
+22:8:3 | "Cappy" (steamid=76561198079984427) Spawned Item: (Ssh68Helmet)
+22:8:38 | "Cappy" (steamid=76561198079984427) Spawned Item: (AssaultBag_Ttsko)
+22:8:39 | "Cappy" (steamid=76561198079984427) Spawned Item: (TTsKOJacket_Camo)
+22:8:40 | "Cappy" (steamid=76561198079984427) Spawned Item: (TTSKOBoots)
+22:8:41 | "Cappy" (steamid=76561198079984427) Spawned Item: (TTSKOPants)
+22:9:21 | "Cappy" (steamid=76561198079984427) Spawned Item: (AK101)
+22:10:55 | "Cappy" (steamid=76561198079984427) Spawned Item: (AK_FoldingBttstck)
+22:11:0 | "Cappy" (steamid=76561198079984427) Spawned Item: (AK_WoodHndgrd)
+22:11:12 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_AK101_30Rnd)
+22:11:13 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_AK101_30Rnd)
+22:11:17 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_MakarovPB_8Rnd)
+22:11:18 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_MakarovPB_8Rnd)
+22:11:21 | "Cappy" (steamid=76561198079984427) Spawned Item: (MakarovPB)
+22:11:22 | "Cappy" (steamid=76561198079984427) Spawned Item: (MakarovPB)
+22:11:50 | "Cappy" (steamid=76561198079984427) deleted object "MakarovPB" (pos=<6470.567871, 287.496979, 7414.448242>)
+22:12:9 | "Cappy" (steamid=76561198079984427) deleted object "Mag_MakarovPB_8Rnd" (pos=<6470.567871, 287.433228, 7414.448242>)
+22:12:11 | "Cappy" (steamid=76561198079984427) deleted object "Mag_MakarovPB_8Rnd" (pos=<6470.567871, 287.480377, 7414.448242>)
+22:12:12 | "Cappy" (steamid=76561198079984427) deleted object "MakarovPB" (pos=<6470.901367, 287.476105, 7413.335938>)
+22:12:18 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_AK101_30Rnd)
+22:12:23 | "RagnarokHaze" (steamid=76561198120496196) deleted object "BBP_BWindow_Hologram" (pos=<6462.634766, 286.570984, 7437.343262>)
+22:12:26 | "Cappy" (steamid=76561198079984427) Spawned Item: (MakarovIJ70)
+22:12:35 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_IJ70_8Rnd)
+22:12:35 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_IJ70_8Rnd)
+22:12:35 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_IJ70_8Rnd)
+22:13:8 | "Cappy" (steamid=76561198079984427) Spawned Item: (Mag_IJ70_8Rnd)
+22:13:49 | "Cappy" (steamid=76561198079984427) Spawned Item: (Machete)
+22:14:18 | "Cappy" (steamid=76561198079984427) toggled godmode
+22:14:21 | "Cappy" (steamid=76561198079984427) toggled godmode
+23:22:6 | Player "goof" (steamId=76561198103590483) connected to server!
+0:11:15 | "RagnarokHaze" (steamid=76561198120496196) /refuel used on self.
+0:12:59 | "76561198079984427" (steamid=76561198079984427) teleported to (pos=<6132.569824, 301.064301, 7726.859863>)
+0:12:59 | "Cappy": (steamid=76561198079984427) teleported to (pos=6132.57,0,7726.86)
+0:13:2 | "Cappy" (steamid=76561198079984427) toggled godmode
+0:13:35 | "Cappy" (steamid=76561198079984427) Froze player controls (steamid=76561198103590483)
+0:13:59 | Player "goof" (steamId=76561198103590483) initiated disconnect process...
+0:14:0 | Player "goof" (steamId=76561198103590483) aborted logout process [canceledLogout]
+0:14:6 | Player "goof" (steamId=76561198103590483) initiated disconnect process...
+0:14:8 | Player "goof" (steamId=76561198103590483) disconnected early from server (EXIT NOW).
+0:14:8 | Player "goof" (steamId=76561198103590483) disconnected from server.
+0:14:13 | "76561198120496196" (steamid=76561198120496196) teleported to (pos=<6116.339844, 301.000244, 7733.930176>)
+0:14:13 | "RagnarokHaze": (steamid=76561198120496196) teleported to (pos=6116.34,0,7733.93)
+0:14:24 | Player "goof" (steamId=76561198103590483) connected to server!
+0:14:49 | "Cappy" (steamid=76561198079984427) toggled godmode
+0:14:50 | "Cappy" (steamid=76561198079984427) toggled godmode
+0:15:52 | "76561198120496196" (steamid=76561198120496196) teleported to (pos=<6131.379883, 301.060333, 7731.020020>)
+0:15:52 | "RagnarokHaze": (steamid=76561198120496196) teleported to (pos=6131.38,0,7731.02)
+0:17:16 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (Mag_Deagle_9rnd)
+0:19:43 | Player "goof" (steamId=76561198103590483) initiated disconnect process...
+0:19:44 | Player "goof" (steamId=76561198103590483) aborted logout process [canceledLogout]
+0:21:1 | "Cappy" (steamid=76561198079984427) toggled godmode
+0:21:2 | "Cappy" (steamid=76561198079984427) toggled godmode
+0:21:15 | "RagnarokHaze" (steamid=76561198120496196) toggled godmode
+0:21:19 | "76561198103590483" (steamid=76561198079984427) teleported to (pos=<6095.879883, 300.989990, 7748.979980>)
+0:21:19 | "Cappy" (steamid=76561198079984427) Teleporting player: "goof" (steamid=76561198103590483) to (pos=<6095.876465, 0.000000, 7748.975586>)
+0:23:31 | [BansManager]:: AddToBanList: Adding [goof] [76561198103590483] [AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=] Reason:[#VSTR_BAN_REASON Cappy] Is now BANNED!
+0:23:31 | [BansManager]:: Save(): Saving ban list!
+0:23:31 | "Cappy" (steamid=76561198079984427) banned player: (steamid=0x000000001fa1f730 {76561198103590483})
+0:23:32 | Player "goof" (steamId=76561198103590483) initiated disconnect process...
+0:23:34 | Player "goof" (steamId=76561198103590483) disconnected from server.
+0:24:26 | "Cappy" (steamid=76561198079984427) /heal used on: "Cappy" (steamid=76561198079984427)
+0:24:27 | "Cappy" (steamid=76561198079984427) /refuel used on self.
+0:24:28 | "RagnarokHaze" (steamid=76561198120496196) /refuel used on self.
+0:25:25 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (AliceBag_Camo)
+0:25:53 | [PermissionManager] Removed (steamid=76561198103590483) from Group: (Admins (Everyone)) by: "Cappy" (steamid=76561198079984427)
+0:26:5 | [BansManager]:: RemoveFromBanList(): Removed 76561198103590483 from ban list!
+0:26:5 | [BansManager]:: Save(): Saving ban list!
+0:26:9 | [BansManager]:: RemoveFromBanList(): Removed 00000000000000000 from ban list!
+0:26:9 | [BansManager]:: Save(): Saving ban list!
+0:27:30 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (MilitaryBelt)
+0:27:45 | "Cappy" (steamid=76561198079984427) Spawned Item: (CarBattery)
+0:29:24 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (M65Jacket_Olive)
+0:31:1 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (HighCapacityVest_Olive)
+0:31:11 | "RagnarokHaze" (steamid=76561198120496196) deleted object "HighCapacityVest_Olive" (pos=<6080.438477, 300.992157, 7760.250977>)
+0:31:28 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (UKAssVest_Camo)
+0:31:39 | "RagnarokHaze" (steamid=76561198120496196) deleted object "UKAssVest_Camo" (pos=<6080.499023, 300.992157, 7759.001953>)
+0:32:10 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (SmershVest)
+0:39:29 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6212.259766, 301.840607, 7650.671387>)
+0:39:29 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6146.592773, 301.521667, 7703.015625>)
+0:39:34 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6160.761719, 298.722870, 7662.277832>)
+0:39:35 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6173.093262, 299.146210, 7661.207520>)
+0:39:36 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6189.100098, 299.316498, 7665.689453>)
+0:39:38 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6200.098633, 299.218140, 7667.347656>)
+0:39:38 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6215.166016, 298.464661, 7654.907715>)
+0:39:38 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6230.916016, 298.063568, 7642.018066>)
+0:39:39 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6246.041016, 297.980011, 7631.251953>)
+0:39:39 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6257.592773, 297.894257, 7620.533691>)
+0:39:39 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6272.185547, 296.653961, 7604.692383>)
+0:39:39 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6280.847656, 295.347137, 7588.906250>)
+0:39:40 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6291.288574, 294.103210, 7575.600586>)
+0:39:40 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6304.897949, 293.149231, 7566.563477>)
+0:39:40 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6320.165039, 291.830383, 7558.710938>)
+0:39:41 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6341.754883, 289.377777, 7547.359863>)
+0:39:41 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6357.593262, 288.049866, 7537.511230>)
+0:39:41 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6372.206543, 287.399353, 7525.157715>)
+0:39:41 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6382.394043, 287.097351, 7512.868652>)
+0:39:42 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6393.230957, 286.595398, 7488.343750>)
+0:39:42 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6398.462891, 287.440430, 7473.528320>)
+0:39:43 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6405.042969, 287.623444, 7460.164063>)
+0:39:43 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6414.919434, 287.824280, 7447.818359>)
+0:39:43 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6425.590820, 288.023102, 7435.702148>)
+0:39:43 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6430.987793, 289.023560, 7429.735840>)
+0:39:44 | "Cappy" (steamid=76561198079984427) teleported to crosshair (pos=<6442.748535, 288.199860, 7418.497070>)
+0:47:4 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (SmershVest)
+1:21:17 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (Mag_SSG82_5rnd)
+1:21:18 | Player "Cappy" (steamId=76561198079984427) initiated disconnect process...
+1:21:19 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (SSG82Optic)
+1:21:19 | Player "Cappy" (steamId=76561198079984427) disconnected early from server (EXIT NOW).
+1:21:20 | Player "Cappy" (steamId=76561198079984427) disconnected from server.
+1:23:14 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (Mag_SSG82_5rnd)
+1:26:15 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (Groza_Barrel_Suppressor)
+1:26:28 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (MakarovPBSuppressor)
+1:26:39 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (AK_Suppressor)
+1:26:50 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (M4_Suppressor)
+1:27:0 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (ImprovisedSuppressor)
+1:27:0 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (ImprovisedSuppressor)
+1:28:30 | "RagnarokHaze" (steamid=76561198120496196) deleted object "M4_Suppressor" (pos=<6355.288086, 288.975189, 7476.317871>)
+1:28:41 | "RagnarokHaze" (steamid=76561198120496196) deleted object "AK_Suppressor" (pos=<6354.279297, 288.980347, 7476.752441>)
+1:28:56 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (AK_Suppressor)
+1:32:43 | "RagnarokHaze" (steamid=76561198120496196) toggled godmode
+1:38:54 | Player "RagnarokHaze" (steamId=76561198120496196) initiated disconnect process...
+1:38:56 | Player "RagnarokHaze" (steamId=76561198120496196) disconnected from server.

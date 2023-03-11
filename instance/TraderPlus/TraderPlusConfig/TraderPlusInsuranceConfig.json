@@ -10,12 +10,77 @@
             "CollateralMoneyCoefficient": 0.75
         },
         {
-            "VehicleName": "Hatchback_02",
+            "VehicleName": "OffroadHatchback_Blue",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+        {
+            "VehicleName": "OffroadHatchback_White",
             "InsurancePriceCoefficient": 1.25,
             "CollateralMoneyCoefficient": 0.75
         },
         {
             "VehicleName": "CivilianSedan",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+        {
+            "VehicleName": "CivilianSedan_Wine",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+        {
+            "VehicleName": "CivilianSedan_Black",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+        {
+            "VehicleName": "Hatchback_02",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+        {
+            "VehicleName": "Hatchback_02_Black",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+        {
+            "VehicleName": "Hatchback_02_Blue",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+        {
+            "VehicleName": "Sedan_02",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+        {
+            "VehicleName": "Sedan_02_Red",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+        {
+            "VehicleName": "Sedan_02_Grey",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+        {
+            "VehicleName": "Truck_01_Covered",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+        {
+            "VehicleName": "Truck_01_Covered_Blue",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+        {
+            "VehicleName": "Truck_01_Covered_Orange",
+            "InsurancePriceCoefficient": 1.25,
+            "CollateralMoneyCoefficient": 0.75
+        },
+        {
+            "VehicleName": "Offroad_02",
             "InsurancePriceCoefficient": 1.25,
             "CollateralMoneyCoefficient": 0.75
         }

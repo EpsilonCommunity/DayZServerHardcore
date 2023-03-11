@@ -1,0 +1,351 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-3-4_6-0-37
+====================================================================================
+6:0:37 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+6:0:37 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+6:0:37 | [PermissionManager] Perm (FreeCamera) has been registered!
+6:0:37 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuItemManager) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuServerManager) has been registered!
+6:0:37 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+6:0:37 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+6:0:37 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+6:0:37 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+6:0:37 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+6:0:37 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+6:0:37 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+6:0:37 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+6:0:37 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+6:0:37 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+6:0:37 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+6:0:37 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+6:0:37 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+6:0:37 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+6:0:37 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+6:0:37 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+6:0:37 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+6:0:37 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+6:0:37 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+6:0:37 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+6:0:37 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+6:0:37 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+6:0:37 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+6:0:37 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+6:0:37 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+6:0:37 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+6:0:37 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+6:0:37 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+6:0:37 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+6:0:37 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+6:0:37 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+6:0:37 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+6:0:37 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuBansManager) has been registered!
+6:0:37 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+6:0:37 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+6:0:37 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+6:0:37 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+6:0:37 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+6:0:37 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+6:0:37 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+6:0:37 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+6:0:37 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+6:0:37 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+6:0:37 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+6:0:37 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+6:0:37 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+6:0:37 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+6:0:37 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+6:0:37 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+6:0:37 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+6:0:37 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+6:0:37 | [PermissionManager] Adding Super Admin (76561198079984427)
+6:0:37 | [PermissionManager] Loaded UserGroups.json
+6:0:37 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+6:0:37 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+6:0:37 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+6:0:37 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+6:0:37 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+6:0:37 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+6:0:37 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+6:0:37 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+6:0:37 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+6:0:37 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+6:0:37 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+6:0:37 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+6:0:37 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+6:0:37 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+6:0:37 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+6:0:37 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+6:0:37 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+6:0:37 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+6:0:37 | Building Sets Loaded: 0
+6:0:37 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+21:39:47 | Player "RagnarokHaze" (steamId=76561198120496196) connected to server!
+21:51:44 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (Ammo_357)
+21:51:47 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (Ammo_357)
+21:53:43 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (PistolSuppressor)
+21:54:4 | "RagnarokHaze" (steamid=76561198120496196) Spawned Item: (PistolSuppressor)
+21:59:6 | Player "Demon" (steamId=76561198103590483) connected to server!
+22:2:14 | "76561198103590483" (steamid=76561198103590483) teleported to (pos=<6146.430176, 308.201630, 7880.859863>)
+22:2:14 | "Demon": (steamid=76561198103590483) teleported to (pos=6146.43,0,7880.86)
+22:2:14 | "76561198103590483" (steamid=76561198103590483) teleported to (pos=<6146.430176, 308.201630, 7880.859863>)
+22:2:14 | "Demon": (steamid=76561198103590483) teleported to (pos=6146.43,0,7880.86)
+22:2:15 | "76561198103590483" (steamid=76561198103590483) teleported to (pos=<6146.430176, 308.201630, 7880.859863>)
+22:2:15 | "Demon": (steamid=76561198103590483) teleported to (pos=6146.43,0,7880.86)
+22:2:15 | "76561198103590483" (steamid=76561198103590483) teleported to (pos=<6146.430176, 308.201630, 7880.859863>)
+22:2:15 | "Demon": (steamid=76561198103590483) teleported to (pos=6146.43,0,7880.86)
+22:2:30 | "Demon" (steamid=76561198103590483) Spawned Item: (M4A1_Black)
+22:2:31 | "Demon" (steamid=76561198103590483) Spawned Item: (M4A1_Black)
+22:2:31 | "Demon" (steamid=76561198103590483) Spawned Item: (M4A1_Black)
+22:3:39 | "Demon" (steamid=76561198103590483) Spawned Item: (AmmoBox_556x45_20Rnd)
+22:3:39 | "Demon" (steamid=76561198103590483) Spawned Item: (AmmoBox_556x45_20Rnd)
+22:3:39 | "Demon" (steamid=76561198103590483) Spawned Item: (AmmoBox_556x45_20Rnd)
+22:3:39 | "Demon" (steamid=76561198103590483) Spawned Item: (AmmoBox_556x45_20Rnd)
+22:3:40 | "Demon" (steamid=76561198103590483) Spawned Item: (AmmoBox_556x45_20Rnd)
+22:3:40 | "Demon" (steamid=76561198103590483) Spawned Item: (AmmoBox_556x45_20Rnd)
+22:3:40 | "Demon" (steamid=76561198103590483) Spawned Item: (AmmoBox_556x45_20Rnd)
+22:3:40 | "Demon" (steamid=76561198103590483) Spawned Item: (AmmoBox_556x45_20Rnd)
+22:3:40 | "Demon" (steamid=76561198103590483) Spawned Item: (AmmoBox_556x45_20Rnd)
+22:3:41 | "Demon" (steamid=76561198103590483) Spawned Item: (AmmoBox_556x45_20Rnd)
+22:3:41 | "Demon" (steamid=76561198103590483) Spawned Item: (AmmoBox_556x45_20Rnd)
+22:5:19 | "Demon" (steamid=76561198103590483) Spawned Item: (SawedoffIzh18Shotgun)
+22:5:43 | "Demon" (steamid=76561198103590483) Spawned Item: (AmmoBox_12gaSlug_10Rnd)
+22:5:43 | "Demon" (steamid=76561198103590483) Spawned Item: (AmmoBox_12gaSlug_10Rnd)
+22:5:43 | "Demon" (steamid=76561198103590483) Spawned Item: (AmmoBox_12gaSlug_10Rnd)
+22:5:43 | "Demon" (steamid=76561198103590483) Spawned Item: (AmmoBox_12gaSlug_10Rnd)
+22:5:44 | "Demon" (steamid=76561198103590483) Spawned Item: (AmmoBox_12gaSlug_10Rnd)
+22:5:44 | "Demon" (steamid=76561198103590483) Spawned Item: (AmmoBox_12gaSlug_10Rnd)
+22:5:44 | "Demon" (steamid=76561198103590483) Spawned Item: (AmmoBox_12gaSlug_10Rnd)
+22:6:37 | "Demon" (steamid=76561198103590483) Spawned Item: (Mp133Shotgun)
+22:6:37 | "Demon" (steamid=76561198103590483) Spawned Item: (Mp133Shotgun)
+22:6:37 | "Demon" (steamid=76561198103590483) Spawned Item: (Mp133Shotgun)
+22:9:5 | "Demon" (steamid=76561198103590483) toggled godmode
+22:9:16 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6068.817871, 301.270813, 7773.928711>)
+22:9:16 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6070.654785, 300.995789, 7777.188965>)
+22:9:23 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6091.464844, 300.989960, 7745.188477>)
+22:9:30 | "Demon" (steamid=76561198103590483) Spawned Item: (Animal_CapraHircusF)
+22:9:54 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6102.067871, 300.989990, 7745.753906>)
+22:12:56 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6313.976074, 292.240082, 7558.341797>)
+22:12:57 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6275.367188, 295.975403, 7596.405762>)
+22:12:57 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6189.327148, 301.929871, 7705.061035>)
+22:12:58 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6186.720703, 302.423126, 7703.626465>)
+22:12:59 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6147.951172, 303.572266, 7730.966309>)
+22:13:0 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6147.770020, 303.420441, 7730.645508>)
+22:13:1 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6142.687012, 302.839355, 7727.184082>)
+22:13:1 | "Demon" (steamid=76561198103590483) Spawned Item: (Animal_CervusElaphus)
+22:13:2 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6141.493164, 303.208344, 7727.451172>)
+22:13:3 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6048.624512, 301.007935, 7770.378418>)
+22:13:6 | "Demon" (steamid=76561198103590483) Spawned Item: (ZmbM_PolicemanFat)
+22:13:6 | "Demon" (steamid=76561198103590483) Spawned Item: (ZmbM_PolicemanFat)
+22:13:6 | "Demon" (steamid=76561198103590483) Spawned Item: (ZmbM_PolicemanFat)
+22:13:7 | "Demon" (steamid=76561198103590483) Spawned Item: (ZmbM_PolicemanFat)
+22:13:7 | "Demon" (steamid=76561198103590483) Spawned Item: (ZmbM_PolicemanFat)
+22:13:7 | "Demon" (steamid=76561198103590483) Spawned Item: (ZmbM_PolicemanFat)
+22:13:7 | "Demon" (steamid=76561198103590483) Spawned Item: (ZmbM_PolicemanFat)
+22:13:8 | "Demon" (steamid=76561198103590483) Spawned Item: (ZmbF_PoliceWomanNormal)
+22:13:9 | "Demon" (steamid=76561198103590483) Spawned Item: (ZmbM_PolicemanSpecForce_Heavy)
+22:13:9 | "Demon" (steamid=76561198103590483) Spawned Item: (ZmbM_PolicemanSpecForce_Heavy)
+22:13:9 | "Demon" (steamid=76561198103590483) Spawned Item: (ZmbM_PolicemanSpecForce_Heavy)
+22:13:10 | "Demon" (steamid=76561198103590483) Spawned Item: (ZmbM_PolicemanSpecForce_Heavy)
+22:13:10 | "Demon" (steamid=76561198103590483) Spawned Item: (ZmbM_PolicemanSpecForce_Heavy)
+22:13:10 | "Demon" (steamid=76561198103590483) Spawned Item: (ZmbM_PolicemanSpecForce_Heavy)
+22:14:27 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6212.994629, 306.189026, 7675.254395>)
+22:14:28 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6253.141113, 305.654602, 7650.882813>)
+22:14:29 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6255.316895, 301.540161, 7649.288086>)
+22:14:32 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6261.206055, 297.980011, 7640.393555>)
+22:14:33 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6268.781250, 297.882843, 7626.686035>)
+22:14:34 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6280.043457, 295.940155, 7606.581543>)
+22:14:35 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6287.530273, 295.298431, 7599.012695>)
+22:14:36 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6288.084473, 295.037933, 7589.133301>)
+22:14:37 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6292.053223, 294.708252, 7581.376953>)
+22:14:37 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6301.235840, 293.578033, 7574.775879>)
+22:14:37 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6308.145996, 293.257507, 7569.955078>)
+22:14:37 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6317.139648, 292.337311, 7563.787598>)
+22:14:38 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6329.190918, 290.677185, 7555.527832>)
+22:14:38 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6339.184082, 289.551056, 7548.620117>)
+22:14:38 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6348.214844, 288.765869, 7542.416504>)
+22:14:38 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6356.787598, 288.049133, 7536.565918>)
+22:14:38 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6369.845703, 287.489319, 7526.774414>)
+22:14:39 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6381.031250, 287.101044, 7515.802734>)
+22:14:39 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6386.089844, 288.830383, 7503.493164>)
+22:14:39 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6386.936523, 288.826141, 7507.095215>)
+22:14:40 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6926.052734, 633.308777, 6608.984375>)
+22:14:42 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6952.050293, 278.186981, 6557.429199>)
+22:15:16 | Player "Demon" (steamId=76561198103590483) initiated disconnect process...
+22:15:18 | Player "Demon" (steamId=76561198103590483) disconnected from server.
+22:15:43 | "76561198120496196" (steamid=76561198120496196) teleported to (pos=<6464.399902, 287.001312, 7426.430176>)
+22:15:43 | "RagnarokHaze": (steamid=76561198120496196) teleported to (pos=6464.4,0,7426.43)
+22:16:5 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6480.365234, 289.323242, 7371.041504>)
+22:16:6 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6488.816895, 290.234863, 7349.622559>)
+22:16:7 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6495.193848, 291.261902, 7330.240234>)
+22:16:7 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6500.911621, 292.338959, 7312.806641>)
+22:16:8 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6506.355957, 293.408112, 7297.376953>)
+22:16:8 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6513.025391, 294.599457, 7282.000488>)
+22:16:8 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6518.681152, 295.811737, 7268.542480>)
+22:16:8 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6523.584961, 297.049561, 7256.408203>)
+22:16:8 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6528.793945, 298.314972, 7243.971191>)
+22:16:9 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6535.018555, 299.577911, 7229.909180>)
+22:16:9 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6541.373535, 300.833618, 7215.708984>)
+22:16:9 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6546.521973, 302.175964, 7204.714844>)
+22:16:9 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6551.229980, 303.566162, 7196.665039>)
+22:16:10 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6556.065430, 304.783478, 7191.050781>)
+22:16:10 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6561.109375, 306.048218, 7186.386230>)
+22:16:10 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6566.289551, 307.439911, 7181.754883>)
+22:16:11 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6574.876953, 306.539856, 7186.930176>)
+22:16:11 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6578.728027, 304.921600, 7194.444336>)
+22:16:12 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6582.137695, 303.472687, 7201.728027>)
+22:16:12 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6585.355469, 302.177979, 7208.729004>)
+22:16:12 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6588.427246, 301.106567, 7215.234375>)
+22:16:12 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6591.771973, 300.131775, 7221.700684>)
+22:16:12 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6596.612305, 299.088593, 7229.019531>)
+22:16:12 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6601.213867, 298.205048, 7235.845215>)
+22:16:13 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6605.750488, 297.397186, 7242.560547>)
+22:16:13 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6610.247070, 296.653656, 7249.091309>)
+22:16:13 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6614.542480, 295.996368, 7255.427734>)
+22:16:13 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6618.761230, 295.355011, 7261.635742>)
+22:16:13 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6622.966797, 294.723785, 7267.750977>)
+22:16:14 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6627.276855, 294.060547, 7274.121582>)
+22:16:14 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6631.669434, 293.400330, 7280.545898>)
+22:16:14 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6636.118164, 292.720245, 7287.095215>)
+22:16:14 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6632.680176, 291.465424, 7299.555664>)
+22:16:15 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6628.242188, 290.382751, 7311.267090>)
+22:16:16 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6621.180176, 289.069092, 7327.712891>)
+22:16:25 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6598.967285, 287.317200, 7354.808594>)
+22:16:26 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6587.693359, 286.316742, 7370.560547>)
+22:16:26 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6580.526855, 285.661591, 7381.573730>)
+22:16:27 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6573.780762, 285.166687, 7391.924805>)
+22:16:27 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6567.488770, 284.828339, 7401.316406>)
+22:16:27 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6561.185059, 284.608124, 7410.060059>)
+22:16:27 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6555.329590, 284.470581, 7418.250000>)
+22:16:27 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6549.322266, 284.373810, 7426.218262>)
+22:16:28 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6543.289063, 284.290741, 7433.988281>)
+22:16:28 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6536.972168, 284.227753, 7441.942871>)
+22:16:31 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6533.017090, 284.938019, 7425.841309>)
+22:16:31 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6530.159668, 285.406219, 7418.005371>)
+22:16:32 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6527.613770, 285.839874, 7411.338379>)
+22:16:33 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6525.207520, 286.485718, 7401.137207>)
+22:16:33 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6521.056641, 287.024170, 7393.761230>)
+22:16:33 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6516.852539, 287.522644, 7387.401855>)
+22:16:34 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6511.548340, 288.052155, 7380.302734>)
+22:16:48 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6496.627441, 290.818939, 7336.301758>)
+22:16:49 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6493.315430, 291.529663, 7327.171875>)
+22:16:50 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6490.351074, 292.221863, 7318.800781>)
+22:16:50 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6488.008301, 292.764648, 7312.209961>)
+22:18:2 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6457.795898, 289.136871, 7389.234863>)
+22:18:2 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6459.267090, 287.550049, 7419.161621>)
+22:18:5 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6495.395508, 285.637207, 7436.502930>)
+22:18:5 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6520.396484, 284.968994, 7434.537109>)
+22:18:6 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6545.373535, 284.353058, 7430.300781>)
+22:18:6 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6571.799805, 283.745148, 7424.296875>)
+22:18:7 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6594.293945, 283.504547, 7419.142090>)
+22:18:7 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6614.483887, 283.356262, 7414.476563>)
+22:18:7 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6633.645020, 283.258514, 7410.103027>)
+22:18:7 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6653.041504, 283.165833, 7405.614258>)
+22:18:8 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<6673.065430, 283.000275, 7400.991211>)
+22:18:8 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7387.558594, 289.551331, 7258.998047>)
+22:18:8 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7401.375488, 292.039520, 7256.437988>)
+22:18:12 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7401.556152, 290.924072, 7286.178711>)
+22:18:13 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7402.918457, 290.978302, 7303.955566>)
+22:18:13 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7403.176758, 291.315582, 7335.673340>)
+22:18:13 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7403.497070, 291.935760, 7361.114258>)
+22:18:14 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7404.593750, 292.895996, 7385.158203>)
+22:18:14 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7408.276367, 294.276001, 7406.713379>)
+22:18:24 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7389.138672, 294.173035, 7426.560547>)
+22:18:28 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7385.937500, 295.737366, 7449.724609>)
+22:18:28 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7380.575684, 295.817261, 7456.432617>)
+22:18:29 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7373.054199, 295.625885, 7462.706055>)
+22:18:29 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7365.700195, 295.260071, 7467.001953>)
+22:18:29 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7358.551270, 294.824890, 7470.295898>)
+22:18:30 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7351.369629, 294.328949, 7473.252441>)
+22:18:30 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7344.341309, 293.813934, 7475.812012>)
+22:18:30 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7336.797363, 293.221588, 7478.470703>)
+22:18:30 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7329.520020, 292.663849, 7481.046387>)
+22:18:30 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7322.306641, 292.136017, 7483.615234>)
+22:18:31 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7315.064941, 291.611053, 7486.143555>)
+22:18:32 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7304.337402, 290.646637, 7487.066406>)
+22:18:32 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7299.193848, 290.013947, 7486.097168>)
+22:18:33 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7294.661133, 289.294952, 7483.868164>)
+22:18:33 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7289.789063, 288.322083, 7479.935547>)
+22:18:35 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7284.777832, 286.413605, 7467.085449>)
+22:18:35 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7284.888184, 285.811554, 7460.803711>)
+22:18:35 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7286.147949, 285.389679, 7454.786621>)
+22:18:35 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7289.321289, 285.148590, 7447.815918>)
+22:18:36 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7292.214355, 285.040527, 7442.256836>)
+22:18:36 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7292.667480, 284.280731, 7431.952637>)
+22:18:36 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7292.258301, 283.496674, 7422.847656>)
+22:18:36 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7291.784180, 282.532196, 7412.931641>)
+22:18:37 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7289.655762, 281.096375, 7402.139648>)
+22:18:37 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7286.633789, 279.277893, 7390.608887>)
+22:18:37 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7287.780762, 278.411804, 7381.494629>)
+22:18:37 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7290.060547, 277.976440, 7374.053711>)
+22:18:38 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7293.456543, 277.779358, 7366.723145>)
+22:18:38 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7297.217773, 277.706787, 7359.608887>)
+22:18:38 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7302.828125, 277.927673, 7352.387695>)
+22:18:38 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7309.035645, 278.298370, 7345.622070>)
+22:18:38 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7315.431152, 278.730865, 7338.820801>)
+22:18:39 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7321.546387, 279.216522, 7332.398926>)
+22:18:39 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7327.309570, 279.761963, 7326.314453>)
+22:18:39 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7335.136230, 280.873901, 7323.662109>)
+22:18:39 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7343.618164, 282.280090, 7323.953613>)
+22:18:39 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7351.899902, 283.664886, 7325.063477>)
+22:18:40 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7360.214355, 285.041321, 7326.839844>)
+22:18:40 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7367.892578, 286.326141, 7329.178711>)
+22:18:40 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7375.315918, 287.544647, 7332.529297>)
+22:18:40 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7382.979492, 288.722748, 7336.694336>)
+22:18:40 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7390.484375, 289.865234, 7341.759766>)
+22:18:41 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7398.151367, 290.986725, 7347.436523>)
+22:18:41 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7406.354004, 292.046753, 7353.582520>)
+22:18:41 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7415.173828, 293.050781, 7360.253418>)
+22:18:41 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7423.612793, 293.993774, 7367.405762>)
+22:18:41 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7431.641113, 294.953003, 7374.432617>)
+22:18:42 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7439.335449, 295.949036, 7381.291016>)
+22:18:42 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7446.732910, 296.947876, 7387.890137>)
+22:18:42 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7454.327637, 297.989746, 7394.625977>)
+22:18:42 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7461.786133, 298.990082, 7401.313965>)
+22:18:42 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7469.962402, 300.007324, 7408.561035>)
+22:18:43 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7477.466797, 301.006866, 7415.246582>)
+22:18:43 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7484.071289, 302.133850, 7421.177246>)
+22:18:43 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7490.071777, 303.367035, 7426.478516>)
+22:18:43 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7497.272461, 304.666168, 7428.801270>)
+22:18:43 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7505.521484, 305.948303, 7428.226563>)
+22:18:44 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7514.028809, 307.197205, 7426.565430>)
+22:18:44 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7522.428223, 308.407745, 7424.668945>)
+22:18:44 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7531.450684, 309.952332, 7426.890625>)
+22:18:44 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7538.784180, 311.692719, 7434.481445>)
+22:18:44 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7541.477539, 313.046356, 7443.950195>)
+22:18:45 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7542.732910, 314.260345, 7452.903320>)
+22:18:45 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7543.061035, 315.357513, 7461.644531>)
+22:18:45 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7543.240234, 316.436340, 7470.002441>)
+22:18:45 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7543.378906, 317.435944, 7477.996094>)
+22:18:46 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7544.265625, 318.821014, 7483.086914>)
+22:18:46 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7545.684082, 320.286743, 7489.342285>)
+22:18:46 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7547.413086, 321.428284, 7496.360352>)
+22:18:46 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7554.014160, 321.305176, 7521.792480>)
+22:18:50 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7537.288086, 320.075165, 7532.661621>)
+22:18:53 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7216.514160, 298.064819, 7608.464355>)
+22:18:54 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7216.919434, 297.320068, 7609.101074>)
+22:18:55 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7217.457520, 296.918121, 7609.478516>)
+22:18:55 | "RagnarokHaze" (steamid=76561198120496196) teleported to crosshair (pos=<7209.915527, 299.183228, 7610.088867>)
+22:19:14 | Player "RagnarokHaze" (steamId=76561198120496196) initiated disconnect process...
+22:19:15 | Player "RagnarokHaze" (steamId=76561198120496196) disconnected early from server (EXIT NOW).
+22:19:16 | Player "RagnarokHaze" (steamId=76561198120496196) disconnected from server.

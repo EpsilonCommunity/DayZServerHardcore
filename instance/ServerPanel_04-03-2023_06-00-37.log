@@ -1,0 +1,8 @@
+---------------------------------------------
+ServerPanel log started at 04.03.2023 06:00:37
+
+04.03.2023 06:00:37 [ServerPanelLogger]: INFO: Will try to create ServerPanel log file in $profile:
+04.03.2023 06:00:37 [ServerPanelConfig]: Reading Server Config
+04.03.2023 06:00:37 [ServerPanelConfig]: ConfigRequest
+04.03.2023 21:39:37 [ServerPanelI]: RagnarokHaze (LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ=) - Config sync
+04.03.2023 21:59:04 [ServerPanelI]: Demon (AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) - Config sync

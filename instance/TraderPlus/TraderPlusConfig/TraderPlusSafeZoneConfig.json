@@ -1,33 +1,27 @@
 {
     "Version": "2.5",
-    "IsHideOutActive": 0,
-    "EnableAfkDisconnect": 0,
+    "IsHideOutActive": 1,
+    "EnableAfkDisconnect": 1,
     "KickAfterDelay": 30,
-    "MsgEnterZone": "YOU HAVE ENTERED THE SAFEZONE!",
-    "MsgExitZone": "YOU HAVE LEFT THE SAFEZONE!",
-    "MsgOnLeavingZone": "LEAVING ZONE IN:",
+    "MsgEnterZone": "Welcome, to the Traders!",
+    "MsgExitZone": "Goodbye, You're leaving the Traders!",
+    "MsgOnLeavingZone": "LEAVING Traders IN:",
     "MustRemoveArmband": "You must remove your armband in order to make your stash appear !",
     "SafeAreaLocation": [
         {
             "SafeZoneStatut": "Trader",
             "X": 11595.0,
             "Y": 14688.0,
-            "Radius": 200.0,
+            "Radius": 50.0,
             "Countdown": 30
         }
     ],
     "CleanUpTimer": 1200,
     "WhitelistEntities": [],
-    "ObjectsToDelete": [
-        "Paper"
-    ],
+    "ObjectsToDelete": [],
     "SZSteamUIDs": [
-        "76561198047475651",
-        "76561198047123456"
+        "",
+        ""
     ],
-    "BlackListedItemInStash": [
-        "Apple",
-        "Plum",
-        "Plier"
-    ]
+    "BlackListedItemInStash": []
 }

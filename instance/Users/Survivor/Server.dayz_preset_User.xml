@@ -881,25 +881,6 @@
             <event name="doubleclick" />
         </btn>
     </input>
-    <input name="UABBPRotate">
-        <btn name="kUp" />
-    </input>
-    <input name="UACycleSize">
-        <btn name="kLeft" />
-    </input>
-    <input name="UANextSnap">
-        <btn name="mWheelUp" />
-    </input>
-    <input name="UAPrevSnap">
-        <btn name="mWheelDown" />
-    </input>
-    <input name="UASnapLook">
-        <btn name="kDown" />
-    </input>
-    <input name="UABBPTogInv" />
-    <input name="UASchanaCompassToggle">
-        <btn name="kH" />
-    </input>
     <input name="UATogglePlayerControls">
         <btn name="kSpace" />
     </input>
@@ -1011,29 +992,20 @@
     <input name="UAToggleInvis">
         <btn name="kI" />
     </input>
+    <input name="SPOpenPanelMenu">
+        <btn name="kPause" />
+    </input>
+    <input name="UACarLockToggle">
+        <btn name="kU" />
+    </input>
+    <input name="UAToggleNotifcationSound">
+        <btn name="kRBracket" />
+    </input>
     <input name="UABasicMap">
         <btn name="kM" />
     </input>
     <input name="UABasicMap3DMarkers">
         <btn name="kK" />
-    </input>
-    <input name="UABasicSpawnSelection">
-        <btn name="kJ" />
-    </input>
-    <input name="UAToggleNotifcationSound">
-        <btn name="kRBracket" />
-    </input>
-    <input name="UASchanaPartyMenu">
-        <btn name="kP" />
-    </input>
-    <input name="UASchanaPartyPing">
-        <btn name="kT" />
-    </input>
-    <input name="UASchanaPartyPingClear">
-        <btn name="kY" />
-    </input>
-    <input name="SPOpenPanelMenu">
-        <btn name="kPause" />
     </input>
     <controller name="PCKeyboard">
         <limit name="doubleclick" value="0.500000" />

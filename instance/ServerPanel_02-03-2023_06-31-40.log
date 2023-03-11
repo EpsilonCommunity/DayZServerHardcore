@@ -1,0 +1,22 @@
+---------------------------------------------
+ServerPanel log started at 02.03.2023 06:31:40
+
+02.03.2023 06:31:40 [ServerPanelLogger]: INFO: Will try to create ServerPanel log file in $profile:
+02.03.2023 06:31:40 [ServerPanelConfig]: Reading Server Config
+02.03.2023 06:31:40 [ServerPanelConfig]: ConfigRequest
+02.03.2023 14:46:30 [ServerPanelI]: RagnarokHaze (LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ=) - Config sync
+02.03.2023 20:09:47 [ServerPanelI]: Cappy (o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) - Config sync
+02.03.2023 20:10:22 [ServerPanelI]: RagnarokHaze (LzOLSM35tEk65hv7vEBmJ0AtF4UnrPAB6euQoKarWFQ=) - Config sync
+02.03.2023 20:14:27 [ServerPanelI]: Cappy (o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) - Config sync
+02.03.2023 21:05:44 [ServerPanelI]: goof (AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) - Config sync
+02.03.2023 23:22:05 [ServerPanelI]: goof (AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) - Config sync
+02.03.2023 23:25:33 [ServerPanelI]: goof (AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) - Player Stats sync
+02.03.2023 23:35:48 [ServerPanelI]: goof (AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) - Player Stats sync
+02.03.2023 23:36:41 [ServerPanelI]: goof (AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) - Player Stats sync
+02.03.2023 23:54:02 [ServerPanelI]: goof (AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) - Player Stats sync
+02.03.2023 23:54:04 [ServerPanelI]: goof (AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) - Player Stats sync
+02.03.2023 23:54:09 [ServerPanelI]: goof (AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) - Player Stats sync
+02.03.2023 23:54:10 [ServerPanelI]: goof (AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) - Player Stats sync
+02.03.2023 23:54:11 [ServerPanelI]: goof (AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) - Player Stats sync
+02.03.2023 23:58:01 [ServerPanelI]: goof (AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) - Player Stats sync
+03.03.2023 00:14:21 [ServerPanelI]: goof (AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) - Config sync

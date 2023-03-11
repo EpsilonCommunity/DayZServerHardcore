@@ -1,0 +1,6 @@
+---------------------------------------------
+ServerPanel log started at 05.03.2023 06:00:25
+
+05.03.2023 06:00:25 [ServerPanelLogger]: INFO: Will try to create ServerPanel log file in $profile:
+05.03.2023 06:00:25 [ServerPanelConfig]: Reading Server Config
+05.03.2023 06:00:25 [ServerPanelConfig]: ConfigRequest

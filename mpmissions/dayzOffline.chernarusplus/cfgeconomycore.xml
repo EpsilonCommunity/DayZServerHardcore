@@ -44,8 +44,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
   <file name="types_tools.xml" type="types" />
   <file name="types_vehiclesparts.xml" type="types" />
   <file name="types_weapons.xml" type="types" />
+  <file name="types_money.xml" type="types" />
   <file name="types_bbp.xml" type="types" />
-</ce>
-<ce folder="TraderPlus_ce">
- <file name="TraderPlus_types.xml" type="types" />
 </ce>

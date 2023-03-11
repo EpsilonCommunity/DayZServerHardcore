@@ -1,0 +1,7 @@
+---------------------------------------------
+ServerPanel log started at 06.03.2023 02:19:51
+
+06.03.2023 02:19:51 [ServerPanelLogger]: INFO: Will try to create ServerPanel log file in $profile:
+06.03.2023 02:19:51 [ServerPanelConfig]: Reading Server Config
+06.03.2023 02:19:51 [ServerPanelConfig]: ConfigRequest
+06.03.2023 02:29:09 [ServerPanelI]: Cappy (o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) - Config sync

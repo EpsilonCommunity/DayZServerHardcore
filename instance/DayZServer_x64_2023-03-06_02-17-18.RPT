@@ -1,0 +1,212 @@
+
+
+=====================================================================
+== C:\TCAFiles\Users\admin\1\DayZServer_x64.exe
+== "C:\TCAFiles\Users\admin\1\DayZServer_x64.exe" -ip=192.168.1.90 -port=2302 -mod=@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; -config=serverdz.cfg -bepath=C:\TCAFiles\Users\admin\1\Battleye -profiles=C:\TCAFiles\Users\admin\1\instance -autoinit -noFilePatching 
+=====================================================================
+Exe timestamp: 2023/03/01 21:33:46
+Current time:  2023/03/06 02:17:21
+
+Version 1.20.155844
+ 2:17:21.499 [Inputs] Loading inputs default "bin/constants.xml"
+ 2:17:21.502 [Inputs] Loading inputs default "bin/specific.xml"
+ 2:17:21.502 [Inputs] Loading inputs default "Autorun_Mod/scripts/data/inputs.xml"
+ 2:17:21.503 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+ 2:17:21.504 [Inputs] Loading inputs default "CarLock/scripts/3_Game/inputs.xml"
+ 2:17:21.504 [Inputs] Loading inputs default "Notifications/inputs/inputs.xml"
+ 2:17:21.504 [Inputs] Loading inputs default "ServerPanel/SP_inputs.xml"
+ 2:17:21.505 [Inputs] Loading inputs cfg "C:\TCAFiles\Users\admin\1\instance\Users\Survivor\Server.core.xml"
+ 2:17:21.508 [Inputs] Exporting inputs cfg "C:\TCAFiles\Users\admin\1\instance\Users\Survivor\Server.core.xml"
+ 2:17:33.152 [CE][Hive] :: Initializing OFFLINE
+ 2:17:33.152 [StorageDirs] :: Selected storage directory: C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\
+ 2:17:33.152 [CE][Hive] :: Loading core data ... 
+ 2:17:33.153 [CE][CoreData] :: 7 root classes, 18 defaults, 0 updaters...
+ 2:17:36.718 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+ 2:17:36.720 [CE][TypeSetup] :: 505 classes setuped...
+ 2:17:37.645 [CE][RegisterBind] :: 0 classes binded...
+ 2:17:37.645 [CE][RegisterConfig] :: 10905 config classes registered, 0 sub-counters...
+ 2:17:37.645 [CE][Hive] :: Loading map data ... 
+ 2:17:37.646 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.691 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.692 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.693 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.693 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.693 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.693 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.693 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.693 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 2:17:37.693 [CE][LoadPrototype] :: loaded 413 prototypes
+ 2:17:37.693   799 containers, 10069 points
+ 2:17:37.693   66 dispatches, 239 proxies
+ 2:17:37.693 !!! [CE][LoadPrototype] 5 groups have no points...
+ 2:17:37.693 [CE][LoadPrototype] :: last group name: Land_Wreck_sed02_aban2_red_DE...
+ 2:17:37.697 [CE][LoadPrototype] :: loaded 0 prototypes
+ 2:17:37.697   55 containers, 232 points
+ 2:17:37.697   0 dispatches, 0 proxies
+ 2:17:37.697 [CE][LoadPrototype] :: last group name: Rail9...
+ 2:17:38.588 [CE][LoadMap] "Group" :: loaded 11699 groups, groups failed: 0, largest group range: 34.2
+ 2:17:38.592 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.2
+ 2:17:38.825 [CE][Links] found 1906 total links between groups, of 11699
+ 2:17:38.825 [CE][LoadClusters] "Cluster" :: Loading files...
+ 2:17:39.11 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+ 2:17:39.207 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+ 2:17:39.407 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+ 2:17:39.607 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+ 2:17:39.684 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17347 instances
+ 2:17:39.688 [CE][Storage] ver:21 stamp:5386, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin"
+ 2:17:39.689 [CE][Storage] ver:21 stamp:5384, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.001"
+ 2:17:39.691 [CE][Storage] ver:21 stamp:5385, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.002"
+ 2:17:39.691 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\types.bin".
+ 2:17:39.758 !!! [CE][offlineDB] :: No Shutdown message present.
+ 2:17:39.761 [CE][offlineDB] :: Loaded 47 dynamic events 225 total types.
+ 2:17:39.792 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+ 2:17:39.965 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+ 2:17:39.965 [CE][DE][SPAWNS] :: Total positions: 929
+ 2:17:39.965 [CE][DE][GROUPS] :: Total eventgroups defined: 83, Eventgroups in use: 83
+ 2:17:39.966 [CE][Storage] ver:21 stamp:5386, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin"
+ 2:17:39.967 [CE][Storage] ver:21 stamp:5384, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.001"
+ 2:17:39.968 [CE][Storage] ver:21 stamp:5385, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.002"
+ 2:17:39.968 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\events.bin".
+ 2:17:39.968 [CE][DynamicEvent] Load  Events:[47] Primary spawners: 47 Secondary spawners: 4
+ 2:17:39.968 [CE][InfectedRespawner] (PRIArmy) :: Status
+ 2:17:39.968   Zones:30, Unpopulated:0
+ 2:17:39.968   SMin:10, SMax:20
+ 2:17:39.968   DMin:185, DMax:263
+ 2:17:39.968 [CE][InfectedRespawner] (PRIArmyHard) :: Status
+ 2:17:39.968   Zones:15, Unpopulated:0
+ 2:17:39.968   SMin:56, SMax:80
+ 2:17:39.968   DMin:121, DMax:163
+ 2:17:39.968 [CE][InfectedRespawner] (PRICity) :: Status
+ 2:17:39.968   Zones:36, Unpopulated:0
+ 2:17:39.968   SMin:0, SMax:0
+ 2:17:39.968   DMin:162, DMax:249
+ 2:17:39.968 [CE][InfectedRespawner] (PRICityTier1) :: Status
+ 2:17:39.968   Zones:89, Unpopulated:0
+ 2:17:39.968   SMin:0, SMax:0
+ 2:17:39.968   DMin:427, DMax:656
+ 2:17:39.968 [CE][InfectedRespawner] (PRIFirefighter) :: Status
+ 2:17:39.968   Zones:8, Unpopulated:0
+ 2:17:39.968   SMin:0, SMax:0
+ 2:17:39.968   DMin:24, DMax:40
+ 2:17:39.968 [CE][InfectedRespawner] (PRIIndustrial) :: Status
+ 2:17:39.968   Zones:66, Unpopulated:0
+ 2:17:39.968   SMin:0, SMax:0
+ 2:17:39.968   DMin:293, DMax:528
+ 2:17:39.968 [CE][InfectedRespawner] (PRIMedic) :: Status
+ 2:17:39.968   Zones:23, Unpopulated:0
+ 2:17:39.968   SMin:0, SMax:0
+ 2:17:39.968   DMin:69, DMax:115
+ 2:17:39.968 [CE][InfectedRespawner] (PRINBC) :: Status
+ 2:17:39.968   Zones:4, Unpopulated:0
+ 2:17:39.968   SMin:16, SMax:20
+ 2:17:39.968   DMin:7, DMax:14
+ 2:17:39.968 [CE][InfectedRespawner] (PRINBCYellow) :: Zones:0 Respawner Function DISABLED !!!
+ 2:17:39.968 [CE][InfectedRespawner] (PRIPolice) :: Status
+ 2:17:39.968   Zones:21, Unpopulated:0
+ 2:17:39.968   SMin:0, SMax:0
+ 2:17:39.968   DMin:63, DMax:105
+ 2:17:39.968 [CE][InfectedRespawner] (PRIPoliceHard) :: Zones:0 Respawner Function DISABLED !!!
+ 2:17:39.968 [CE][InfectedRespawner] (PRIPrisoner) :: Status
+ 2:17:39.968   Zones:2, Unpopulated:0
+ 2:17:39.968   SMin:0, SMax:0
+ 2:17:39.968   DMin:16, DMax:24
+ 2:17:39.968 [CE][InfectedRespawner] (PRIReligious) :: Status
+ 2:17:39.968   Zones:35, Unpopulated:0
+ 2:17:39.968   SMin:0, SMax:0
+ 2:17:39.968   DMin:41, DMax:112
+ 2:17:39.968 [CE][InfectedRespawner] (PRISanta) :: Zones:0 Respawner Function DISABLED !!!
+ 2:17:39.968 [CE][InfectedRespawner] (PRISolitude) :: Status
+ 2:17:39.968   Zones:153, Unpopulated:0
+ 2:17:39.968   SMin:0, SMax:0
+ 2:17:39.968   DMin:261, DMax:657
+ 2:17:39.968 [CE][InfectedRespawner] (PRIVillage) :: Status
+ 2:17:39.968   Zones:190, Unpopulated:0
+ 2:17:39.969   SMin:0, SMax:0
+ 2:17:39.969   DMin:1014, DMax:1616
+ 2:17:39.969 [CE][InfectedRespawner] (PRIVillageTier1) :: Status
+ 2:17:39.969   Zones:85, Unpopulated:0
+ 2:17:39.969   SMin:0, SMax:0
+ 2:17:39.969   DMin:373, DMax:621
+ 2:17:39.969 [CE][InfectedRespawner] (SECArmy) :: Zones:0 Respawner Function DISABLED !!!
+ 2:17:39.969 [CE][InfectedRespawner] (SECArmy) :: Zones:0 Respawner Function DISABLED !!!
+ 2:17:39.969 [CE][InfectedRespawner] (SECPoliceHard) :: Zones:0 Respawner Function DISABLED !!!
+ 2:17:39.969 [CE][InfectedRespawner] (SECIndustrial) :: Zones:0 Respawner Function DISABLED !!!
+ 2:17:39.970 [CE][Storage] ver:25 stamp:5386, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin"
+ 2:17:39.971 [CE][Storage] ver:25 stamp:5384, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.001"
+ 2:17:39.972 [CE][Storage] ver:25 stamp:5385, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.002"
+ 2:17:39.972 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_000.bin" 809 items.
+ 2:17:40.41 !!! Scripted variables corrupted upon "ChernarusMap"
+ 2:17:40.107 !!! Scripted variables corrupted upon "ChernarusMap"
+ 2:17:40.116 !!! Scripted variables corrupted upon "ChernarusMap"
+ 2:17:40.257 !!! Scripted variables corrupted upon "ChernarusMap"
+ 2:17:40.286 !!! Scripted variables corrupted upon "ChernarusMap"
+ 2:17:40.311 !!! Scripted variables corrupted upon "ChernarusMap"
+ 2:17:40.351   809 items loaded. (0 failed)
+ 2:17:40.360 [CE][Storage] ver:25 stamp:5386, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin"
+ 2:17:40.361 [CE][Storage] ver:25 stamp:5384, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.001"
+ 2:17:40.425 [CE][Storage] ver:25 stamp:5385, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.002"
+ 2:17:40.425 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_001.bin" 1324 items.
+ 2:17:40.471 !!! Scripted variables corrupted upon "ChernarusMap"
+ 2:17:40.610 !!! Scripted variables corrupted upon "ChernarusMap"
+ 2:17:40.633 !!! Scripted variables corrupted upon "ChernarusMap"
+ 2:17:40.850 !!! Scripted variables corrupted upon "ChernarusMap"
+ 2:17:40.867   1324 items loaded. (0 failed)
+ 2:17:40.868 [CE][Storage] ver:25 stamp:5386, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin"
+ 2:17:40.869 [CE][Storage] ver:25 stamp:5384, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.001"
+ 2:17:40.870 [CE][Storage] ver:25 stamp:5385, valid:yes, name:"C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.002"
+ 2:17:40.870 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\mpmissions\dayzOffline.chernarusplus\storage_1\data\dynamic_002.bin" 2211 items.
+ 2:17:41.52 !!! Serious stream damage detected during load, file offset: 17c0b
+ 2:17:41.56 !!! Scripted variables corrupted upon "ChernarusMap"
+ 2:17:41.113 !!! Scripted variables corrupted upon "ChernarusMap"
+ 2:17:41.455 !!! Serious stream damage detected during load, file offset: 4e5f4
+ 2:17:41.456 !!! Scripted variables corrupted upon "ChernarusMap"

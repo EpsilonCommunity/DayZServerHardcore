@@ -58,7 +58,7 @@
     "ShowSelfOnMap": 1,
     "RequireMapItemInInventory": 1,
     "OnlyOnOpenAction": 0,
-    "RequirePenToMark": 1,
+    "RequirePenToMark": 0,
     "SaveMarkersToMapItem": 1,
     "RequireCompassToSeeSelf": 1,
     "RequireCompassToSee3d": 1

@@ -1,0 +1,555 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\admin\1\instance\crash_2023-03-06_02-18-15.log started at 06.03. 02:18:39
+
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "CivilianSedan".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "CivilianSedan".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Hatchback_02".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Hatchback_02".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Hatchback_02_Black".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "OffroadHatchback".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "OffroadHatchback_Blue".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "OffroadHatchback_White".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "OffroadHatchback_Blue".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Sedan_02_Red".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Sedan_02".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Sedan_02_Grey".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered_Orange".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered_Blue".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered_Orange".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "CivilianSedan_Black".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "OffroadHatchback".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "CivilianSedan_Black".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "CivilianSedan_Wine".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered_Orange".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Sedan_02_Grey".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "OffroadHatchback".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Sedan_02_Red".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Hatchback_02".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered_Blue".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Offroad_02".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Offroad_02".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Hatchback_02".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered_Orange".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered_Blue".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Offroad_02".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Sedan_02_Grey".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Sedan_02_Grey".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered_Orange".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "CivilianSedan".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Hatchback_02_Blue".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "CivilianSedan_Black".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Sedan_02".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "OffroadHatchback".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "CivilianSedan_Wine".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Hatchback_02_Black".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Hatchback_02_Black".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:18:39
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "OffroadHatchback_White".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  

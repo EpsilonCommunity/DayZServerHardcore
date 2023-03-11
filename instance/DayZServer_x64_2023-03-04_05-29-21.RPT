@@ -1,0 +1,1929 @@
+
+
+=====================================================================
+== C:\TCAFiles\Users\admin\1\DayZServer_x64.exe
+== "C:\TCAFiles\Users\admin\1\DayZServer_x64.exe" -ip=192.168.1.90 -port=2302 "-mod=@Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items" -config=serverdz.cfg -bepath=C:\TCAFiles\Users\admin\1\Battleye -storage=C:\TCAFiles\Users\admin\1\storage -profiles=C:\TCAFiles\Users\admin\1\instance -autoinit -noFilePatching
+=====================================================================
+Exe timestamp: 2023/03/01 21:33:46
+Current time:  2023/03/04 05:29:26
+
+Version 1.20.155844
+ 5:29:26.228 [Inputs] Loading inputs default "bin/constants.xml"
+ 5:29:26.231 [Inputs] Loading inputs default "bin/specific.xml"
+ 5:29:26.232 [Inputs] Loading inputs default "Autorun_Mod/scripts/data/inputs.xml"
+ 5:29:26.232 [Inputs] Loading inputs default "BBP_keybind/data/modded_Inputs.xml"
+ 5:29:26.232 [Inputs] Loading inputs default "SchanaModCompass/Data/Inputs.xml"
+ 5:29:26.233 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+ 5:29:26.233 [Inputs] Loading inputs default "BasicMap/data/Inputs.xml"
+ 5:29:26.234 [Inputs] Loading inputs default "BasicSpawnSelect/data/inputs.xml"
+ 5:29:26.234 [Inputs] Loading inputs default "Notifications/inputs/inputs.xml"
+ 5:29:26.234 [Inputs] Loading inputs default "SchanaModParty/Data/Inputs.xml"
+ 5:29:26.234 [Inputs] Loading inputs default "ServerPanel/SP_inputs.xml"
+ 5:29:26.235 !!! [Inputs] Cannot load inputs default "", file does not exist
+ 5:29:26.235 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+ 5:29:26.235 [Inputs] Loading inputs cfg "C:\TCAFiles\Users\admin\1\instance\Users\Survivor\Server.core.xml"
+ 5:29:26.248 [Inputs] Exporting inputs cfg "C:\TCAFiles\Users\admin\1\instance\Users\Survivor\Server.core.xml"
+ 5:29:39.203 [CE][Hive] :: Initializing OFFLINE
+ 5:29:39.203 [StorageDirs] :: Selected storage directory: C:\TCAFiles\Users\admin\1\storage\storage_1\
+ 5:29:39.203 [CE][Hive] :: Loading core data ... 
+ 5:29:39.208 [CE][CoreData] :: 7 root classes, 18 defaults, 0 updaters...
+ 5:29:42.569 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+ 5:29:42.571 [CE][TypeSetup] :: 505 classes setuped...
+ 5:29:43.506 [CE][RegisterBind] :: 0 classes binded...
+ 5:29:43.506 [CE][RegisterConfig] :: 11184 config classes registered, 0 sub-counters...
+ 5:29:43.506 [CE][Hive] :: Loading map data ... 
+ 5:29:43.511 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.573 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.574 !!! [CE] :: Unknown category: 'vehicleparts'.
+ 5:29:43.575 [CE][LoadPrototype] :: loaded 413 prototypes
+ 5:29:43.575   799 containers, 10069 points
+ 5:29:43.575   66 dispatches, 239 proxies
+ 5:29:43.575 !!! [CE][LoadPrototype] 5 groups have no points...
+ 5:29:43.575 [CE][LoadPrototype] :: last group name: Land_Wreck_sed02_aban2_red_DE...
+ 5:29:43.582 [CE][LoadPrototype] :: loaded 0 prototypes
+ 5:29:43.582   55 containers, 232 points
+ 5:29:43.582   0 dispatches, 0 proxies
+ 5:29:43.582 [CE][LoadPrototype] :: last group name: Rail9...
+ 5:29:44.192 [CE][LoadMap] "Group" :: loaded 11699 groups, groups failed: 0, largest group range: 34.2
+ 5:29:44.199 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.2
+ 5:29:44.422 [CE][Links] found 1906 total links between groups, of 11699
+ 5:29:44.422 [CE][LoadClusters] "Cluster" :: Loading files...
+ 5:29:44.637 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+ 5:29:44.867 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+ 5:29:45.96 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+ 5:29:45.322 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+ 5:29:45.411 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17347 instances
+ 5:29:45.419 [CE][Storage] ver:21 stamp:7953, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\types.bin"
+ 5:29:45.423 [CE][Storage] ver:21 stamp:7951, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\types.001"
+ 5:29:45.426 [CE][Storage] ver:21 stamp:7949, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\types.002"
+ 5:29:45.426 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\storage\storage_1\data\types.bin".
+ 5:29:45.497 !!! [CE][offlineDB] :: No Shutdown message present.
+ 5:29:45.505 [CE][offlineDB] :: Loaded 47 dynamic events 225 total types.
+ 5:29:45.539 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+ 5:29:45.738 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+ 5:29:45.738 [CE][DE][SPAWNS] :: Total positions: 929
+ 5:29:45.738 [CE][DE][GROUPS] :: Total eventgroups defined: 83, Eventgroups in use: 83
+ 5:29:45.742 [CE][Storage] ver:21 stamp:7953, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\events.bin"
+ 5:29:45.745 [CE][Storage] ver:21 stamp:7951, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\events.001"
+ 5:29:45.748 [CE][Storage] ver:21 stamp:7949, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\events.002"
+ 5:29:45.748 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\storage\storage_1\data\events.bin".
+ 5:29:45.748 [CE][DynamicEvent] Load  Events:[47] Primary spawners: 47 Secondary spawners: 4
+ 5:29:45.748 [CE][InfectedRespawner] (PRIArmy) :: Status
+ 5:29:45.748   Zones:30, Unpopulated:0
+ 5:29:45.748   SMin:10, SMax:20
+ 5:29:45.748   DMin:185, DMax:263
+ 5:29:45.748 [CE][InfectedRespawner] (PRIArmyHard) :: Status
+ 5:29:45.748   Zones:15, Unpopulated:0
+ 5:29:45.748   SMin:56, SMax:80
+ 5:29:45.748   DMin:121, DMax:163
+ 5:29:45.748 [CE][InfectedRespawner] (PRICity) :: Status
+ 5:29:45.748   Zones:36, Unpopulated:0
+ 5:29:45.748   SMin:0, SMax:0
+ 5:29:45.748   DMin:162, DMax:249
+ 5:29:45.748 [CE][InfectedRespawner] (PRICityTier1) :: Status
+ 5:29:45.748   Zones:89, Unpopulated:0
+ 5:29:45.748   SMin:0, SMax:0
+ 5:29:45.748   DMin:427, DMax:656
+ 5:29:45.748 [CE][InfectedRespawner] (PRIFirefighter) :: Status
+ 5:29:45.748   Zones:8, Unpopulated:0
+ 5:29:45.748   SMin:0, SMax:0
+ 5:29:45.748   DMin:24, DMax:40
+ 5:29:45.748 [CE][InfectedRespawner] (PRIIndustrial) :: Status
+ 5:29:45.748   Zones:66, Unpopulated:0
+ 5:29:45.748   SMin:0, SMax:0
+ 5:29:45.748   DMin:293, DMax:528
+ 5:29:45.748 [CE][InfectedRespawner] (PRIMedic) :: Status
+ 5:29:45.748   Zones:23, Unpopulated:0
+ 5:29:45.748   SMin:0, SMax:0
+ 5:29:45.748   DMin:69, DMax:115
+ 5:29:45.748 [CE][InfectedRespawner] (PRINBC) :: Status
+ 5:29:45.748   Zones:4, Unpopulated:0
+ 5:29:45.748   SMin:16, SMax:20
+ 5:29:45.748   DMin:7, DMax:14
+ 5:29:45.748 [CE][InfectedRespawner] (PRINBCYellow) :: Zones:0 Respawner Function DISABLED !!!
+ 5:29:45.748 [CE][InfectedRespawner] (PRIPolice) :: Status
+ 5:29:45.748   Zones:21, Unpopulated:0
+ 5:29:45.748   SMin:0, SMax:0
+ 5:29:45.748   DMin:63, DMax:105
+ 5:29:45.748 [CE][InfectedRespawner] (PRIPoliceHard) :: Zones:0 Respawner Function DISABLED !!!
+ 5:29:45.748 [CE][InfectedRespawner] (PRIPrisoner) :: Status
+ 5:29:45.748   Zones:2, Unpopulated:0
+ 5:29:45.748   SMin:0, SMax:0
+ 5:29:45.749   DMin:16, DMax:24
+ 5:29:45.749 [CE][InfectedRespawner] (PRIReligious) :: Status
+ 5:29:45.749   Zones:35, Unpopulated:0
+ 5:29:45.749   SMin:0, SMax:0
+ 5:29:45.749   DMin:41, DMax:112
+ 5:29:45.749 [CE][InfectedRespawner] (PRISanta) :: Zones:0 Respawner Function DISABLED !!!
+ 5:29:45.749 [CE][InfectedRespawner] (PRISolitude) :: Status
+ 5:29:45.749   Zones:153, Unpopulated:0
+ 5:29:45.749   SMin:0, SMax:0
+ 5:29:45.749   DMin:261, DMax:657
+ 5:29:45.749 [CE][InfectedRespawner] (PRIVillage) :: Status
+ 5:29:45.749   Zones:190, Unpopulated:0
+ 5:29:45.749   SMin:0, SMax:0
+ 5:29:45.749   DMin:1014, DMax:1616
+ 5:29:45.749 [CE][InfectedRespawner] (PRIVillageTier1) :: Status
+ 5:29:45.749   Zones:85, Unpopulated:0
+ 5:29:45.749   SMin:0, SMax:0
+ 5:29:45.749   DMin:373, DMax:621
+ 5:29:45.749 [CE][InfectedRespawner] (SECArmy) :: Zones:0 Respawner Function DISABLED !!!
+ 5:29:45.750 [CE][InfectedRespawner] (SECArmy) :: Zones:0 Respawner Function DISABLED !!!
+ 5:29:45.750 [CE][InfectedRespawner] (SECPoliceHard) :: Zones:0 Respawner Function DISABLED !!!
+ 5:29:45.750 [CE][InfectedRespawner] (SECIndustrial) :: Zones:0 Respawner Function DISABLED !!!
+ 5:29:45.755 [CE][Storage] ver:25 stamp:7953, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_000.bin"
+ 5:29:45.759 [CE][Storage] ver:25 stamp:7951, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_000.001"
+ 5:29:45.763 [CE][Storage] ver:25 stamp:7949, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_000.002"
+ 5:29:45.763 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_000.bin" 757 items.
+ 5:29:46.73   757 items loaded. (0 failed)
+ 5:29:46.79 [CE][Storage] ver:25 stamp:7953, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_001.bin"
+ 5:29:46.85 [CE][Storage] ver:25 stamp:7951, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_001.001"
+ 5:29:46.90 [CE][Storage] ver:25 stamp:7949, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_001.002"
+ 5:29:46.90 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_001.bin" 1396 items.
+ 5:29:46.516   1396 items loaded. (0 failed)
+ 5:29:46.523 [CE][Storage] ver:25 stamp:7953, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_002.bin"
+ 5:29:46.527 [CE][Storage] ver:25 stamp:7951, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_002.001"
+ 5:29:46.531 [CE][Storage] ver:25 stamp:7949, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_002.002"
+ 5:29:46.531 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_002.bin" 2147 items.
+ 5:29:47.104   2147 items loaded. (0 failed)
+ 5:29:47.111 [CE][Storage] ver:25 stamp:7953, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_003.bin"
+ 5:29:47.115 [CE][Storage] ver:25 stamp:7951, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_003.001"
+ 5:29:47.120 [CE][Storage] ver:25 stamp:7949, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_003.002"
+ 5:29:47.120 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_003.bin" 1723 items.
+ 5:29:47.601   1723 items loaded. (0 failed)
+ 5:29:47.607 [CE][Storage] ver:25 stamp:7953, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_004.bin"
+ 5:29:47.611 [CE][Storage] ver:25 stamp:7951, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_004.001"
+ 5:29:47.615 [CE][Storage] ver:25 stamp:7949, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_004.002"
+ 5:29:47.615 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_004.bin" 1654 items.
+ 5:29:48.79   1654 items loaded. (0 failed)
+ 5:29:48.85 [CE][Storage] ver:25 stamp:7953, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_005.bin"
+ 5:29:48.89 [CE][Storage] ver:25 stamp:7951, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_005.001"
+ 5:29:48.93 [CE][Storage] ver:25 stamp:7949, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_005.002"
+ 5:29:48.93 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_005.bin" 1953 items.
+ 5:29:48.741   1953 items loaded. (0 failed)
+ 5:29:48.749 [CE][Storage] ver:25 stamp:7953, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_006.bin"
+ 5:29:48.753 [CE][Storage] ver:25 stamp:7951, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_006.001"
+ 5:29:48.756 [CE][Storage] ver:25 stamp:7949, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_006.002"
+ 5:29:48.756 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_006.bin" 1373 items.
+ 5:29:49.153   1373 items loaded. (0 failed)
+ 5:29:49.160 [CE][Storage] ver:25 stamp:7953, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_007.bin"
+ 5:29:49.166 [CE][Storage] ver:25 stamp:7951, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_007.001"
+ 5:29:49.170 [CE][Storage] ver:25 stamp:7949, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_007.002"
+ 5:29:49.170 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_007.bin" 1323 items.
+ 5:29:49.550   1323 items loaded. (0 failed)
+ 5:29:49.556 [CE][Storage] ver:25 stamp:7953, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_008.bin"
+ 5:29:49.560 [CE][Storage] ver:25 stamp:7951, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_008.001"
+ 5:29:49.565 [CE][Storage] ver:25 stamp:7949, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_008.002"
+ 5:29:49.565 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_008.bin" 1894 items.
+ 5:29:50.131   1894 items loaded. (0 failed)
+ 5:29:50.138 [CE][Storage] ver:25 stamp:7953, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_009.bin"
+ 5:29:50.141 [CE][Storage] ver:25 stamp:7951, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_009.001"
+ 5:29:50.146 [CE][Storage] ver:25 stamp:7949, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_009.002"
+ 5:29:50.146 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_009.bin" 2460 items.
+ 5:29:50.929   2460 items loaded. (0 failed)
+ 5:29:50.935 [CE][Storage] ver:25 stamp:7953, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_010.bin"
+ 5:29:50.939 [CE][Storage] ver:25 stamp:7951, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_010.001"
+ 5:29:50.943 [CE][Storage] ver:25 stamp:7949, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_010.002"
+ 5:29:50.943 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_010.bin" 1580 items.
+ 5:29:51.482   1580 items loaded. (0 failed)
+ 5:29:51.486 [CE][Storage] ver:25 stamp:7953, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_011.bin"
+ 5:29:51.490 [CE][Storage] ver:25 stamp:7951, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_011.001"
+ 5:29:51.493 [CE][Storage] ver:25 stamp:7949, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_011.002"
+ 5:29:51.493 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\storage\storage_1\data\dynamic_011.bin" 162 items.
+ 5:29:51.545   162 items loaded. (0 failed)
+ 5:29:51.549 [CE][Storage] ver:26 stamp:7953, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\building.bin"
+ 5:29:51.552 [CE][Storage] ver:26 stamp:7951, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\building.001"
+ 5:29:51.554 [CE][Storage] ver:26 stamp:7949, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\building.002"
+ 5:29:51.554 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\storage\storage_1\data\building.bin" 0 items.
+ 5:29:51.554   0 items loaded. (0 failed)
+ 5:29:51.559 [CE][Storage] ver:25 stamp:7953, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\vehicles.bin"
+ 5:29:51.564 [CE][Storage] ver:25 stamp:7951, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\vehicles.001"
+ 5:29:51.569 [CE][Storage] ver:25 stamp:7949, valid:yes, name:"C:\TCAFiles\Users\admin\1\storage\storage_1\data\vehicles.002"
+ 5:29:51.569 [CE][Storage] Restoring file "C:\TCAFiles\Users\admin\1\storage\storage_1\data\vehicles.bin" 86 items.
+ 5:29:51.903   86 items loaded. (0 failed)
+ 5:29:51.913 [CE][Hive] :: Storage load took:6.17 seconds, recovery stamp:7953
+ 5:29:51.913   entity: 20285, building: 0
+ 5:29:51.913   no lifetime: 43
+ 5:29:51.913   pathgraph's: 489
+ 5:29:51.913 [CE][Hive] :: Initializing ... 
+ 5:29:51.914 [CE][OnInit]
+ 5:29:51.914   static groups: 11699
+ 5:29:51.914   containers: 21552
+ 5:29:51.914   points: 171523
+ 5:29:51.914   proxies: 4129
+ 5:29:51.914   linked groups: 1610, points: 0
+ 5:29:51.914   abandoned groups: 0, points: 0
+ 5:29:51.914   dynamic groups: 0
+ 5:29:51.949 [CE][InitializeMap] :: initialized: 0
+ 5:29:51.949 [CE][Hive] :: Initializing spawners ... 
+ 5:29:52.986 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 4516.880371, 10797.607422
+ 5:29:52.987 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 4478.500000, 10825.875977
+ 5:29:52.987 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 4475.649902, 10794.250000
+ 5:29:52.988 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 4440.463867, 10806.629883
+ 5:29:52.989 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 4476.043945, 10818.925781
+ 5:29:52.989 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 4139.600098, 10530.000000
+ 5:29:52.991 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 4134.944824, 10569.674805
+ 5:29:52.991 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 4104.458984, 10558.986328
+ 5:29:52.991 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 4111.965332, 10581.073242
+ 5:29:52.992 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 2151.156494, 3349.227295
+ 5:29:52.992 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 2165.815430, 3338.750977
+ 5:29:52.992 [CE][InfectedRespawner] (PRIArmy) :: Initial Spawn: 11
+ 5:29:52.993 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 1716.777222, 14260.674805
+ 5:29:52.993 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 1686.839844, 14252.575195
+ 5:29:52.994 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 1684.884155, 14257.574219
+ 5:29:52.995 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 1647.274658, 14234.735352
+ 5:29:52.995 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 1681.398804, 14256.295898
+ 5:29:52.995 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 1676.094604, 14301.021484
+ 5:29:52.996 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 1668.071167, 14237.585938
+ 5:29:52.996 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 4180.311523, 11049.080078
+ 5:29:52.996 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 4197.478027, 11040.652344
+ 5:29:52.996 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 4153.718750, 11004.429688
+ 5:29:52.996 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 4221.067871, 11029.359375
+ 5:29:52.996 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 4204.071777, 11017.154297
+ 5:29:52.997 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 4217.430176, 11065.884766
+ 5:29:52.997 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 4180.831055, 11036.702148
+ 5:29:52.997 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 4434.035156, 9624.958984
+ 5:29:52.997 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 4448.000488, 9658.780273
+ 5:29:52.998 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 4470.144531, 9628.240234
+ 5:29:52.998 !!! [CE][Spawn] Character "ZmbM_usSoldier_Heavy_Woodland" at 4477.075684, 9613.640625
+ 5:29:52.999 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 4458.968262, 9614.887695
+ 5:29:52.999 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 4440.641602, 9569.507813
+ 5:29:52.999 !!! [CE][Spawn] Character "ZmbM_usSoldier_Heavy_Woodland" at 4544.355469, 8309.734375
+ 5:29:52.999 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 4517.715820, 8305.193359
+ 5:29:53.00 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 4520.499512, 8314.842773
+ 5:29:53.00 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 4489.978027, 8284.737305
+ 5:29:53.01 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 4517.520996, 8304.390625
+ 5:29:53.01 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 4508.034180, 8349.736328
+ 5:29:53.01 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 4505.575684, 8286.475586
+ 5:29:53.02 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 1163.142212, 7238.755859
+ 5:29:53.02 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 1158.504639, 7236.751953
+ 5:29:53.02 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 1158.065674, 7241.029297
+ 5:29:53.02 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 1127.446777, 7212.356934
+ 5:29:53.02 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 1137.026978, 7242.777832
+ 5:29:53.03 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 1144.830200, 7272.681152
+ 5:29:53.03 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 2563.182373, 5089.510254
+ 5:29:53.03 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 2571.871338, 5082.433105
+ 5:29:53.03 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 2542.062744, 5107.375488
+ 5:29:53.04 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 2569.659180, 5109.192383
+ 5:29:53.04 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Woodland" at 2551.641113, 5077.594727
+ 5:29:53.04 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 2549.291504, 5091.666016
+ 5:29:53.04 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 1564.907715, 13611.802734
+ 5:29:53.04 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 1524.436646, 13589.925781
+ 5:29:53.05 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 1499.733032, 13600.428711
+ 5:29:53.05 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 1445.897705, 13607.138672
+ 5:29:53.05 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 1484.904907, 13641.211914
+ 5:29:53.06 !!! [CE][Spawn] Character "ZmbM_usSoldier_Heavy_Woodland" at 1504.915161, 13590.902344
+ 5:29:53.06 !!! [CE][Spawn] Character "ZmbM_usSoldier_Heavy_Woodland" at 1540.858887, 13636.737305
+ 5:29:53.06 !!! [CE][Spawn] Character "ZmbM_SoldierNormal" at 1536.155396, 13605.944336
+ 5:29:53.06 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 1510.141479, 13610.336914
+ 5:29:53.06 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 1818.136841, 13821.893555
+ 5:29:53.07 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 1832.658813, 13827.682617
+ 5:29:53.07 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 1783.590942, 13825.010742
+ 5:29:53.07 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 1832.417847, 13780.714844
+ 5:29:53.07 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Autumn" at 1831.870239, 13837.007813
+ 5:29:53.07 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Summer" at 1782.391846, 13813.775391
+ 5:29:53.08 !!! [CE][Spawn] Character "ZmbM_usSoldier_Heavy_Woodland" at 1840.452515, 13789.394531
+ 5:29:53.08 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_PautRev" at 4765.875977, 10329.319336
+ 5:29:53.08 !!! [CE][Spawn] Character "ZmbM_usSoldier_normal_Desert" at 4807.266602, 10323.966797
+ 5:29:53.08 !!! [CE][Spawn] Character "ZmbM_PatrolNormal_Flat" at 4812.443848, 10282.547852
+ 5:29:53.09 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 4796.110840, 10245.991211
+ 5:29:53.09 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 4772.797363, 10287.193359
+ 5:29:53.09 !!! [CE][Spawn] Character "ZmbM_usSoldier_Officer_Desert" at 4733.596191, 10281.079102
+ 5:29:53.09 [CE][InfectedRespawner] (PRIArmyHard) :: Initial Spawn: 61
+ 5:29:53.09 [CE][InfectedRespawner] (PRICity) :: Initial Spawn: 0
+ 5:29:53.09 [CE][InfectedRespawner] (PRICityTier1) :: Initial Spawn: 0
+ 5:29:53.09 [CE][InfectedRespawner] (PRIFirefighter) :: Initial Spawn: 0
+ 5:29:53.09 [CE][InfectedRespawner] (PRIIndustrial) :: Initial Spawn: 0
+ 5:29:53.09 [CE][InfectedRespawner] (PRIMedic) :: Initial Spawn: 0
+ 5:29:53.10 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13682.595703, 11179.487305
+ 5:29:53.11 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13673.964844, 11183.017578
+ 5:29:53.11 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13683.953125, 11178.000977
+ 5:29:53.11 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13700.022461, 11203.090820
+ 5:29:53.11 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13666.610352, 11179.974609
+ 5:29:53.11 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13704.045898, 11151.537109
+ 5:29:53.11 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13685.794922, 11187.720703
+ 5:29:53.12 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13692.153320, 11182.891602
+ 5:29:53.12 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 13650.958008, 11203.421875
+ 5:29:53.12 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2146.084961, 3345.291016
+ 5:29:53.12 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2134.699951, 3320.699951
+ 5:29:53.12 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2146.637451, 3334.825195
+ 5:29:53.12 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2132.317139, 3362.980225
+ 5:29:53.12 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2143.324707, 3324.027100
+ 5:29:53.13 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2141.430420, 3333.287354
+ 5:29:53.13 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2176.383545, 3308.626221
+ 5:29:53.13 !!! [CE][Spawn] Character "ZmbM_NBC_Grey" at 2147.866699, 3329.933350
+ 5:29:53.13 [CE][InfectedRespawner] (PRINBC) :: Initial Spawn: 17
+ 5:29:53.13 [CE][InfectedRespawner] (PRINBCYellow) :: Initial Spawn: 0
+ 5:29:53.13 [CE][InfectedRespawner] (PRIPolice) :: Initial Spawn: 0
+ 5:29:53.13 [CE][InfectedRespawner] (PRIPoliceHard) :: Initial Spawn: 0
+ 5:29:53.13 [CE][InfectedRespawner] (PRIPrisoner) :: Initial Spawn: 0
+ 5:29:53.13 [CE][InfectedRespawner] (PRIReligious) :: Initial Spawn: 0
+ 5:29:53.13 [CE][InfectedRespawner] (PRISanta) :: Initial Spawn: 0
+ 5:29:53.13 [CE][InfectedRespawner] (PRISolitude) :: Initial Spawn: 0
+ 5:29:53.13 [CE][InfectedRespawner] (PRIVillage) :: Initial Spawn: 0
+ 5:29:53.13 [CE][InfectedRespawner] (PRIVillageTier1) :: Initial Spawn: 0
+ 5:29:53.13 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:21260, Total in Map: 18520 at 0 (sec)
+ 5:29:53.13   tests:0, repeats:0 fails:0, overtime:0
+ 5:29:53.14 [CE][InfectedRespawner] (SECArmy) :: Initial Spawn: 0
+ 5:29:53.14 [CE][InfectedRespawner] (SECArmy) :: Initial Spawn: 0
+ 5:29:53.14 [CE][InfectedRespawner] (SECPoliceHard) :: Initial Spawn: 0
+ 5:29:53.14 [CE][InfectedRespawner] (SECIndustrial) :: Initial Spawn: 0
+ 5:29:53.14 [CE][TrajectoryRespawner] (PRIApple) :: Initial Spawn is DISABLED
+ 5:29:53.14 [CE][TrajectoryRespawner] (PRIConiferous) :: Initial Spawn is DISABLED
+ 5:29:53.15 [CE][TrajectoryRespawner] (PRIDeciduous) :: Initial Spawn is DISABLED
+ 5:29:53.15 [CE][TrajectoryRespawner] (PRIHumus) :: Initial Spawn is DISABLED
+ 5:29:53.15 [CE][TrajectoryRespawner] (PRIPear) :: Initial Spawn is DISABLED
+ 5:29:53.15 [CE][TrajectoryRespawner] (PRIPlum) :: Initial Spawn is DISABLED
+ 5:29:53.15 [CE][TrajectoryRespawner] (PRIStones) :: Initial Spawn is DISABLED
+ 5:29:53.15 [CE][DynEvent] :: 47 types
+ 5:29:53.15 [00] AmbientHen
+ 5:29:53.15   Primary Spawner: "Ambient", active: yes, repeat: 1
+ 5:29:53.15 [01] AnimalBear
+ 5:29:53.15   Primary Spawner: "Animal", active: yes, repeat: 1
+ 5:29:53.15 [02] AnimalCow
+ 5:29:53.15   Primary Spawner: "Animal", active: yes, repeat: 1
+ 5:29:53.15 [03] AnimalDeer
+ 5:29:53.15   Primary Spawner: "Animal", active: yes, repeat: 1
+ 5:29:53.15 [04] AnimalGoat
+ 5:29:53.15   Primary Spawner: "Animal", active: yes, repeat: 1
+ 5:29:53.15 [05] AnimalPig
+ 5:29:53.15   Primary Spawner: "Animal", active: yes, repeat: 1
+ 5:29:53.15 [06] AnimalRoeDeer
+ 5:29:53.15   Primary Spawner: "Animal", active: yes, repeat: 1
+ 5:29:53.15 [07] AnimalSheep
+ 5:29:53.15   Primary Spawner: "Animal", active: yes, repeat: 1
+ 5:29:53.16 [08] AnimalWildBoar
+ 5:29:53.16   Primary Spawner: "Animal", active: yes, repeat: 1
+ 5:29:53.16 [09] AnimalWolf
+ 5:29:53.16   Primary Spawner: "Animal", active: yes, repeat: 1
+ 5:29:53.16 [10] InfectedArmy
+ 5:29:53.16   Primary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.16 [11] InfectedArmyHard
+ 5:29:53.16   Primary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.16 [12] InfectedCity
+ 5:29:53.16   Primary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.16 [13] InfectedCityTier1
+ 5:29:53.16   Primary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.16 [14] InfectedFirefighter
+ 5:29:53.16   Primary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.16 [15] InfectedIndustrial
+ 5:29:53.16   Primary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.16 [16] InfectedMedic
+ 5:29:53.16   Primary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.16 [17] InfectedNBC
+ 5:29:53.16   Primary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.16 [18] InfectedNBCYellow
+ 5:29:53.16   Primary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.17 [19] InfectedPolice
+ 5:29:53.17   Primary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.17 [20] InfectedPoliceHard
+ 5:29:53.17   Primary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.17 [21] InfectedPrisoner
+ 5:29:53.17   Primary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.17 [22] InfectedReligious
+ 5:29:53.17   Primary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.17 [23] InfectedSanta
+ 5:29:53.17   Primary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.17 [24] InfectedSolitude
+ 5:29:53.17   Primary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.17 [25] InfectedVillage
+ 5:29:53.17   Primary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.17 [26] InfectedVillageTier1
+ 5:29:53.17   Primary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.17 [27] ItemPlanks
+ 5:29:53.17   Primary Spawner: "Item", active: yes, repeat: 1
+ 5:29:53.17 [28] Loot
+ 5:29:53.17   Primary Spawner: "Loot", active: yes, repeat: 2
+ 5:29:53.17 [29] StaticContaminatedArea
+ 5:29:53.17   Primary Spawner: "Static", active: yes, repeat: 1
+ 5:29:53.17 [30] StaticHeliCrash
+ 5:29:53.17   Primary Spawner: "Static", active: yes, repeat: 1
+ 5:29:53.17   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.17 [31] StaticMilitaryConvoy
+ 5:29:53.17   Primary Spawner: "Static", active: yes, repeat: 1
+ 5:29:53.17   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.17 [32] StaticPoliceSituation
+ 5:29:53.17   Primary Spawner: "Static", active: yes, repeat: 1
+ 5:29:53.17   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.17 [33] StaticTrain
+ 5:29:53.17   Primary Spawner: "Static", active: yes, repeat: 1
+ 5:29:53.17   Secondary Spawner: "Infected", active: yes, repeat: 1
+ 5:29:53.17 [34] TrajectoryApple
+ 5:29:53.17   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 5:29:53.17 [35] TrajectoryConiferous
+ 5:29:53.17   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 5:29:53.17 [36] TrajectoryDeciduous
+ 5:29:53.17   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 5:29:53.17 [37] TrajectoryHumus
+ 5:29:53.17   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 5:29:53.17 [38] TrajectoryPear
+ 5:29:53.17   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 5:29:53.17 [39] TrajectoryPlum
+ 5:29:53.17   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 5:29:53.17 [40] TrajectoryStones
+ 5:29:53.17   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 5:29:53.17 [41] VehicleCivilianSedan
+ 5:29:53.17   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 5:29:53.17 [42] VehicleHatchback02
+ 5:29:53.17   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 5:29:53.17 [43] VehicleOffroad02
+ 5:29:53.17   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 5:29:53.17 [44] VehicleOffroadHatchback
+ 5:29:53.17   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 5:29:53.17 [45] VehicleSedan02
+ 5:29:53.17   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 5:29:53.17 [46] VehicleTruck01
+ 5:29:53.17   Primary Spawner: "Vehicle", active: yes, repeat: 1
+ 5:29:53.17 [CE][Hive] :: Initializing of spawners done.
+ 5:29:53.20   Items batched for deletion: 0, of: 18859
+ 5:29:53.23   Items batched for deletion: 0, of: 18859
+ 5:29:53.27 [CE][Hive] :: Init sequence finished.
+ 5:29:53.27 Player connect enabled
+ 5:29:53.616 [IdleMode] Entering IN - save processed
+ 5:29:55.188 ------------------------------------
+ 5:29:55.188   ***  CE Loop took 1.6 (sec)...
+ 5:29:55.188 Idle Mode Active!
+ 5:29:55.188 ------------------------------------
+ 5:30:00.104 ------------------------------------
+ 5:30:00.104   ***  CE Loop took 4.9 (sec)...
+ 5:30:00.104 Idle Mode Active!
+ 5:30:00.104 ------------------------------------
+ 5:30:05.04 ------------------------------------
+ 5:30:05.04   ***  CE Loop took 4.9 (sec)...
+ 5:30:05.04 Idle Mode Active!
+ 5:30:05.04 ------------------------------------
+ 5:30:09.904 ------------------------------------
+ 5:30:09.904   ***  CE Loop took 4.9 (sec)...
+ 5:30:09.904 Idle Mode Active!
+ 5:30:09.904 ------------------------------------
+ 5:30:16.702 ------------------------------------
+ 5:30:16.702   ***  CE Loop took 4.9 (sec)...
+ 5:30:16.702 Idle Mode Active!
+ 5:30:16.702 ------------------------------------
+ 5:30:21.608 ------------------------------------
+ 5:30:21.608   ***  CE Loop took 4.9 (sec)...
+ 5:30:21.608 Idle Mode Active!
+ 5:30:21.608 ------------------------------------
+ 5:30:26.515 ------------------------------------
+ 5:30:26.515   ***  CE Loop took 4.9 (sec)...
+ 5:30:26.515 Idle Mode Active!
+ 5:30:26.515 ------------------------------------
+ 5:30:31.418 ------------------------------------
+ 5:30:31.418   ***  CE Loop took 4.9 (sec)...
+ 5:30:31.418 Idle Mode Active!
+ 5:30:31.418 ------------------------------------
+ 5:30:36.318 ------------------------------------
+ 5:30:36.318   ***  CE Loop took 4.9 (sec)...
+ 5:30:36.318 Idle Mode Active!
+ 5:30:36.318 ------------------------------------
+ 5:30:41.217 ------------------------------------
+ 5:30:41.217   ***  CE Loop took 4.9 (sec)...
+ 5:30:41.217 Idle Mode Active!
+ 5:30:41.217 ------------------------------------
+ 5:30:46.121 ------------------------------------
+ 5:30:46.121   ***  CE Loop took 4.9 (sec)...
+ 5:30:46.121 Idle Mode Active!
+ 5:30:46.121 ------------------------------------
+ 5:30:51.29 ------------------------------------
+ 5:30:51.29   ***  CE Loop took 4.9 (sec)...
+ 5:30:51.29 Idle Mode Active!
+ 5:30:51.29 ------------------------------------
+ 5:30:55.929 ------------------------------------
+ 5:30:55.929   ***  CE Loop took 4.9 (sec)...
+ 5:30:55.929 Idle Mode Active!
+ 5:30:55.929 ------------------------------------
+ 5:31:00.836 ------------------------------------
+ 5:31:00.836   ***  CE Loop took 4.9 (sec)...
+ 5:31:00.836 Idle Mode Active!
+ 5:31:00.836 ------------------------------------
+ 5:31:05.741 ------------------------------------
+ 5:31:05.741   ***  CE Loop took 4.9 (sec)...
+ 5:31:05.741 Idle Mode Active!
+ 5:31:05.741 ------------------------------------
+ 5:31:10.640 ------------------------------------
+ 5:31:10.640   ***  CE Loop took 4.9 (sec)...
+ 5:31:10.640 Idle Mode Active!
+ 5:31:10.640 ------------------------------------
+ 5:31:15.540 ------------------------------------
+ 5:31:15.540   ***  CE Loop took 4.9 (sec)...
+ 5:31:15.540 Idle Mode Active!
+ 5:31:15.540 ------------------------------------
+ 5:31:20.440 ------------------------------------
+ 5:31:20.440   ***  CE Loop took 4.9 (sec)...
+ 5:31:20.440 Idle Mode Active!
+ 5:31:20.440 ------------------------------------
+ 5:31:25.346 ------------------------------------
+ 5:31:25.346   ***  CE Loop took 4.9 (sec)...
+ 5:31:25.346 Idle Mode Active!
+ 5:31:25.346 ------------------------------------
+ 5:31:30.272 ------------------------------------
+ 5:31:30.272   ***  CE Loop took 4.9 (sec)...
+ 5:31:30.272 Idle Mode Active!
+ 5:31:30.272 ------------------------------------
+ 5:31:35.177 ------------------------------------
+ 5:31:35.177   ***  CE Loop took 4.9 (sec)...
+ 5:31:35.177 Idle Mode Active!
+ 5:31:35.177 ------------------------------------
+ 5:31:40.77 ------------------------------------
+ 5:31:40.77   ***  CE Loop took 4.9 (sec)...
+ 5:31:40.77 Idle Mode Active!
+ 5:31:40.77 ------------------------------------
+ 5:31:44.976 ------------------------------------
+ 5:31:44.976   ***  CE Loop took 4.9 (sec)...
+ 5:31:44.977 Idle Mode Active!
+ 5:31:44.977 ------------------------------------
+ 5:31:49.876 ------------------------------------
+ 5:31:49.876   ***  CE Loop took 4.9 (sec)...
+ 5:31:49.876 Idle Mode Active!
+ 5:31:49.876 ------------------------------------
+ 5:31:54.776 ------------------------------------
+ 5:31:54.776   ***  CE Loop took 4.9 (sec)...
+ 5:31:54.776 Idle Mode Active!
+ 5:31:54.776 ------------------------------------
+ 5:31:59.677 ------------------------------------
+ 5:31:59.677   ***  CE Loop took 4.9 (sec)...
+ 5:31:59.677 Idle Mode Active!
+ 5:31:59.677 ------------------------------------
+ 5:32:04.577 ------------------------------------
+ 5:32:04.577   ***  CE Loop took 4.9 (sec)...
+ 5:32:04.577 Idle Mode Active!
+ 5:32:04.577 ------------------------------------
+ 5:32:09.477 ------------------------------------
+ 5:32:09.477   ***  CE Loop took 4.9 (sec)...
+ 5:32:09.477 Idle Mode Active!
+ 5:32:09.477 ------------------------------------
+ 5:32:14.377 ------------------------------------
+ 5:32:14.377   ***  CE Loop took 4.9 (sec)...
+ 5:32:14.377 Idle Mode Active!
+ 5:32:14.377 ------------------------------------
+ 5:32:19.277 ------------------------------------
+ 5:32:19.277   ***  CE Loop took 4.9 (sec)...
+ 5:32:19.277 Idle Mode Active!
+ 5:32:19.277 ------------------------------------
+ 5:32:24.178 ------------------------------------
+ 5:32:24.178   ***  CE Loop took 4.9 (sec)...
+ 5:32:24.178 Idle Mode Active!
+ 5:32:24.178 ------------------------------------
+ 5:32:29.78 ------------------------------------
+ 5:32:29.78   ***  CE Loop took 4.9 (sec)...
+ 5:32:29.78 Idle Mode Active!
+ 5:32:29.78 ------------------------------------
+ 5:32:33.977 ------------------------------------
+ 5:32:33.977   ***  CE Loop took 4.9 (sec)...
+ 5:32:33.977 Idle Mode Active!
+ 5:32:33.977 ------------------------------------
+ 5:32:38.877 ------------------------------------
+ 5:32:38.877   ***  CE Loop took 4.9 (sec)...
+ 5:32:38.877 Idle Mode Active!
+ 5:32:38.877 ------------------------------------
+ 5:32:43.777 ------------------------------------
+ 5:32:43.777   ***  CE Loop took 4.9 (sec)...
+ 5:32:43.777 Idle Mode Active!
+ 5:32:43.777 ------------------------------------
+ 5:32:48.677 ------------------------------------
+ 5:32:48.677   ***  CE Loop took 4.9 (sec)...
+ 5:32:48.677 Idle Mode Active!
+ 5:32:48.677 ------------------------------------
+ 5:32:53.578 ------------------------------------
+ 5:32:53.578   ***  CE Loop took 4.9 (sec)...
+ 5:32:53.578 Idle Mode Active!
+ 5:32:53.578 ------------------------------------
+ 5:32:58.478 ------------------------------------
+ 5:32:58.478   ***  CE Loop took 4.9 (sec)...
+ 5:32:58.478 Idle Mode Active!
+ 5:32:58.478 ------------------------------------
+ 5:33:03.378 ------------------------------------
+ 5:33:03.378   ***  CE Loop took 4.9 (sec)...
+ 5:33:03.378 Idle Mode Active!
+ 5:33:03.378 ------------------------------------
+ 5:33:08.278 ------------------------------------
+ 5:33:08.278   ***  CE Loop took 4.9 (sec)...
+ 5:33:08.278 Idle Mode Active!
+ 5:33:08.278 ------------------------------------
+ 5:33:13.178 ------------------------------------
+ 5:33:13.178   ***  CE Loop took 4.9 (sec)...
+ 5:33:13.178 Idle Mode Active!
+ 5:33:13.178 ------------------------------------
+ 5:33:18.78 ------------------------------------
+ 5:33:18.78   ***  CE Loop took 4.9 (sec)...
+ 5:33:18.78 Idle Mode Active!
+ 5:33:18.78 ------------------------------------
+ 5:33:22.978 ------------------------------------
+ 5:33:22.978   ***  CE Loop took 4.9 (sec)...
+ 5:33:22.978 Idle Mode Active!
+ 5:33:22.978 ------------------------------------
+ 5:33:27.878 ------------------------------------
+ 5:33:27.878   ***  CE Loop took 4.9 (sec)...
+ 5:33:27.878 Idle Mode Active!
+ 5:33:27.878 ------------------------------------
+ 5:33:32.778 ------------------------------------
+ 5:33:32.778   ***  CE Loop took 4.9 (sec)...
+ 5:33:32.778 Idle Mode Active!
+ 5:33:32.778 ------------------------------------
+ 5:33:37.678 ------------------------------------
+ 5:33:37.678   ***  CE Loop took 4.9 (sec)...
+ 5:33:37.678 Idle Mode Active!
+ 5:33:37.678 ------------------------------------
+ 5:33:42.578 ------------------------------------
+ 5:33:42.578   ***  CE Loop took 4.9 (sec)...
+ 5:33:42.578 Idle Mode Active!
+ 5:33:42.578 ------------------------------------
+ 5:33:47.479 ------------------------------------
+ 5:33:47.479   ***  CE Loop took 4.9 (sec)...
+ 5:33:47.479 Idle Mode Active!
+ 5:33:47.479 ------------------------------------
+ 5:33:52.379 ------------------------------------
+ 5:33:52.379   ***  CE Loop took 4.9 (sec)...
+ 5:33:52.379 Idle Mode Active!
+ 5:33:52.379 ------------------------------------
+ 5:33:57.279 ------------------------------------
+ 5:33:57.279   ***  CE Loop took 4.9 (sec)...
+ 5:33:57.279 Idle Mode Active!
+ 5:33:57.279 ------------------------------------
+ 5:34:02.178 ------------------------------------
+ 5:34:02.178   ***  CE Loop took 4.9 (sec)...
+ 5:34:02.178 Idle Mode Active!
+ 5:34:02.178 ------------------------------------
+ 5:34:07.78 ------------------------------------
+ 5:34:07.78   ***  CE Loop took 4.9 (sec)...
+ 5:34:07.78 Idle Mode Active!
+ 5:34:07.78 ------------------------------------
+ 5:34:11.979 ------------------------------------
+ 5:34:11.979   ***  CE Loop took 4.9 (sec)...
+ 5:34:11.979 Idle Mode Active!
+ 5:34:11.979 ------------------------------------
+ 5:34:16.879 ------------------------------------
+ 5:34:16.879   ***  CE Loop took 4.9 (sec)...
+ 5:34:16.879 Idle Mode Active!
+ 5:34:16.879 ------------------------------------
+ 5:34:21.779 ------------------------------------
+ 5:34:21.779   ***  CE Loop took 4.9 (sec)...
+ 5:34:21.779 Idle Mode Active!
+ 5:34:21.779 ------------------------------------
+ 5:34:26.679 ------------------------------------
+ 5:34:26.679   ***  CE Loop took 4.9 (sec)...
+ 5:34:26.679 Idle Mode Active!
+ 5:34:26.679 ------------------------------------
+ 5:34:31.579 ------------------------------------
+ 5:34:31.579   ***  CE Loop took 4.9 (sec)...
+ 5:34:31.579 Idle Mode Active!
+ 5:34:31.579 ------------------------------------
+ 5:34:36.480 ------------------------------------
+ 5:34:36.480   ***  CE Loop took 4.9 (sec)...
+ 5:34:36.480 Idle Mode Active!
+ 5:34:36.480 ------------------------------------
+ 5:34:41.380 ------------------------------------
+ 5:34:41.380   ***  CE Loop took 4.9 (sec)...
+ 5:34:41.380 Idle Mode Active!
+ 5:34:41.380 ------------------------------------
+ 5:34:46.280 ------------------------------------
+ 5:34:46.280   ***  CE Loop took 4.9 (sec)...
+ 5:34:46.280 Idle Mode Active!
+ 5:34:46.280 ------------------------------------
+ 5:34:51.179 ------------------------------------
+ 5:34:51.179   ***  CE Loop took 4.9 (sec)...
+ 5:34:51.179 Idle Mode Active!
+ 5:34:51.179 ------------------------------------
+ 5:34:56.79 ------------------------------------
+ 5:34:56.79   ***  CE Loop took 4.9 (sec)...
+ 5:34:56.79 Idle Mode Active!
+ 5:34:56.79 ------------------------------------
+ 5:35:00.979 ------------------------------------
+ 5:35:00.979   ***  CE Loop took 4.9 (sec)...
+ 5:35:00.979 Idle Mode Active!
+ 5:35:00.979 ------------------------------------
+ 5:35:05.880 ------------------------------------
+ 5:35:05.880   ***  CE Loop took 4.9 (sec)...
+ 5:35:05.880 Idle Mode Active!
+ 5:35:05.880 ------------------------------------
+ 5:35:10.780 ------------------------------------
+ 5:35:10.780   ***  CE Loop took 4.9 (sec)...
+ 5:35:10.780 Idle Mode Active!
+ 5:35:10.780 ------------------------------------
+ 5:35:15.680 ------------------------------------
+ 5:35:15.680   ***  CE Loop took 4.9 (sec)...
+ 5:35:15.680 Idle Mode Active!
+ 5:35:15.680 ------------------------------------
+ 5:35:20.580 ------------------------------------
+ 5:35:20.580   ***  CE Loop took 4.9 (sec)...
+ 5:35:20.580 Idle Mode Active!
+ 5:35:20.580 ------------------------------------
+ 5:35:25.480 ------------------------------------
+ 5:35:25.480   ***  CE Loop took 4.9 (sec)...
+ 5:35:25.480 Idle Mode Active!
+ 5:35:25.480 ------------------------------------
+ 5:35:30.381 ------------------------------------
+ 5:35:30.381   ***  CE Loop took 4.9 (sec)...
+ 5:35:30.381 Idle Mode Active!
+ 5:35:30.381 ------------------------------------
+ 5:35:35.280 ------------------------------------
+ 5:35:35.280   ***  CE Loop took 4.9 (sec)...
+ 5:35:35.280 Idle Mode Active!
+ 5:35:35.280 ------------------------------------
+ 5:35:40.180 ------------------------------------
+ 5:35:40.180   ***  CE Loop took 4.9 (sec)...
+ 5:35:40.180 Idle Mode Active!
+ 5:35:40.180 ------------------------------------
+ 5:35:45.80 ------------------------------------
+ 5:35:45.80   ***  CE Loop took 4.9 (sec)...
+ 5:35:45.80 Idle Mode Active!
+ 5:35:45.80 ------------------------------------
+ 5:35:49.980 ------------------------------------
+ 5:35:49.980   ***  CE Loop took 4.9 (sec)...
+ 5:35:49.980 Idle Mode Active!
+ 5:35:49.980 ------------------------------------
+ 5:35:54.881 ------------------------------------
+ 5:35:54.881   ***  CE Loop took 4.9 (sec)...
+ 5:35:54.881 Idle Mode Active!
+ 5:35:54.881 ------------------------------------
+ 5:35:59.781 ------------------------------------
+ 5:35:59.781   ***  CE Loop took 4.9 (sec)...
+ 5:35:59.781 Idle Mode Active!
+ 5:35:59.781 ------------------------------------
+ 5:36:04.681 ------------------------------------
+ 5:36:04.681   ***  CE Loop took 4.9 (sec)...
+ 5:36:04.681 Idle Mode Active!
+ 5:36:04.681 ------------------------------------
+ 5:36:09.581 ------------------------------------
+ 5:36:09.581   ***  CE Loop took 4.9 (sec)...
+ 5:36:09.581 Idle Mode Active!
+ 5:36:09.581 ------------------------------------
+ 5:36:14.481 ------------------------------------
+ 5:36:14.481   ***  CE Loop took 4.9 (sec)...
+ 5:36:14.481 Idle Mode Active!
+ 5:36:14.481 ------------------------------------
+ 5:36:19.380 ------------------------------------
+ 5:36:19.381   ***  CE Loop took 4.9 (sec)...
+ 5:36:19.381 Idle Mode Active!
+ 5:36:19.381 ------------------------------------
+ 5:36:24.281 ------------------------------------
+ 5:36:24.281   ***  CE Loop took 4.9 (sec)...
+ 5:36:24.281 Idle Mode Active!
+ 5:36:24.281 ------------------------------------
+ 5:36:29.181 ------------------------------------
+ 5:36:29.181   ***  CE Loop took 4.9 (sec)...
+ 5:36:29.181 Idle Mode Active!
+ 5:36:29.181 ------------------------------------
+ 5:36:34.81 ------------------------------------
+ 5:36:34.81   ***  CE Loop took 4.9 (sec)...
+ 5:36:34.81 Idle Mode Active!
+ 5:36:34.81 ------------------------------------
+ 5:36:38.981 ------------------------------------
+ 5:36:38.981   ***  CE Loop took 4.9 (sec)...
+ 5:36:38.981 Idle Mode Active!
+ 5:36:38.981 ------------------------------------
+ 5:36:43.881 ------------------------------------
+ 5:36:43.881   ***  CE Loop took 4.9 (sec)...
+ 5:36:43.881 Idle Mode Active!
+ 5:36:43.881 ------------------------------------
+ 5:36:48.781 ------------------------------------
+ 5:36:48.781   ***  CE Loop took 4.9 (sec)...
+ 5:36:48.781 Idle Mode Active!
+ 5:36:48.781 ------------------------------------
+ 5:36:53.682 ------------------------------------
+ 5:36:53.682   ***  CE Loop took 4.9 (sec)...
+ 5:36:53.682 Idle Mode Active!
+ 5:36:53.682 ------------------------------------
+ 5:36:58.582 ------------------------------------
+ 5:36:58.582   ***  CE Loop took 4.9 (sec)...
+ 5:36:58.582 Idle Mode Active!
+ 5:36:58.582 ------------------------------------
+ 5:37:03.481 ------------------------------------
+ 5:37:03.482   ***  CE Loop took 4.9 (sec)...
+ 5:37:03.482 Idle Mode Active!
+ 5:37:03.482 ------------------------------------
+ 5:37:08.381 ------------------------------------
+ 5:37:08.381   ***  CE Loop took 4.9 (sec)...
+ 5:37:08.381 Idle Mode Active!
+ 5:37:08.381 ------------------------------------
+ 5:37:13.281 ------------------------------------
+ 5:37:13.281   ***  CE Loop took 4.9 (sec)...
+ 5:37:13.281 Idle Mode Active!
+ 5:37:13.281 ------------------------------------
+ 5:37:18.181 ------------------------------------
+ 5:37:18.181   ***  CE Loop took 4.9 (sec)...
+ 5:37:18.181 Idle Mode Active!
+ 5:37:18.181 ------------------------------------
+ 5:37:23.82 ------------------------------------
+ 5:37:23.82   ***  CE Loop took 4.9 (sec)...
+ 5:37:23.82 Idle Mode Active!
+ 5:37:23.82 ------------------------------------
+ 5:37:27.982 ------------------------------------
+ 5:37:27.982   ***  CE Loop took 4.9 (sec)...
+ 5:37:27.982 Idle Mode Active!
+ 5:37:27.982 ------------------------------------
+ 5:37:32.882 ------------------------------------
+ 5:37:32.882   ***  CE Loop took 4.9 (sec)...
+ 5:37:32.882 Idle Mode Active!
+ 5:37:32.882 ------------------------------------
+ 5:37:37.782 ------------------------------------
+ 5:37:37.782   ***  CE Loop took 4.9 (sec)...
+ 5:37:37.782 Idle Mode Active!
+ 5:37:37.782 ------------------------------------
+ 5:37:42.682 ------------------------------------
+ 5:37:42.682   ***  CE Loop took 4.9 (sec)...
+ 5:37:42.682 Idle Mode Active!
+ 5:37:42.682 ------------------------------------
+ 5:37:47.582 ------------------------------------
+ 5:37:47.582   ***  CE Loop took 4.9 (sec)...
+ 5:37:47.582 Idle Mode Active!
+ 5:37:47.582 ------------------------------------
+ 5:37:52.482 ------------------------------------
+ 5:37:52.482   ***  CE Loop took 4.9 (sec)...
+ 5:37:52.482 Idle Mode Active!
+ 5:37:52.482 ------------------------------------
+ 5:37:57.382 ------------------------------------
+ 5:37:57.382   ***  CE Loop took 4.9 (sec)...
+ 5:37:57.382 Idle Mode Active!
+ 5:37:57.382 ------------------------------------
+ 5:38:02.282 ------------------------------------
+ 5:38:02.282   ***  CE Loop took 4.9 (sec)...
+ 5:38:02.282 Idle Mode Active!
+ 5:38:02.282 ------------------------------------
+ 5:38:07.182 ------------------------------------
+ 5:38:07.182   ***  CE Loop took 4.9 (sec)...
+ 5:38:07.182 Idle Mode Active!
+ 5:38:07.182 ------------------------------------
+ 5:38:12.82 ------------------------------------
+ 5:38:12.82   ***  CE Loop took 4.9 (sec)...
+ 5:38:12.82 Idle Mode Active!
+ 5:38:12.82 ------------------------------------
+ 5:38:16.982 ------------------------------------
+ 5:38:16.982   ***  CE Loop took 4.9 (sec)...
+ 5:38:16.982 Idle Mode Active!
+ 5:38:16.982 ------------------------------------
+ 5:38:21.883 ------------------------------------
+ 5:38:21.883   ***  CE Loop took 4.9 (sec)...
+ 5:38:21.883 Idle Mode Active!
+ 5:38:21.883 ------------------------------------
+ 5:38:26.783 ------------------------------------
+ 5:38:26.783   ***  CE Loop took 4.9 (sec)...
+ 5:38:26.783 Idle Mode Active!
+ 5:38:26.783 ------------------------------------
+ 5:38:31.683 ------------------------------------
+ 5:38:31.683   ***  CE Loop took 4.9 (sec)...
+ 5:38:31.683 Idle Mode Active!
+ 5:38:31.683 ------------------------------------
+ 5:38:36.583 ------------------------------------
+ 5:38:36.583   ***  CE Loop took 4.9 (sec)...
+ 5:38:36.583 Idle Mode Active!
+ 5:38:36.583 ------------------------------------
+ 5:38:41.482 ------------------------------------
+ 5:38:41.482   ***  CE Loop took 4.9 (sec)...
+ 5:38:41.482 Idle Mode Active!
+ 5:38:41.482 ------------------------------------
+ 5:38:46.382 ------------------------------------
+ 5:38:46.382   ***  CE Loop took 4.9 (sec)...
+ 5:38:46.382 Idle Mode Active!
+ 5:38:46.382 ------------------------------------
+ 5:38:51.283 ------------------------------------
+ 5:38:51.283   ***  CE Loop took 4.9 (sec)...
+ 5:38:51.283 Idle Mode Active!
+ 5:38:51.283 ------------------------------------
+ 5:38:56.183 ------------------------------------
+ 5:38:56.183   ***  CE Loop took 4.9 (sec)...
+ 5:38:56.183 Idle Mode Active!
+ 5:38:56.183 ------------------------------------
+ 5:39:01.83 ------------------------------------
+ 5:39:01.83   ***  CE Loop took 4.9 (sec)...
+ 5:39:01.83 Idle Mode Active!
+ 5:39:01.83 ------------------------------------
+ 5:39:05.983 ------------------------------------
+ 5:39:05.983   ***  CE Loop took 4.9 (sec)...
+ 5:39:05.983 Idle Mode Active!
+ 5:39:05.983 ------------------------------------
+ 5:39:10.883 ------------------------------------
+ 5:39:10.883   ***  CE Loop took 4.9 (sec)...
+ 5:39:10.883 Idle Mode Active!
+ 5:39:10.883 ------------------------------------
+ 5:39:15.783 ------------------------------------
+ 5:39:15.783   ***  CE Loop took 4.9 (sec)...
+ 5:39:15.783 Idle Mode Active!
+ 5:39:15.783 ------------------------------------
+ 5:39:20.684 ------------------------------------
+ 5:39:20.684   ***  CE Loop took 4.9 (sec)...
+ 5:39:20.684 Idle Mode Active!
+ 5:39:20.684 ------------------------------------
+ 5:39:25.583 ------------------------------------
+ 5:39:25.583   ***  CE Loop took 4.9 (sec)...
+ 5:39:25.584 Idle Mode Active!
+ 5:39:25.584 ------------------------------------
+ 5:39:30.483 ------------------------------------
+ 5:39:30.483   ***  CE Loop took 4.9 (sec)...
+ 5:39:30.483 Idle Mode Active!
+ 5:39:30.483 ------------------------------------
+ 5:39:35.383 ------------------------------------
+ 5:39:35.383   ***  CE Loop took 4.9 (sec)...
+ 5:39:35.383 Idle Mode Active!
+ 5:39:35.383 ------------------------------------
+ 5:39:40.283 ------------------------------------
+ 5:39:40.283   ***  CE Loop took 4.9 (sec)...
+ 5:39:40.283 Idle Mode Active!
+ 5:39:40.283 ------------------------------------
+ 5:39:45.183 ------------------------------------
+ 5:39:45.183   ***  CE Loop took 4.9 (sec)...
+ 5:39:45.183 Idle Mode Active!
+ 5:39:45.183 ------------------------------------
+ 5:39:50.84 ------------------------------------
+ 5:39:50.84   ***  CE Loop took 4.9 (sec)...
+ 5:39:50.84 Idle Mode Active!
+ 5:39:50.84 ------------------------------------
+ 5:39:54.984 ------------------------------------
+ 5:39:54.984   ***  CE Loop took 4.9 (sec)...
+ 5:39:54.984 Idle Mode Active!
+ 5:39:54.984 ------------------------------------
+ 5:39:59.884 ------------------------------------
+ 5:39:59.884   ***  CE Loop took 4.9 (sec)...
+ 5:39:59.884 Idle Mode Active!
+ 5:39:59.884 ------------------------------------
+ 5:40:04.784 ------------------------------------
+ 5:40:04.784   ***  CE Loop took 4.9 (sec)...
+ 5:40:04.784 Idle Mode Active!
+ 5:40:04.784 ------------------------------------
+ 5:40:09.684 ------------------------------------
+ 5:40:09.684   ***  CE Loop took 4.9 (sec)...
+ 5:40:09.684 Idle Mode Active!
+ 5:40:09.684 ------------------------------------
+ 5:40:14.583 ------------------------------------
+ 5:40:14.583   ***  CE Loop took 4.9 (sec)...
+ 5:40:14.583 Idle Mode Active!
+ 5:40:14.583 ------------------------------------
+ 5:40:19.484 ------------------------------------
+ 5:40:19.484   ***  CE Loop took 4.9 (sec)...
+ 5:40:19.484 Idle Mode Active!
+ 5:40:19.484 ------------------------------------
+ 5:40:24.384 ------------------------------------
+ 5:40:24.384   ***  CE Loop took 4.9 (sec)...
+ 5:40:24.384 Idle Mode Active!
+ 5:40:24.384 ------------------------------------
+ 5:40:29.284 ------------------------------------
+ 5:40:29.284   ***  CE Loop took 4.9 (sec)...
+ 5:40:29.284 Idle Mode Active!
+ 5:40:29.284 ------------------------------------
+ 5:40:34.184 ------------------------------------
+ 5:40:34.184   ***  CE Loop took 4.9 (sec)...
+ 5:40:34.184 Idle Mode Active!
+ 5:40:34.184 ------------------------------------
+ 5:40:39.84 ------------------------------------
+ 5:40:39.84   ***  CE Loop took 4.9 (sec)...
+ 5:40:39.84 Idle Mode Active!
+ 5:40:39.84 ------------------------------------
+ 5:40:43.984 ------------------------------------
+ 5:40:43.984   ***  CE Loop took 4.9 (sec)...
+ 5:40:43.984 Idle Mode Active!
+ 5:40:43.984 ------------------------------------
+ 5:40:48.885 ------------------------------------
+ 5:40:48.885   ***  CE Loop took 4.9 (sec)...
+ 5:40:48.885 Idle Mode Active!
+ 5:40:48.885 ------------------------------------
+ 5:40:53.785 ------------------------------------
+ 5:40:53.785   ***  CE Loop took 4.9 (sec)...
+ 5:40:53.785 Idle Mode Active!
+ 5:40:53.785 ------------------------------------
+ 5:40:58.684 ------------------------------------
+ 5:40:58.685   ***  CE Loop took 4.9 (sec)...
+ 5:40:58.685 Idle Mode Active!
+ 5:40:58.685 ------------------------------------
+ 5:41:03.584 ------------------------------------
+ 5:41:03.584   ***  CE Loop took 4.9 (sec)...
+ 5:41:03.584 Idle Mode Active!
+ 5:41:03.584 ------------------------------------
+ 5:41:08.484 ------------------------------------
+ 5:41:08.484   ***  CE Loop took 4.9 (sec)...
+ 5:41:08.484 Idle Mode Active!
+ 5:41:08.484 ------------------------------------
+ 5:41:13.384 ------------------------------------
+ 5:41:13.384   ***  CE Loop took 4.9 (sec)...
+ 5:41:13.384 Idle Mode Active!
+ 5:41:13.384 ------------------------------------
+ 5:41:18.285 ------------------------------------
+ 5:41:18.285   ***  CE Loop took 4.9 (sec)...
+ 5:41:18.285 Idle Mode Active!
+ 5:41:18.285 ------------------------------------
+ 5:41:23.185 ------------------------------------
+ 5:41:23.185   ***  CE Loop took 4.9 (sec)...
+ 5:41:23.185 Idle Mode Active!
+ 5:41:23.185 ------------------------------------
+ 5:41:28.85 ------------------------------------
+ 5:41:28.85   ***  CE Loop took 4.9 (sec)...
+ 5:41:28.85 Idle Mode Active!
+ 5:41:28.85 ------------------------------------
+ 5:41:32.985 ------------------------------------
+ 5:41:32.985   ***  CE Loop took 4.9 (sec)...
+ 5:41:32.985 Idle Mode Active!
+ 5:41:32.985 ------------------------------------
+ 5:41:37.885 ------------------------------------
+ 5:41:37.885   ***  CE Loop took 4.9 (sec)...
+ 5:41:37.885 Idle Mode Active!
+ 5:41:37.885 ------------------------------------
+ 5:41:42.785 ------------------------------------
+ 5:41:42.785   ***  CE Loop took 4.9 (sec)...
+ 5:41:42.785 Idle Mode Active!
+ 5:41:42.785 ------------------------------------
+ 5:41:47.685 ------------------------------------
+ 5:41:47.685   ***  CE Loop took 4.9 (sec)...
+ 5:41:47.685 Idle Mode Active!
+ 5:41:47.685 ------------------------------------
+ 5:41:52.585 ------------------------------------
+ 5:41:52.585   ***  CE Loop took 4.9 (sec)...
+ 5:41:52.585 Idle Mode Active!
+ 5:41:52.585 ------------------------------------
+ 5:41:57.485 ------------------------------------
+ 5:41:57.485   ***  CE Loop took 4.9 (sec)...
+ 5:41:57.485 Idle Mode Active!
+ 5:41:57.485 ------------------------------------
+ 5:42:02.385 ------------------------------------
+ 5:42:02.385   ***  CE Loop took 4.9 (sec)...
+ 5:42:02.385 Idle Mode Active!
+ 5:42:02.385 ------------------------------------
+ 5:42:07.285 ------------------------------------
+ 5:42:07.285   ***  CE Loop took 4.9 (sec)...
+ 5:42:07.285 Idle Mode Active!
+ 5:42:07.285 ------------------------------------
+ 5:42:12.185 ------------------------------------
+ 5:42:12.185   ***  CE Loop took 4.9 (sec)...
+ 5:42:12.185 Idle Mode Active!
+ 5:42:12.185 ------------------------------------
+ 5:42:17.86 ------------------------------------
+ 5:42:17.86   ***  CE Loop took 4.9 (sec)...
+ 5:42:17.86 Idle Mode Active!
+ 5:42:17.86 ------------------------------------
+ 5:42:21.986 ------------------------------------
+ 5:42:21.986   ***  CE Loop took 4.9 (sec)...
+ 5:42:21.986 Idle Mode Active!
+ 5:42:21.986 ------------------------------------
+ 5:42:26.886 ------------------------------------
+ 5:42:26.886   ***  CE Loop took 4.9 (sec)...
+ 5:42:26.886 Idle Mode Active!
+ 5:42:26.886 ------------------------------------
+ 5:42:31.785 ------------------------------------
+ 5:42:31.785   ***  CE Loop took 4.9 (sec)...
+ 5:42:31.785 Idle Mode Active!
+ 5:42:31.785 ------------------------------------
+ 5:42:36.685 ------------------------------------
+ 5:42:36.685   ***  CE Loop took 4.9 (sec)...
+ 5:42:36.685 Idle Mode Active!
+ 5:42:36.685 ------------------------------------
+ 5:42:41.585 ------------------------------------
+ 5:42:41.585   ***  CE Loop took 4.9 (sec)...
+ 5:42:41.585 Idle Mode Active!
+ 5:42:41.585 ------------------------------------
+ 5:42:46.486 ------------------------------------
+ 5:42:46.486   ***  CE Loop took 4.9 (sec)...
+ 5:42:46.486 Idle Mode Active!
+ 5:42:46.486 ------------------------------------
+ 5:42:51.386 ------------------------------------
+ 5:42:51.386   ***  CE Loop took 4.9 (sec)...
+ 5:42:51.386 Idle Mode Active!
+ 5:42:51.386 ------------------------------------
+ 5:42:56.286 ------------------------------------
+ 5:42:56.286   ***  CE Loop took 4.9 (sec)...
+ 5:42:56.286 Idle Mode Active!
+ 5:42:56.286 ------------------------------------
+ 5:43:01.186 ------------------------------------
+ 5:43:01.186   ***  CE Loop took 4.9 (sec)...
+ 5:43:01.186 Idle Mode Active!
+ 5:43:01.186 ------------------------------------
+ 5:43:06.86 ------------------------------------
+ 5:43:06.86   ***  CE Loop took 4.9 (sec)...
+ 5:43:06.86 Idle Mode Active!
+ 5:43:06.86 ------------------------------------
+ 5:43:10.986 ------------------------------------
+ 5:43:10.986   ***  CE Loop took 4.9 (sec)...
+ 5:43:10.986 Idle Mode Active!
+ 5:43:10.986 ------------------------------------
+ 5:43:15.886 ------------------------------------
+ 5:43:15.886   ***  CE Loop took 4.9 (sec)...
+ 5:43:15.886 Idle Mode Active!
+ 5:43:15.886 ------------------------------------
+ 5:43:20.786 ------------------------------------
+ 5:43:20.786   ***  CE Loop took 4.9 (sec)...
+ 5:43:20.786 Idle Mode Active!
+ 5:43:20.786 ------------------------------------
+ 5:43:25.686 ------------------------------------
+ 5:43:25.686   ***  CE Loop took 4.9 (sec)...
+ 5:43:25.686 Idle Mode Active!
+ 5:43:25.686 ------------------------------------
+ 5:43:30.586 ------------------------------------
+ 5:43:30.586   ***  CE Loop took 4.9 (sec)...
+ 5:43:30.586 Idle Mode Active!
+ 5:43:30.586 ------------------------------------
+ 5:43:35.486 ------------------------------------
+ 5:43:35.486   ***  CE Loop took 4.9 (sec)...
+ 5:43:35.486 Idle Mode Active!
+ 5:43:35.486 ------------------------------------
+ 5:43:40.386 ------------------------------------
+ 5:43:40.386   ***  CE Loop took 4.9 (sec)...
+ 5:43:40.386 Idle Mode Active!
+ 5:43:40.386 ------------------------------------
+ 5:43:45.287 ------------------------------------
+ 5:43:45.287   ***  CE Loop took 4.9 (sec)...
+ 5:43:45.287 Idle Mode Active!
+ 5:43:45.287 ------------------------------------
+ 5:43:50.187 ------------------------------------
+ 5:43:50.187   ***  CE Loop took 4.9 (sec)...
+ 5:43:50.187 Idle Mode Active!
+ 5:43:50.187 ------------------------------------
+ 5:43:55.87 ------------------------------------
+ 5:43:55.87   ***  CE Loop took 4.9 (sec)...
+ 5:43:55.87 Idle Mode Active!
+ 5:43:55.87 ------------------------------------
+ 5:43:59.986 ------------------------------------
+ 5:43:59.986   ***  CE Loop took 4.9 (sec)...
+ 5:43:59.986 Idle Mode Active!
+ 5:43:59.986 ------------------------------------
+ 5:44:04.886 ------------------------------------
+ 5:44:04.886   ***  CE Loop took 4.9 (sec)...
+ 5:44:04.886 Idle Mode Active!
+ 5:44:04.886 ------------------------------------
+ 5:44:09.786 ------------------------------------
+ 5:44:09.786   ***  CE Loop took 4.9 (sec)...
+ 5:44:09.786 Idle Mode Active!
+ 5:44:09.786 ------------------------------------
+ 5:44:14.687 ------------------------------------
+ 5:44:14.687   ***  CE Loop took 4.9 (sec)...
+ 5:44:14.687 Idle Mode Active!
+ 5:44:14.687 ------------------------------------
+ 5:44:19.587 ------------------------------------
+ 5:44:19.587   ***  CE Loop took 4.9 (sec)...
+ 5:44:19.587 Idle Mode Active!
+ 5:44:19.587 ------------------------------------
+ 5:44:24.487 ------------------------------------
+ 5:44:24.487   ***  CE Loop took 4.9 (sec)...
+ 5:44:24.487 Idle Mode Active!
+ 5:44:24.487 ------------------------------------
+ 5:44:29.387 ------------------------------------
+ 5:44:29.387   ***  CE Loop took 4.9 (sec)...
+ 5:44:29.387 Idle Mode Active!
+ 5:44:29.387 ------------------------------------
+ 5:44:34.287 ------------------------------------
+ 5:44:34.287   ***  CE Loop took 4.9 (sec)...
+ 5:44:34.287 Idle Mode Active!
+ 5:44:34.287 ------------------------------------
+ 5:44:39.187 ------------------------------------
+ 5:44:39.187   ***  CE Loop took 4.9 (sec)...
+ 5:44:39.187 Idle Mode Active!
+ 5:44:39.187 ------------------------------------
+ 5:44:44.88 ------------------------------------
+ 5:44:44.88   ***  CE Loop took 4.9 (sec)...
+ 5:44:44.88 Idle Mode Active!
+ 5:44:44.88 ------------------------------------
+ 5:44:48.987 ------------------------------------
+ 5:44:48.987   ***  CE Loop took 4.9 (sec)...
+ 5:44:48.987 Idle Mode Active!
+ 5:44:48.987 ------------------------------------
+ 5:44:53.887 ------------------------------------
+ 5:44:53.887   ***  CE Loop took 4.9 (sec)...
+ 5:44:53.887 Idle Mode Active!
+ 5:44:53.887 ------------------------------------
+ 5:44:58.787 ------------------------------------
+ 5:44:58.787   ***  CE Loop took 4.9 (sec)...
+ 5:44:58.787 Idle Mode Active!
+ 5:44:58.787 ------------------------------------
+ 5:45:03.687 ------------------------------------
+ 5:45:03.687   ***  CE Loop took 4.9 (sec)...
+ 5:45:03.687 Idle Mode Active!
+ 5:45:03.687 ------------------------------------
+ 5:45:08.587 ------------------------------------
+ 5:45:08.587   ***  CE Loop took 4.9 (sec)...
+ 5:45:08.587 Idle Mode Active!
+ 5:45:08.587 ------------------------------------
+ 5:45:13.488 ------------------------------------
+ 5:45:13.488   ***  CE Loop took 4.9 (sec)...
+ 5:45:13.488 Idle Mode Active!
+ 5:45:13.488 ------------------------------------
+ 5:45:18.388 ------------------------------------
+ 5:45:18.388   ***  CE Loop took 4.9 (sec)...
+ 5:45:18.388 Idle Mode Active!
+ 5:45:18.388 ------------------------------------
+ 5:45:23.288 ------------------------------------
+ 5:45:23.288   ***  CE Loop took 4.9 (sec)...
+ 5:45:23.288 Idle Mode Active!
+ 5:45:23.288 ------------------------------------
+ 5:45:28.188 ------------------------------------
+ 5:45:28.188   ***  CE Loop took 4.9 (sec)...
+ 5:45:28.188 Idle Mode Active!
+ 5:45:28.188 ------------------------------------
+ 5:45:33.87 ------------------------------------
+ 5:45:33.88   ***  CE Loop took 4.9 (sec)...
+ 5:45:33.88 Idle Mode Active!
+ 5:45:33.88 ------------------------------------
+ 5:45:37.987 ------------------------------------
+ 5:45:37.987   ***  CE Loop took 4.9 (sec)...
+ 5:45:37.987 Idle Mode Active!
+ 5:45:37.987 ------------------------------------
+ 5:45:42.888 ------------------------------------
+ 5:45:42.888   ***  CE Loop took 4.9 (sec)...
+ 5:45:42.888 Idle Mode Active!
+ 5:45:42.888 ------------------------------------
+ 5:45:47.788 ------------------------------------
+ 5:45:47.788   ***  CE Loop took 4.9 (sec)...
+ 5:45:47.788 Idle Mode Active!
+ 5:45:47.788 ------------------------------------
+ 5:45:52.688 ------------------------------------
+ 5:45:52.688   ***  CE Loop took 4.9 (sec)...
+ 5:45:52.688 Idle Mode Active!
+ 5:45:52.688 ------------------------------------
+ 5:45:57.588 ------------------------------------
+ 5:45:57.588   ***  CE Loop took 4.9 (sec)...
+ 5:45:57.588 Idle Mode Active!
+ 5:45:57.588 ------------------------------------
+ 5:46:02.488 ------------------------------------
+ 5:46:02.488   ***  CE Loop took 4.9 (sec)...
+ 5:46:02.488 Idle Mode Active!
+ 5:46:02.488 ------------------------------------
+ 5:46:07.388 ------------------------------------
+ 5:46:07.388   ***  CE Loop took 4.9 (sec)...
+ 5:46:07.388 Idle Mode Active!
+ 5:46:07.388 ------------------------------------
+ 5:46:12.289 ------------------------------------
+ 5:46:12.289   ***  CE Loop took 4.9 (sec)...
+ 5:46:12.289 Idle Mode Active!
+ 5:46:12.289 ------------------------------------
+ 5:46:17.189 ------------------------------------
+ 5:46:17.189   ***  CE Loop took 4.9 (sec)...
+ 5:46:17.189 Idle Mode Active!
+ 5:46:17.189 ------------------------------------
+ 5:46:22.88 ------------------------------------
+ 5:46:22.88   ***  CE Loop took 4.9 (sec)...
+ 5:46:22.88 Idle Mode Active!
+ 5:46:22.88 ------------------------------------
+ 5:46:26.988 ------------------------------------
+ 5:46:26.988   ***  CE Loop took 4.9 (sec)...
+ 5:46:26.988 Idle Mode Active!
+ 5:46:26.988 ------------------------------------
+ 5:46:31.888 ------------------------------------
+ 5:46:31.888   ***  CE Loop took 4.9 (sec)...
+ 5:46:31.888 Idle Mode Active!
+ 5:46:31.888 ------------------------------------
+ 5:46:36.788 ------------------------------------
+ 5:46:36.788   ***  CE Loop took 4.9 (sec)...
+ 5:46:36.788 Idle Mode Active!
+ 5:46:36.788 ------------------------------------
+ 5:46:41.689 ------------------------------------
+ 5:46:41.689   ***  CE Loop took 4.9 (sec)...
+ 5:46:41.689 Idle Mode Active!
+ 5:46:41.689 ------------------------------------
+ 5:46:46.589 ------------------------------------
+ 5:46:46.589   ***  CE Loop took 4.9 (sec)...
+ 5:46:46.589 Idle Mode Active!
+ 5:46:46.589 ------------------------------------
+ 5:46:51.489 ------------------------------------
+ 5:46:51.489   ***  CE Loop took 4.9 (sec)...
+ 5:46:51.489 Idle Mode Active!
+ 5:46:51.489 ------------------------------------
+ 5:46:56.389 ------------------------------------
+ 5:46:56.389   ***  CE Loop took 4.9 (sec)...
+ 5:46:56.389 Idle Mode Active!
+ 5:46:56.389 ------------------------------------
+ 5:47:01.289 ------------------------------------
+ 5:47:01.289   ***  CE Loop took 4.9 (sec)...
+ 5:47:01.289 Idle Mode Active!
+ 5:47:01.289 ------------------------------------
+ 5:47:06.188 ------------------------------------
+ 5:47:06.188   ***  CE Loop took 4.9 (sec)...
+ 5:47:06.188 Idle Mode Active!
+ 5:47:06.188 ------------------------------------
+ 5:47:11.89 ------------------------------------
+ 5:47:11.89   ***  CE Loop took 4.9 (sec)...
+ 5:47:11.89 Idle Mode Active!
+ 5:47:11.89 ------------------------------------
+ 5:47:15.989 ------------------------------------
+ 5:47:15.989   ***  CE Loop took 4.9 (sec)...
+ 5:47:15.989 Idle Mode Active!
+ 5:47:15.989 ------------------------------------
+ 5:47:20.889 ------------------------------------
+ 5:47:20.889   ***  CE Loop took 4.9 (sec)...
+ 5:47:20.889 Idle Mode Active!
+ 5:47:20.889 ------------------------------------
+ 5:47:25.789 ------------------------------------
+ 5:47:25.789   ***  CE Loop took 4.9 (sec)...
+ 5:47:25.789 Idle Mode Active!
+ 5:47:25.789 ------------------------------------
+ 5:47:30.689 ------------------------------------
+ 5:47:30.689   ***  CE Loop took 4.9 (sec)...
+ 5:47:30.689 Idle Mode Active!
+ 5:47:30.689 ------------------------------------
+ 5:47:35.589 ------------------------------------
+ 5:47:35.589   ***  CE Loop took 4.9 (sec)...
+ 5:47:35.589 Idle Mode Active!
+ 5:47:35.589 ------------------------------------
+ 5:47:40.490 ------------------------------------
+ 5:47:40.490   ***  CE Loop took 4.9 (sec)...
+ 5:47:40.490 Idle Mode Active!
+ 5:47:40.490 ------------------------------------
+ 5:47:45.390 ------------------------------------
+ 5:47:45.390   ***  CE Loop took 4.9 (sec)...
+ 5:47:45.390 Idle Mode Active!
+ 5:47:45.390 ------------------------------------
+ 5:47:50.289 ------------------------------------
+ 5:47:50.289   ***  CE Loop took 4.9 (sec)...
+ 5:47:50.289 Idle Mode Active!
+ 5:47:50.289 ------------------------------------
+ 5:47:55.189 ------------------------------------
+ 5:47:55.189   ***  CE Loop took 4.9 (sec)...
+ 5:47:55.189 Idle Mode Active!
+ 5:47:55.189 ------------------------------------
+ 5:48:00.89 ------------------------------------
+ 5:48:00.89   ***  CE Loop took 4.9 (sec)...
+ 5:48:00.89 Idle Mode Active!
+ 5:48:00.89 ------------------------------------
+ 5:48:04.990 ------------------------------------
+ 5:48:04.990   ***  CE Loop took 4.9 (sec)...
+ 5:48:04.990 Idle Mode Active!
+ 5:48:04.990 ------------------------------------
+ 5:48:09.890 ------------------------------------
+ 5:48:09.890   ***  CE Loop took 4.9 (sec)...
+ 5:48:09.890 Idle Mode Active!
+ 5:48:09.890 ------------------------------------
+ 5:48:14.790 ------------------------------------
+ 5:48:14.790   ***  CE Loop took 4.9 (sec)...
+ 5:48:14.790 Idle Mode Active!
+ 5:48:14.790 ------------------------------------
+ 5:48:19.690 ------------------------------------
+ 5:48:19.690   ***  CE Loop took 4.9 (sec)...
+ 5:48:19.690 Idle Mode Active!
+ 5:48:19.690 ------------------------------------
+ 5:48:24.590 ------------------------------------
+ 5:48:24.590   ***  CE Loop took 4.9 (sec)...
+ 5:48:24.590 Idle Mode Active!
+ 5:48:24.590 ------------------------------------
+ 5:48:29.490 ------------------------------------
+ 5:48:29.490   ***  CE Loop took 4.9 (sec)...
+ 5:48:29.490 Idle Mode Active!
+ 5:48:29.490 ------------------------------------
+ 5:48:34.391 ------------------------------------
+ 5:48:34.391   ***  CE Loop took 4.9 (sec)...
+ 5:48:34.391 Idle Mode Active!
+ 5:48:34.391 ------------------------------------
+ 5:48:39.290 ------------------------------------
+ 5:48:39.290   ***  CE Loop took 4.9 (sec)...
+ 5:48:39.290 Idle Mode Active!
+ 5:48:39.290 ------------------------------------
+ 5:48:44.190 ------------------------------------
+ 5:48:44.190   ***  CE Loop took 4.9 (sec)...
+ 5:48:44.190 Idle Mode Active!
+ 5:48:44.190 ------------------------------------
+ 5:48:49.90 ------------------------------------
+ 5:48:49.90   ***  CE Loop took 4.9 (sec)...
+ 5:48:49.90 Idle Mode Active!
+ 5:48:49.90 ------------------------------------
+ 5:48:53.990 ------------------------------------
+ 5:48:53.990   ***  CE Loop took 4.9 (sec)...
+ 5:48:53.990 Idle Mode Active!
+ 5:48:53.990 ------------------------------------
+ 5:48:58.890 ------------------------------------
+ 5:48:58.890   ***  CE Loop took 4.9 (sec)...
+ 5:48:58.890 Idle Mode Active!
+ 5:48:58.890 ------------------------------------
+ 5:49:03.791 ------------------------------------
+ 5:49:03.791   ***  CE Loop took 4.9 (sec)...
+ 5:49:03.791 Idle Mode Active!
+ 5:49:03.791 ------------------------------------
+ 5:49:08.691 ------------------------------------
+ 5:49:08.691   ***  CE Loop took 4.9 (sec)...
+ 5:49:08.691 Idle Mode Active!
+ 5:49:08.691 ------------------------------------
+ 5:49:13.591 ------------------------------------
+ 5:49:13.591   ***  CE Loop took 4.9 (sec)...
+ 5:49:13.591 Idle Mode Active!
+ 5:49:13.591 ------------------------------------
+ 5:49:18.491 ------------------------------------
+ 5:49:18.491   ***  CE Loop took 4.9 (sec)...
+ 5:49:18.491 Idle Mode Active!
+ 5:49:18.491 ------------------------------------
+ 5:49:23.390 ------------------------------------
+ 5:49:23.390   ***  CE Loop took 4.9 (sec)...
+ 5:49:23.390 Idle Mode Active!
+ 5:49:23.390 ------------------------------------
+ 5:49:28.290 ------------------------------------
+ 5:49:28.290   ***  CE Loop took 4.9 (sec)...
+ 5:49:28.290 Idle Mode Active!
+ 5:49:28.290 ------------------------------------
+ 5:49:33.191 ------------------------------------
+ 5:49:33.191   ***  CE Loop took 4.9 (sec)...
+ 5:49:33.191 Idle Mode Active!
+ 5:49:33.191 ------------------------------------
+ 5:49:38.91 ------------------------------------
+ 5:49:38.91   ***  CE Loop took 4.9 (sec)...
+ 5:49:38.91 Idle Mode Active!
+ 5:49:38.91 ------------------------------------
+ 5:49:42.991 ------------------------------------
+ 5:49:42.991   ***  CE Loop took 4.9 (sec)...
+ 5:49:42.991 Idle Mode Active!
+ 5:49:42.991 ------------------------------------
+ 5:49:47.891 ------------------------------------
+ 5:49:47.891   ***  CE Loop took 4.9 (sec)...
+ 5:49:47.891 Idle Mode Active!
+ 5:49:47.891 ------------------------------------
+ 5:49:52.791 ------------------------------------
+ 5:49:52.791   ***  CE Loop took 4.9 (sec)...
+ 5:49:52.791 Idle Mode Active!
+ 5:49:52.791 ------------------------------------
+ 5:49:57.691 ------------------------------------
+ 5:49:57.691   ***  CE Loop took 4.9 (sec)...
+ 5:49:57.691 Idle Mode Active!
+ 5:49:57.691 ------------------------------------
+ 5:50:02.592 ------------------------------------
+ 5:50:02.592   ***  CE Loop took 4.9 (sec)...
+ 5:50:02.592 Idle Mode Active!
+ 5:50:02.592 ------------------------------------
+ 5:50:07.492 ------------------------------------
+ 5:50:07.492   ***  CE Loop took 4.9 (sec)...
+ 5:50:07.492 Idle Mode Active!
+ 5:50:07.492 ------------------------------------
+ 5:50:12.391 ------------------------------------
+ 5:50:12.391   ***  CE Loop took 4.9 (sec)...
+ 5:50:12.391 Idle Mode Active!
+ 5:50:12.391 ------------------------------------
+ 5:50:17.291 ------------------------------------
+ 5:50:17.291   ***  CE Loop took 4.9 (sec)...
+ 5:50:17.291 Idle Mode Active!
+ 5:50:17.291 ------------------------------------
+ 5:50:22.191 ------------------------------------
+ 5:50:22.191   ***  CE Loop took 4.9 (sec)...
+ 5:50:22.191 Idle Mode Active!
+ 5:50:22.191 ------------------------------------
+ 5:50:27.91 ------------------------------------
+ 5:50:27.91   ***  CE Loop took 4.9 (sec)...
+ 5:50:27.91 Idle Mode Active!
+ 5:50:27.91 ------------------------------------
+ 5:50:31.992 ------------------------------------
+ 5:50:31.992   ***  CE Loop took 4.9 (sec)...
+ 5:50:31.992 Idle Mode Active!
+ 5:50:31.992 ------------------------------------
+ 5:50:36.892 ------------------------------------
+ 5:50:36.892   ***  CE Loop took 4.9 (sec)...
+ 5:50:36.892 Idle Mode Active!
+ 5:50:36.892 ------------------------------------
+ 5:50:41.792 ------------------------------------
+ 5:50:41.792   ***  CE Loop took 4.9 (sec)...
+ 5:50:41.792 Idle Mode Active!
+ 5:50:41.792 ------------------------------------
+ 5:50:46.692 ------------------------------------
+ 5:50:46.692   ***  CE Loop took 4.9 (sec)...
+ 5:50:46.692 Idle Mode Active!
+ 5:50:46.692 ------------------------------------
+ 5:50:51.591 ------------------------------------
+ 5:50:51.591   ***  CE Loop took 4.9 (sec)...
+ 5:50:51.591 Idle Mode Active!
+ 5:50:51.592 ------------------------------------
+ 5:50:56.491 ------------------------------------
+ 5:50:56.491   ***  CE Loop took 4.9 (sec)...
+ 5:50:56.491 Idle Mode Active!
+ 5:50:56.491 ------------------------------------
+ 5:51:01.392 ------------------------------------
+ 5:51:01.392   ***  CE Loop took 4.9 (sec)...
+ 5:51:01.392 Idle Mode Active!
+ 5:51:01.392 ------------------------------------
+ 5:51:06.292 ------------------------------------
+ 5:51:06.292   ***  CE Loop took 4.9 (sec)...
+ 5:51:06.292 Idle Mode Active!
+ 5:51:06.292 ------------------------------------
+ 5:51:11.192 ------------------------------------
+ 5:51:11.192   ***  CE Loop took 4.9 (sec)...
+ 5:51:11.192 Idle Mode Active!
+ 5:51:11.192 ------------------------------------
+ 5:51:16.92 ------------------------------------
+ 5:51:16.92   ***  CE Loop took 4.9 (sec)...
+ 5:51:16.92 Idle Mode Active!
+ 5:51:16.92 ------------------------------------
+ 5:51:20.992 ------------------------------------
+ 5:51:20.992   ***  CE Loop took 4.9 (sec)...
+ 5:51:20.992 Idle Mode Active!
+ 5:51:20.992 ------------------------------------
+ 5:51:25.892 ------------------------------------
+ 5:51:25.892   ***  CE Loop took 4.9 (sec)...
+ 5:51:25.892 Idle Mode Active!
+ 5:51:25.892 ------------------------------------
+ 5:51:30.793 ------------------------------------
+ 5:51:30.793   ***  CE Loop took 4.9 (sec)...
+ 5:51:30.793 Idle Mode Active!
+ 5:51:30.793 ------------------------------------
+ 5:51:35.693 ------------------------------------
+ 5:51:35.693   ***  CE Loop took 4.9 (sec)...
+ 5:51:35.693 Idle Mode Active!
+ 5:51:35.693 ------------------------------------
+ 5:51:40.592 ------------------------------------
+ 5:51:40.592   ***  CE Loop took 4.9 (sec)...
+ 5:51:40.592 Idle Mode Active!
+ 5:51:40.592 ------------------------------------
+ 5:51:45.492 ------------------------------------
+ 5:51:45.492   ***  CE Loop took 4.9 (sec)...
+ 5:51:45.492 Idle Mode Active!
+ 5:51:45.492 ------------------------------------
+ 5:51:50.392 ------------------------------------
+ 5:51:50.392   ***  CE Loop took 4.9 (sec)...
+ 5:51:50.392 Idle Mode Active!
+ 5:51:50.392 ------------------------------------
+ 5:51:55.292 ------------------------------------
+ 5:51:55.292   ***  CE Loop took 4.9 (sec)...
+ 5:51:55.292 Idle Mode Active!
+ 5:51:55.292 ------------------------------------
+ 5:52:00.193 ------------------------------------
+ 5:52:00.193   ***  CE Loop took 4.9 (sec)...
+ 5:52:00.193 Idle Mode Active!
+ 5:52:00.193 ------------------------------------
+ 5:52:05.93 ------------------------------------
+ 5:52:05.93   ***  CE Loop took 4.9 (sec)...
+ 5:52:05.93 Idle Mode Active!
+ 5:52:05.93 ------------------------------------
+ 5:52:09.993 ------------------------------------
+ 5:52:09.993   ***  CE Loop took 4.9 (sec)...
+ 5:52:09.993 Idle Mode Active!
+ 5:52:09.993 ------------------------------------
+ 5:52:14.893 ------------------------------------
+ 5:52:14.893   ***  CE Loop took 4.9 (sec)...
+ 5:52:14.893 Idle Mode Active!
+ 5:52:14.893 ------------------------------------
+ 5:52:19.793 ------------------------------------
+ 5:52:19.793   ***  CE Loop took 4.9 (sec)...
+ 5:52:19.793 Idle Mode Active!
+ 5:52:19.793 ------------------------------------
+ 5:52:24.692 ------------------------------------
+ 5:52:24.692   ***  CE Loop took 4.9 (sec)...
+ 5:52:24.692 Idle Mode Active!
+ 5:52:24.692 ------------------------------------
+ 5:52:29.593 ------------------------------------
+ 5:52:29.593   ***  CE Loop took 4.9 (sec)...
+ 5:52:29.593 Idle Mode Active!
+ 5:52:29.593 ------------------------------------
+ 5:52:34.493 ------------------------------------
+ 5:52:34.493   ***  CE Loop took 4.9 (sec)...
+ 5:52:34.493 Idle Mode Active!
+ 5:52:34.493 ------------------------------------
+ 5:52:39.393 ------------------------------------
+ 5:52:39.393   ***  CE Loop took 4.9 (sec)...
+ 5:52:39.393 Idle Mode Active!
+ 5:52:39.393 ------------------------------------
+ 5:52:44.293 ------------------------------------
+ 5:52:44.293   ***  CE Loop took 4.9 (sec)...
+ 5:52:44.293 Idle Mode Active!
+ 5:52:44.293 ------------------------------------
+ 5:52:49.193 ------------------------------------
+ 5:52:49.193   ***  CE Loop took 4.9 (sec)...
+ 5:52:49.193 Idle Mode Active!
+ 5:52:49.193 ------------------------------------
+ 5:52:54.93 ------------------------------------
+ 5:52:54.93   ***  CE Loop took 4.9 (sec)...
+ 5:52:54.93 Idle Mode Active!
+ 5:52:54.93 ------------------------------------
+ 5:52:58.994 ------------------------------------
+ 5:52:58.994   ***  CE Loop took 4.9 (sec)...
+ 5:52:58.994 Idle Mode Active!
+ 5:52:58.994 ------------------------------------
+ 5:53:03.894 ------------------------------------
+ 5:53:03.894   ***  CE Loop took 4.9 (sec)...
+ 5:53:03.894 Idle Mode Active!
+ 5:53:03.894 ------------------------------------
+ 5:53:08.793 ------------------------------------
+ 5:53:08.794   ***  CE Loop took 4.9 (sec)...
+ 5:53:08.794 Idle Mode Active!
+ 5:53:08.794 ------------------------------------
+ 5:53:13.693 ------------------------------------
+ 5:53:13.693   ***  CE Loop took 4.9 (sec)...
+ 5:53:13.693 Idle Mode Active!
+ 5:53:13.693 ------------------------------------
+ 5:53:18.593 ------------------------------------
+ 5:53:18.593   ***  CE Loop took 4.9 (sec)...
+ 5:53:18.593 Idle Mode Active!
+ 5:53:18.593 ------------------------------------
+ 5:53:23.493 ------------------------------------
+ 5:53:23.493   ***  CE Loop took 4.9 (sec)...
+ 5:53:23.493 Idle Mode Active!
+ 5:53:23.493 ------------------------------------
+ 5:53:28.394 ------------------------------------
+ 5:53:28.394   ***  CE Loop took 4.9 (sec)...
+ 5:53:28.394 Idle Mode Active!
+ 5:53:28.394 ------------------------------------
+ 5:53:33.294 ------------------------------------
+ 5:53:33.294   ***  CE Loop took 4.9 (sec)...
+ 5:53:33.294 Idle Mode Active!
+ 5:53:33.294 ------------------------------------
+ 5:53:38.194 ------------------------------------
+ 5:53:38.194   ***  CE Loop took 4.9 (sec)...
+ 5:53:38.194 Idle Mode Active!
+ 5:53:38.194 ------------------------------------
+ 5:53:43.94 ------------------------------------
+ 5:53:43.94   ***  CE Loop took 4.9 (sec)...
+ 5:53:43.94 Idle Mode Active!
+ 5:53:43.94 ------------------------------------
+ 5:53:47.994 ------------------------------------
+ 5:53:47.994   ***  CE Loop took 4.9 (sec)...
+ 5:53:47.994 Idle Mode Active!
+ 5:53:47.994 ------------------------------------
+ 5:53:52.894 ------------------------------------
+ 5:53:52.894   ***  CE Loop took 4.9 (sec)...
+ 5:53:52.894 Idle Mode Active!
+ 5:53:52.894 ------------------------------------
+ 5:53:57.794 ------------------------------------
+ 5:53:57.794   ***  CE Loop took 4.9 (sec)...
+ 5:53:57.795 Idle Mode Active!
+ 5:53:57.795 ------------------------------------
+ 5:54:02.694 ------------------------------------
+ 5:54:02.694   ***  CE Loop took 4.9 (sec)...
+ 5:54:02.694 Idle Mode Active!
+ 5:54:02.694 ------------------------------------
+ 5:54:07.594 ------------------------------------
+ 5:54:07.594   ***  CE Loop took 4.9 (sec)...
+ 5:54:07.594 Idle Mode Active!
+ 5:54:07.594 ------------------------------------
+ 5:54:12.494 ------------------------------------
+ 5:54:12.494   ***  CE Loop took 4.9 (sec)...
+ 5:54:12.494 Idle Mode Active!
+ 5:54:12.494 ------------------------------------
+ 5:54:17.394 ------------------------------------
+ 5:54:17.394   ***  CE Loop took 4.9 (sec)...
+ 5:54:17.394 Idle Mode Active!
+ 5:54:17.394 ------------------------------------
+ 5:54:22.294 ------------------------------------
+ 5:54:22.294   ***  CE Loop took 4.9 (sec)...
+ 5:54:22.294 Idle Mode Active!
+ 5:54:22.294 ------------------------------------
+ 5:54:27.195 ------------------------------------
+ 5:54:27.195   ***  CE Loop took 4.9 (sec)...
+ 5:54:27.195 Idle Mode Active!
+ 5:54:27.195 ------------------------------------
+ 5:54:32.95 ------------------------------------
+ 5:54:32.95   ***  CE Loop took 4.9 (sec)...
+ 5:54:32.95 Idle Mode Active!
+ 5:54:32.95 ------------------------------------
+ 5:54:36.995 ------------------------------------
+ 5:54:36.995   ***  CE Loop took 4.9 (sec)...
+ 5:54:36.995 Idle Mode Active!
+ 5:54:36.995 ------------------------------------
+ 5:54:41.894 ------------------------------------
+ 5:54:41.894   ***  CE Loop took 4.9 (sec)...
+ 5:54:41.894 Idle Mode Active!
+ 5:54:41.894 ------------------------------------
+ 5:54:46.794 ------------------------------------
+ 5:54:46.794   ***  CE Loop took 4.9 (sec)...
+ 5:54:46.794 Idle Mode Active!
+ 5:54:46.794 ------------------------------------
+ 5:54:51.694 ------------------------------------
+ 5:54:51.694   ***  CE Loop took 4.9 (sec)...
+ 5:54:51.694 Idle Mode Active!
+ 5:54:51.694 ------------------------------------
+ 5:54:56.595 ------------------------------------
+ 5:54:56.595   ***  CE Loop took 4.9 (sec)...
+ 5:54:56.595 Idle Mode Active!
+ 5:54:56.595 ------------------------------------
+ 5:55:01.495 ------------------------------------
+ 5:55:01.495   ***  CE Loop took 4.9 (sec)...
+ 5:55:01.495 Idle Mode Active!
+ 5:55:01.495 ------------------------------------
+ 5:55:06.395 ------------------------------------
+ 5:55:06.395   ***  CE Loop took 4.9 (sec)...
+ 5:55:06.395 Idle Mode Active!
+ 5:55:06.395 ------------------------------------
+ 5:55:11.295 ------------------------------------
+ 5:55:11.295   ***  CE Loop took 4.9 (sec)...
+ 5:55:11.295 Idle Mode Active!
+ 5:55:11.295 ------------------------------------
+ 5:55:16.195 ------------------------------------
+ 5:55:16.195   ***  CE Loop took 4.9 (sec)...
+ 5:55:16.195 Idle Mode Active!
+ 5:55:16.195 ------------------------------------
+ 5:55:21.95 ------------------------------------
+ 5:55:21.95   ***  CE Loop took 4.9 (sec)...
+ 5:55:21.95 Idle Mode Active!
+ 5:55:21.95 ------------------------------------
+ 5:55:25.995 ------------------------------------
+ 5:55:25.995   ***  CE Loop took 4.9 (sec)...
+ 5:55:25.995 Idle Mode Active!
+ 5:55:25.995 ------------------------------------
+ 5:55:30.895 ------------------------------------
+ 5:55:30.895   ***  CE Loop took 4.9 (sec)...
+ 5:55:30.895 Idle Mode Active!
+ 5:55:30.895 ------------------------------------
+ 5:55:35.795 ------------------------------------
+ 5:55:35.795   ***  CE Loop took 4.9 (sec)...
+ 5:55:35.795 Idle Mode Active!
+ 5:55:35.795 ------------------------------------
+ 5:55:40.695 ------------------------------------
+ 5:55:40.695   ***  CE Loop took 4.9 (sec)...
+ 5:55:40.695 Idle Mode Active!
+ 5:55:40.695 ------------------------------------
+ 5:55:45.595 ------------------------------------
+ 5:55:45.595   ***  CE Loop took 4.9 (sec)...
+ 5:55:45.595 Idle Mode Active!
+ 5:55:45.595 ------------------------------------
+ 5:55:50.495 ------------------------------------
+ 5:55:50.495   ***  CE Loop took 4.9 (sec)...
+ 5:55:50.495 Idle Mode Active!
+ 5:55:50.495 ------------------------------------
+ 5:55:55.396 ------------------------------------
+ 5:55:55.396   ***  CE Loop took 4.9 (sec)...
+ 5:55:55.396 Idle Mode Active!
+ 5:55:55.396 ------------------------------------
+ 5:56:00.296 ------------------------------------
+ 5:56:00.296   ***  CE Loop took 4.9 (sec)...
+ 5:56:00.296 Idle Mode Active!
+ 5:56:00.296 ------------------------------------
+ 5:56:05.196 ------------------------------------
+ 5:56:05.196   ***  CE Loop took 4.9 (sec)...
+ 5:56:05.196 Idle Mode Active!
+ 5:56:05.196 ------------------------------------
+ 5:56:10.96 ------------------------------------
+ 5:56:10.96   ***  CE Loop took 4.9 (sec)...
+ 5:56:10.96 Idle Mode Active!
+ 5:56:10.96 ------------------------------------
+ 5:56:14.995 ------------------------------------
+ 5:56:14.995   ***  CE Loop took 4.9 (sec)...
+ 5:56:14.995 Idle Mode Active!
+ 5:56:14.995 ------------------------------------
+ 5:56:19.895 ------------------------------------
+ 5:56:19.895   ***  CE Loop took 4.9 (sec)...
+ 5:56:19.895 Idle Mode Active!
+ 5:56:19.895 ------------------------------------
+ 5:56:24.796 ------------------------------------
+ 5:56:24.796   ***  CE Loop took 4.9 (sec)...
+ 5:56:24.796 Idle Mode Active!
+ 5:56:24.796 ------------------------------------
+ 5:56:29.696 ------------------------------------
+ 5:56:29.696   ***  CE Loop took 4.9 (sec)...
+ 5:56:29.696 Idle Mode Active!
+ 5:56:29.696 ------------------------------------
+ 5:56:34.596 ------------------------------------
+ 5:56:34.596   ***  CE Loop took 4.9 (sec)...
+ 5:56:34.596 Idle Mode Active!
+ 5:56:34.596 ------------------------------------
+ 5:56:39.496 ------------------------------------
+ 5:56:39.496   ***  CE Loop took 4.9 (sec)...
+ 5:56:39.496 Idle Mode Active!
+ 5:56:39.496 ------------------------------------
+ 5:56:44.396 ------------------------------------
+ 5:56:44.396   ***  CE Loop took 4.9 (sec)...
+ 5:56:44.396 Idle Mode Active!
+ 5:56:44.396 ------------------------------------
+ 5:56:49.296 ------------------------------------
+ 5:56:49.296   ***  CE Loop took 4.9 (sec)...
+ 5:56:49.296 Idle Mode Active!
+ 5:56:49.296 ------------------------------------
+ 5:56:54.197 ------------------------------------
+ 5:56:54.197   ***  CE Loop took 4.9 (sec)...
+ 5:56:54.197 Idle Mode Active!
+ 5:56:54.197 ------------------------------------
+ 5:56:59.97 ------------------------------------
+ 5:56:59.97   ***  CE Loop took 4.9 (sec)...
+ 5:56:59.97 Idle Mode Active!
+ 5:56:59.97 ------------------------------------
+ 5:57:03.996 ------------------------------------
+ 5:57:03.996   ***  CE Loop took 4.9 (sec)...
+ 5:57:03.996 Idle Mode Active!
+ 5:57:03.996 ------------------------------------
+ 5:57:08.896 ------------------------------------
+ 5:57:08.896   ***  CE Loop took 4.9 (sec)...
+ 5:57:08.896 Idle Mode Active!
+ 5:57:08.896 ------------------------------------
+ 5:57:13.796 ------------------------------------
+ 5:57:13.796   ***  CE Loop took 4.9 (sec)...
+ 5:57:13.796 Idle Mode Active!
+ 5:57:13.796 ------------------------------------
+ 5:57:18.696 ------------------------------------
+ 5:57:18.696   ***  CE Loop took 4.9 (sec)...
+ 5:57:18.696 Idle Mode Active!
+ 5:57:18.696 ------------------------------------
+ 5:57:23.597 ------------------------------------
+ 5:57:23.597   ***  CE Loop took 4.9 (sec)...
+ 5:57:23.597 Idle Mode Active!
+ 5:57:23.597 ------------------------------------
+ 5:57:28.497 ------------------------------------
+ 5:57:28.497   ***  CE Loop took 4.9 (sec)...
+ 5:57:28.497 Idle Mode Active!
+ 5:57:28.497 ------------------------------------
+ 5:57:33.397 ------------------------------------
+ 5:57:33.397   ***  CE Loop took 4.9 (sec)...
+ 5:57:33.397 Idle Mode Active!
+ 5:57:33.397 ------------------------------------
+ 5:57:38.297 ------------------------------------
+ 5:57:38.297   ***  CE Loop took 4.9 (sec)...
+ 5:57:38.297 Idle Mode Active!
+ 5:57:38.297 ------------------------------------
+ 5:57:43.196 ------------------------------------
+ 5:57:43.196   ***  CE Loop took 4.9 (sec)...
+ 5:57:43.196 Idle Mode Active!
+ 5:57:43.196 ------------------------------------
+ 5:57:48.96 ------------------------------------
+ 5:57:48.96   ***  CE Loop took 4.9 (sec)...
+ 5:57:48.96 Idle Mode Active!
+ 5:57:48.96 ------------------------------------
+ 5:57:52.997 ------------------------------------
+ 5:57:52.997   ***  CE Loop took 4.9 (sec)...
+ 5:57:52.997 Idle Mode Active!
+ 5:57:52.997 ------------------------------------
+ 5:57:57.897 ------------------------------------
+ 5:57:57.897   ***  CE Loop took 4.9 (sec)...
+ 5:57:57.897 Idle Mode Active!
+ 5:57:57.897 ------------------------------------
+ 5:58:02.797 ------------------------------------
+ 5:58:02.797   ***  CE Loop took 4.9 (sec)...
+ 5:58:02.797 Idle Mode Active!
+ 5:58:02.797 ------------------------------------
+ 5:58:07.697 ------------------------------------
+ 5:58:07.697   ***  CE Loop took 4.9 (sec)...
+ 5:58:07.697 Idle Mode Active!
+ 5:58:07.697 ------------------------------------
+ 5:58:12.597 ------------------------------------
+ 5:58:12.597   ***  CE Loop took 4.9 (sec)...
+ 5:58:12.597 Idle Mode Active!
+ 5:58:12.597 ------------------------------------
+ 5:58:17.497 ------------------------------------
+ 5:58:17.497   ***  CE Loop took 4.9 (sec)...
+ 5:58:17.497 Idle Mode Active!
+ 5:58:17.497 ------------------------------------
+ 5:58:22.398 ------------------------------------
+ 5:58:22.398   ***  CE Loop took 4.9 (sec)...
+ 5:58:22.398 Idle Mode Active!
+ 5:58:22.398 ------------------------------------
+ 5:58:27.298 ------------------------------------
+ 5:58:27.298   ***  CE Loop took 4.9 (sec)...
+ 5:58:27.298 Idle Mode Active!
+ 5:58:27.298 ------------------------------------
+ 5:58:32.197 ------------------------------------
+ 5:58:32.197   ***  CE Loop took 4.9 (sec)...
+ 5:58:32.197 Idle Mode Active!
+ 5:58:32.197 ------------------------------------
+ 5:58:37.97 ------------------------------------
+ 5:58:37.97   ***  CE Loop took 4.9 (sec)...
+ 5:58:37.97 Idle Mode Active!
+ 5:58:37.97 ------------------------------------
+ 5:58:41.997 ------------------------------------
+ 5:58:41.997   ***  CE Loop took 4.9 (sec)...
+ 5:58:41.997 Idle Mode Active!
+ 5:58:41.997 ------------------------------------
+ 5:58:46.897 ------------------------------------
+ 5:58:46.897   ***  CE Loop took 4.9 (sec)...
+ 5:58:46.897 Idle Mode Active!
+ 5:58:46.897 ------------------------------------
+ 5:58:51.798 ------------------------------------
+ 5:58:51.798   ***  CE Loop took 4.9 (sec)...
+ 5:58:51.798 Idle Mode Active!
+ 5:58:51.798 ------------------------------------
+ 5:58:56.698 ------------------------------------
+ 5:58:56.698   ***  CE Loop took 4.9 (sec)...
+ 5:58:56.698 Idle Mode Active!
+ 5:58:56.698 ------------------------------------
+ 5:59:01.599 ------------------------------------
+ 5:59:01.599   ***  CE Loop took 4.9 (sec)...
+ 5:59:01.599 Idle Mode Active!
+ 5:59:01.599 ------------------------------------
+ 5:59:06.500 ------------------------------------
+ 5:59:06.500   ***  CE Loop took 4.9 (sec)...
+ 5:59:06.500 Idle Mode Active!

@@ -1,0 +1,43 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\admin\1\instance\crash_2023-03-06_02-19-39.log started at 06.03. 02:29:23
+
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:29:23
+[Object::GetMaxHealth] :: [Land_Wreck_sed01_aban2_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @GutZombies;@Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:29:50
+[Object::GetMaxHealth] :: [Land_Wreck_sed01_aban1_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @GutZombies;@Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:30:17
+[Object::GetMaxHealth] :: [Land_Wreck_hb01_aban1_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @GutZombies;@Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:31:11
+[Object::GetMaxHealth] :: [Land_Wreck_hb01_aban2_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @GutZombies;@Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:31:11
+[Object::GetMaxHealth] :: [Land_Wreck_Volha_Police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @GutZombies;@Basic_Map;@Basic_Territories;@Notifications;@TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  

@@ -1,0 +1,13 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\admin\1\instance\crash_2023-03-06_02-10-15.log started at 06.03. 02:10:27
+
+
+
+------------------------------------
+SERVER-EPSILON, 06.03 2023 02:10:27
+Can't compile mission init script'!
+
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c(49): Can't find variable 'SimpleNoticiation'
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @TraderPlus;@Server_Information_Panel;@Autorun_Mod;@VPPAdminTools;@CF; config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  

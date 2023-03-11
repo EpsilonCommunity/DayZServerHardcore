@@ -1,0 +1,10 @@
+---------------------------------------------
+ServerPanel log started at 03.03.2023 03:06:38
+
+03.03.2023 03:06:38 [ServerPanelLogger]: INFO: Will try to create ServerPanel log file in $profile:
+03.03.2023 03:06:38 [ServerPanelConfig]: Reading Server Config
+03.03.2023 03:06:38 [ServerPanelConfig]: ConfigRequest
+03.03.2023 03:09:14 [ServerPanelI]: Demon (AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) - Config sync
+03.03.2023 03:09:59 [ServerPanelI]: Demon (AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) - Player Stats sync
+03.03.2023 03:18:40 [ServerPanelI]: goof (AJk5kcQZDTuaz-cCbZ8GTKf_iBHCJgMbVw46_vFILMI=) - Config sync
+03.03.2023 03:19:12 [ServerPanelI]: Cappy (o5HWVdrZGjRLVWCRLeFPjlS7Bd5U2Iln-bmmqP_I_-I=) - Config sync

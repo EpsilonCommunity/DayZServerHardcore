@@ -1,0 +1,669 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\admin\1\instance\crash_2023-03-02_06-31-26.log started at 02.03. 06:31:56
+
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "CivilianSedan".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "CivilianSedan".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Hatchback_02".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Hatchback_02".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Hatchback_02_Black".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "OffroadHatchback".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "OffroadHatchback_Blue".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "OffroadHatchback_White".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "OffroadHatchback_Blue".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Sedan_02_Red".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Sedan_02".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Sedan_02_Grey".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered_Orange".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered_Blue".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered_Orange".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "CivilianSedan_Black".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "CivilianSedan_Black".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "CivilianSedan_Wine".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered_Orange".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Sedan_02_Grey".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Sedan_02_Red".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Hatchback_02".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:56
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered_Blue".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Offroad_02".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Hatchback_02".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered_Orange".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered_Blue".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Offroad_02".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Sedan_02_Grey".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "CivilianSedan".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Hatchback_02_Blue".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "CivilianSedan_Black".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Sedan_02".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "OffroadHatchback".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "CivilianSedan_Wine".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "OffroadHatchback".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "OffroadHatchback_White".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Hatchback_02_Black".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Hatchback_02_Black".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "OffroadHatchback".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Offroad_02".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Sedan_02_Grey".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 06:31:57
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "Truck_01_Covered_Orange".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 14:46:39
+[Object::GetMaxHealth] :: [Land_Wreck_sed01_aban2_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 14:47:06
+[Object::GetMaxHealth] :: [Land_Wreck_sed01_aban1_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 14:47:33
+[Object::GetMaxHealth] :: [Land_Wreck_hb01_aban2_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 14:47:34
+[Object::GetMaxHealth] :: [Land_Wreck_hb01_aban1_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 14:48:53
+[Object::GetMaxHealth] :: [Land_Wreck_Volha_Police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 02.03 2023 23:33:53
+[Object::GetMaxHealth] :: [Land_Wreck_sed01_aban2_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 03.03 2023 00:11:15
+NULL pointer to instance
+Class:      'AdminTools'
+Function: 'RepairVehicles'
+Stack trace:
+VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\admintools\admintools.c:173
+VPPAdminTools/3_Game/communityframework\rpc\rpcmanager.c:86
+VPPAdminTools/3_Game/communityframework\rpc\dayzgame.c:7
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 03.03 2023 00:14:15
+[Object::GetMaxHealth] :: [Land_Wreck_hb01_aban1_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 03.03 2023 00:24:27
+NULL pointer to instance
+Class:      'AdminTools'
+Function: 'RepairVehicles'
+Stack trace:
+VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\admintools\admintools.c:173
+VPPAdminTools/3_Game/communityframework\rpc\rpcmanager.c:86
+VPPAdminTools/3_Game/communityframework\rpc\dayzgame.c:7
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 03.03 2023 00:24:28
+NULL pointer to instance
+Class:      'AdminTools'
+Function: 'RepairVehicles'
+Stack trace:
+VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\admintools\admintools.c:173
+VPPAdminTools/3_Game/communityframework\rpc\rpcmanager.c:86
+VPPAdminTools/3_Game/communityframework\rpc\dayzgame.c:7
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 03.03 2023 00:52:25
+[Object::GetMaxHealth] :: [Land_Wreck_Volha_Police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
+
+
+------------------------------------
+SERVER-EPSILON, 03.03 2023 01:04:05
+[Object::GetMaxHealth] :: [Land_Wreck_sed01_aban1_police:0] :: No DamageSystemData or not initialized yet.
+
+Runtime mode
+CLI params: ip 192.168.1.90 port 2302 mod @Server_Information_Panel;@Autorun_mod;@CF;@VPPAdminTools;@BasicSpawnSelect;@ZenNotes;@ZenLeftovers;@ZenOpenCansRock;@ZenGunMoveSounds;@Zen's Fire Fuel Mod;@Zen's Firewood Piles;@Zen's Immersive Login;@Zen's Persistent Trees;@ZenCatchRain;@ZenCauseOfDeath;@EpsilonCommunity Armbands;@BaseBuildingItemStackandRepair;@BaseBuildingPlus;@Basic Map;@Basic Territories;@BBPItemPack;@BuildEverywhere;@BulletStacksPlusPlus;@Notifications;@SchanaModCompass;@SchanaModParty;@Barrel Fix-Carry Barrels Containing Items config serverdz.cfg bepath C:\TCAFiles\Users\admin\1\Battleye storage C:\TCAFiles\Users\admin\1\storage profiles C:\TCAFiles\Users\admin\1\instance autoinit  noFilePatching  
